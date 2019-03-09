@@ -1,0 +1,26 @@
+title: AI Inside Out
+description: The best AI news and resources curated by the best experts
+repository: insideout/ai
+baseurl: ""
+url: https://ai.insideout.app
+
+collections:
+  - subtopics
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /api/:categories/:year/:month/:day/:title/index.json
+      locale: en-us
+      isBreakingNews: false
+      isTopStory: false
+      deleted: false
+  - scope:
+      path: "api/*/*"
+    values:
+      permalink: /:path/index.json
+
+incremental: true

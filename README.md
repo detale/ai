@@ -1,1 +1,1 @@
-# ai
+# Artificial Intelligence (AI) Inside Out

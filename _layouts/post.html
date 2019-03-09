@@ -1,0 +1,9 @@
+{% case page.category -%}
+{% when "news" -%}
+{
+  "displayPublishedDateTime": {{ page.publishedDateTime | jsonify }},
+  "sourceHref": "{{ page.sourceHref }}",
+  "title": {{ page.title | jsonify }},
+  "body": {{ page.content | strip | jsonify }}
+}
+{% endcase -%}
