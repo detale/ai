@@ -3,7 +3,7 @@ layout: none
 ---
 {
     "value": [
-        {% assign news = site.posts | where_exp: "post", "post.topics contains 'AI in Autos' and post.category == 'news'" -%}
+        {% assign news = site.posts | where_exp: "post", "post.topics contains 'AI in Autos'" | where: "category", "news" -%}
         {% for post in news -%}
         {
             "title": {{ post.title | jsonify }},
