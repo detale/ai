@@ -10,8 +10,8 @@ provider:
   name: TechCrunch
   id: techcrunch
 
-tags:
-  - Healthcare
+topics:
+  - AI in Healthcare
 
 images:
   - url: /assets/images/2019/02/healthcare-by-2028-will-be-doctor-directed-patient-owned-and-powered-by-visual-technologies-1.jpg

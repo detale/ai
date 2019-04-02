@@ -17,9 +17,4 @@ images:
     quality: 85
     title: U.S. President Donald Trump
     attribution: Pete Marovich/Getty Images
-    focalRegion:
-      x1: 771
-      x2: 955
-      y1: 294
-      y2: 478
 ---

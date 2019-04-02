@@ -3,7 +3,7 @@ layout: none
 ---
 {
     "value": [
-        {% for topic in site.subtopics -%}
+        {% for topic in site.topics -%}
         {
             "name": {{ topic.name | jsonify }},
             "id": {{ topic._id | jsonify }},

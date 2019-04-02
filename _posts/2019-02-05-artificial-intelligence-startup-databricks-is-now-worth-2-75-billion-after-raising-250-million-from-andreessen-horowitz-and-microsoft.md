@@ -10,9 +10,7 @@ provider:
   name: Business Insider
   id: business-insider
 
-tags:
-  - Business
-  - Startups
+topics:
 
 images:
   - url: /assets/images/2019/02/artificial-intelligence-startup-databricks-is-now-worth-2-75-billion-after-raising-250-million-from-andreessen-horowitz-and-microsoft-1.jpg

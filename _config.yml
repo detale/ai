@@ -5,7 +5,7 @@ baseurl: ""
 url: https://ai.insideout.app
 
 collections:
-  - subtopics
+  - topics
 
 defaults:
   - scope:

@@ -10,8 +10,8 @@ provider:
   name: The Motley Fool
   id: themotleyfool
 
-tags:
-  - Autos
+topics:
+  - AI in Autos
 
 images:
   - url: /assets/images/2019/02/china-ai-is-booming-3-stocks-to-invest-in-1.jpg

@@ -10,8 +10,8 @@ provider:
   name: TechCrunch
   id: techcrunch
 
-tags:
-  - Autos
+topics:
+  - AI in Autos
 
 images:
   - url: /assets/images/2019/02/bmw-makes-interacting-with-you-car-s-ai-systems-more-natural-1.jpg

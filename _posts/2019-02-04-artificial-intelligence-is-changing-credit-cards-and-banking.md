@@ -10,8 +10,8 @@ provider:
   name: Bankrate
   id: bankrate
 
-tags:
-  - Financial Services
+topics:
+  - AI in Finance
 
 images:
   - url: /assets/images/2019/02/artificial-intelligence-is-changing-credit-cards-and-banking-1.jpg

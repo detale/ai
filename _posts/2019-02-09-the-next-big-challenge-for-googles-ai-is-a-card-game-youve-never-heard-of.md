@@ -10,7 +10,7 @@ provider:
   name: digitaltrends.com
   id: digitaltrends
 
-tags:
+topics:
   - DeepMind
 
 images:

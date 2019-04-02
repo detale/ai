@@ -1,5 +1,5 @@
 ---
-_id: ai#healthcare
+_id: healthcare
 name: AI in Healthcare
 image: https://ai.insideout.app/assets/images/ai-in-healthcare.jpg
 apis:

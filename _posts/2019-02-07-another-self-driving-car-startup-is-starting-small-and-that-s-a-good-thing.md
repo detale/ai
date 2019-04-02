@@ -10,8 +10,8 @@ provider:
   name: The Verge
   id: theverge
 
-tags:
-  - Autos
+topics:
+  - AI in Autos
 
 images:
   - url: /assets/images/2019/02/another-self-driving-car-startup-is-starting-small-and-that-s-a-good-thing-1.jpg

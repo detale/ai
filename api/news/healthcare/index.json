@@ -3,7 +3,7 @@ layout: none
 ---
 {
     "value": [
-        {% assign news = site.tags.Healthcare | where: "category", "news" -%}
+        {% assign news = site.posts | where_exp: "post", "post.topics contains 'AI in Healthcare' and post.category == 'news'" -%}
         {% for post in news -%}
         {
             "title": {{ post.title | jsonify }},
@@ -35,14 +35,6 @@ layout: none
                     "width": {{ image.width | default: 0 }},
                     "height": {{ image.height | default: 0 }},
                     "quality": {{ image.quality | default: 100 }},
-                    {% if image.focalRegion -%}
-                    "focalRegion": {
-                        "x1": {{ image.focalRegion.x1 | default: 0 }},
-                        "x2": {{ image.focalRegion.x2 | default: 0 }},
-                        "y1": {{ image.focalRegion.y1 | default: 0 }},
-                        "y2": {{ image.focalRegion.y2 | default: 0 }}
-                    },
-                    {% endif -%}
                     "url": "{{ image.url | absolute_url }}",
                     "attribution": {{ image.attribution | jsonify }},
                     "title": {{ image.title | jsonify }}
@@ -51,7 +43,7 @@ layout: none
             ],
             "locale": {{ post.locale | jsonify }},
             "categories": {{ post.categories | jsonify }},
-            "tags": {{ post.tags | jsonify }},
+            "topics": {{ post.topics | jsonify }},
             "isBreakingNews": {{ post.isBreakingNews }},
             "isTopStory": {{ post.isTopStory }}
         }{% unless forloop.last -%},{% endunless %}

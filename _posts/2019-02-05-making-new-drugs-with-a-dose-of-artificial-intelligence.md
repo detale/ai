@@ -10,7 +10,7 @@ provider:
   name: The New York Times
   id: nytimes
 
-tags:
+topics:
   - DeepMind
 
 images:
