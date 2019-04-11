@@ -4,7 +4,7 @@ title: "China AI Is Booming: 3 Stocks to Invest In"
 abstract: Think the U.S. dominates artificial intelligence sector? Baidu, Alibaba, and Tencent want to change that.
 publishedDateTime: 2019-02-06T15:00:00Z
 sourceUrl: https://www.fool.com/investing/2019/02/06/china-ai-stocks-invest-baidu-alibaba-tencent.aspx
-type: externallink
+type: article
 
 provider:
   name: The Motley Fool

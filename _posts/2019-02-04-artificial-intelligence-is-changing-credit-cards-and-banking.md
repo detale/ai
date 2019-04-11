@@ -4,7 +4,7 @@ title: "Artificial intelligence is changing credit cards and banking"
 abstract: Artificial intelligence (AI) and predictive analytics are shaping the future of banking by making it easier for banks and credit card issuers to determine what rewards consumers will want at any given [...]
 publishedDateTime: 2019-02-04T15:28:00Z
 sourceUrl: https://www.bankrate.com/credit-cards/artificial-intelligence-banking-credit-card-rewards/
-type: externallink
+type: article
 
 provider:
   name: Bankrate

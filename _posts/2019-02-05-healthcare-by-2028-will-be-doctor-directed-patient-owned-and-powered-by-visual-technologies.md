@@ -4,7 +4,7 @@ title: Healthcare by 2028 will be doctor-directed, patient-owned and powered by 
 abstract: Visual assessment is critical to healthcare -- whether that is a doctor peering down your throat as you say “ahhh” or an MRI of your brain.
 publishedDateTime: 2019-02-05T20:30:42Z
 sourceUrl: https://techcrunch.com/2019/02/05/healthcare-by-2028-will-be-doctor-directed-patient-owned-and-powered-by-visual-technologies/
-type: externallink
+type: article
 
 provider:
   name: TechCrunch

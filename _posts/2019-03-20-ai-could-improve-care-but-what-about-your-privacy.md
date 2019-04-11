@@ -4,7 +4,7 @@ title: AI Could Improve Care, But What About Your Privacy?
 abstract: If you think Facebook and Google invaded your privacy, imagine what hackers could do with a minute-to-minute log of your disease symptoms, behaviors, locations and even your appearance and conversations.
 publishedDateTime: 2019-03-20T13:55:38Z
 sourceUrl: https://www.newsweek.com/2019/04/05/personalized-health-care-artificial-intelligence-improve-life-cost-privacy-1368491.html
-type: externallink
+type: article
 
 provider:
   name: Newsweek

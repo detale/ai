@@ -4,7 +4,7 @@ title: Artificial intelligence startup Databricks is now worth $2.75 billion aft
 abstract: Machine learning startup Databricks closed $250 million from Andreessen Horowitz, Microsoft and more. CEO Ali Ghodsi explains how it grew so fast.
 publishedDateTime: 2019-02-05T14:06:37Z
 sourceUrl: https://www.businessinsider.com/databricks-2-billion-plus-valuation-funding-andreessen-horowitz-2019-2
-type: externallink
+type: article
 
 provider:
   name: Business Insider
