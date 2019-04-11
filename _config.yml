@@ -6,6 +6,7 @@ url: https://ai.insideout.app
 
 collections:
   - topics
+  - learn
 
 defaults:
   - scope:
@@ -18,6 +19,13 @@ defaults:
       isBreakingNews: false
       isTopStory: false
       deleted: false
+  - scope:
+      path: ""
+      type: learn
+      locale: en-us
+      deleted: false
+    values:
+      layout: learn
   - scope:
       path: "api/*/*"
     values:
