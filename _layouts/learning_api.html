@@ -1,12 +1,12 @@
 {
     "value": [
         {% if page.topic -%}
-            {% capture learn_where_exp %}item.topics contains '{{ page.topic }}'{% endcapture -%}
-            {% assign learn = site.learn | where_exp: "item", learn_where_exp -%}
+            {% capture learning_where_exp %}item.topics contains '{{ page.topic }}'{% endcapture -%}
+            {% assign learning = site.learning | where_exp: "item", learning_where_exp -%}
         {% else -%}
-            {% assign learn = site.learn -%}
+            {% assign learning = site.learning -%}
         {% endif -%}
-        {% for item in learn -%}
+        {% for item in learning -%}
         {
             "title": {{ item.title | jsonify }},
             "type": {{ item.type | jsonify }},
