@@ -10,11 +10,11 @@ layout: none
             {% if topic.image -%}
             "image": {{ topic.image | jsonify }},
             {% endif -%}
-            "apis": [
-                {% for api_hash in topic.apis -%}
+            "services": [
+                {% for service_hash in topic.services -%}
                 {
-                    "name": {{ api_hash[0] | jsonify }},
-                    "endpoint": {{ api_hash[1] | jsonify }}
+                    "name": {{ service_hash[0] | jsonify }},
+                    "endpoint": {{ service_hash[1] | jsonify }}
                 }{% unless forloop.last -%},{% endunless %}
                 {% endfor %}
             ]
