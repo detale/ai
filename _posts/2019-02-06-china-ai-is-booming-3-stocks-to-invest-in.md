@@ -11,6 +11,7 @@ provider:
   id: themotleyfool
 
 topics:
+  - AI
   - AI in Autos
 
 images:

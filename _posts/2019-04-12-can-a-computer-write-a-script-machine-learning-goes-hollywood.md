@@ -11,6 +11,7 @@ provider:
   id: latimes
 
 topics:
+  - AI
   - Machine Learning
 
 images:

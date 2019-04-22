@@ -11,6 +11,7 @@ provider:
   id: bankrate
 
 topics:
+  - AI
   - AI in Finance
 
 images:

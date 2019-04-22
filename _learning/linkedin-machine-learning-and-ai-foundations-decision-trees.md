@@ -14,6 +14,7 @@ level:
   - Beginner
 
 topics:
+  - AI
   - Machine Learning
 
 images:

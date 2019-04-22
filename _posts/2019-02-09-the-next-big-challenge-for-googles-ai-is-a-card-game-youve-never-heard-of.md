@@ -11,6 +11,7 @@ provider:
   id: digitaltrends
 
 topics:
+  - AI
   - DeepMind
 
 images:

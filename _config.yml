@@ -7,6 +7,7 @@ url: https://ai.insideout.app
 collections:
   - topics
   - learning
+  - influencers
 
 defaults:
   - scope:
@@ -27,8 +28,13 @@ defaults:
     values:
       layout: learning
   - scope:
+      path: ""
+      type: influencers
+      locale: en-us
+      deleted: false
+    values:
+      layout: influencer
+  - scope:
       path: "api/*/*"
     values:
       permalink: /:path/index.json
-
-incremental: true

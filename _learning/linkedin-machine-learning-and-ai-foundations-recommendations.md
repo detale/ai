@@ -14,6 +14,7 @@ level:
   - Intermediate
 
 topics:
+  - AI
   - Machine Learning
 
 images:

@@ -10,6 +10,9 @@ provider:
   name: Billboard
   id: billboard
 
+topics:
+  - AI
+
 images:
   - url: /assets/images/2019/02/trump-launching-artificial-intelligence-initiative-with-executive-order-1.jpg
     width: 1548

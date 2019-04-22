@@ -12,6 +12,9 @@ provider:
 level:
   - Beginner
 
+topics:
+  - AI
+
 images:
   - url: /assets/images/2017/11/linkedin-artificial-intelligence-foundations-thinking-machines-1.jpg
     width: 1200

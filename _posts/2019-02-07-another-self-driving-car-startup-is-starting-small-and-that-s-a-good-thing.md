@@ -11,6 +11,7 @@ provider:
   id: theverge
 
 topics:
+  - AI
   - AI in Autos
 
 images:

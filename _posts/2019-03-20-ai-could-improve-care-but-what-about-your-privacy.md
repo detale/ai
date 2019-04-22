@@ -11,6 +11,7 @@ provider:
   id: newsweek
 
 topics:
+  - AI
   - AI in Healthcare
 
 images:

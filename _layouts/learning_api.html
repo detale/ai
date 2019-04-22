@@ -1,11 +1,7 @@
 {
     "value": [
-        {% if page.topic -%}
-            {% capture learning_where_exp %}item.topics contains '{{ page.topic }}'{% endcapture -%}
-            {% assign learning = site.learning | where_exp: "item", learning_where_exp -%}
-        {% else -%}
-            {% assign learning = site.learning -%}
-        {% endif -%}
+        {% capture learning_where_exp %}item.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
+        {% assign learning = site.learning | where_exp: "item", learning_where_exp -%}
         {% for item in learning -%}
         {
             "title": {{ item.title | jsonify }},

@@ -1,10 +1,7 @@
 {
     "value": [
-        {% assign news = site.posts | where: "category", "news" -%}
-        {% if page.topic -%}
-            {% capture news_where_exp %}post.topics contains '{{ page.topic }}'{% endcapture -%}
-            {% assign news = news | where_exp: "post", news_where_exp -%}
-        {% endif -%}
+        {% capture news_where_exp %}post.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
+        {% assign news = site.posts | where: "category", "news" | where_exp: "post", news_where_exp -%}
         {% for post in news -%}
         {
             "title": {{ post.title | jsonify }},

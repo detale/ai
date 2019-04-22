@@ -11,6 +11,7 @@ provider:
   id: nytimes
 
 topics:
+  - AI
   - DeepMind
 
 images:

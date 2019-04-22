@@ -11,6 +11,7 @@ provider:
   id: techcrunch
 
 topics:
+  - AI
   - AI in Autos
 
 images:

@@ -11,6 +11,7 @@ provider:
   id: quartz
 
 topics:
+  - AI
   - Machine Learning
 
 images:
