@@ -1,0 +1,16 @@
+---
+name: Yoshua Bengio
+_id: scholar.yoshua-bengio
+bio: "Professor, U. Montreal (Computer Sc. & Op. Res.), Mila, CIFAR, CRM, IVADO, REPARTI, GRSNC"
+citations: 175562
+images:
+  - url: https://scholar.google.com/citations?view_op=medium_photo&user=kukA0LcAAAAJ&citpid=3
+    width: 210
+    height: 256
+    title: "Yoshua Bengio"
+
+topics:
+  - AI
+  - Machine Learning
+  - Deep Learning
+---
