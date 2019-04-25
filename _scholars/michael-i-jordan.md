@@ -1,6 +1,5 @@
 ---
 name: Michael I. Jordan
-_id: scholar.michael-i-jordan
 bio: "Professor of EECS and Professor of Statistics, University of California, Berkeley"
 citations: 152388
 images:

@@ -6,7 +6,7 @@
         {% for item in scholars -%}
         {
             "name": {{ item.name | jsonify }},
-            "id": "{{ item._id }}",
+            "id": "{{ item.id }}",
             "bio": {{ item.bio | strip_html | normalize_whitespace | strip | jsonify }},
             "citations": "{{ item.citations }}",
             "images": [

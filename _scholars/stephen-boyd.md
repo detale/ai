@@ -1,6 +1,5 @@
 ---
 name: Stephen Boyd
-_id: scholar.stephen-boyd
 bio: "Professor of Electrical Engineering, Computer Science, and Management Science, Stanford"
 citations: 151697
 images:

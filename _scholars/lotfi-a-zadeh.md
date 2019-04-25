@@ -1,6 +1,5 @@
 ---
 name: Lotfi A. Zadeh
-_id: scholar.lotfi-a-zadeh
 bio: "Professor Emeritus, EECS, UC Berkeley"
 citations: 219270
 images:

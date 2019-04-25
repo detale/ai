@@ -1,6 +1,5 @@
 ---
 name: Geoffrey Hinton
-_id: scholar.geoffrey-hinton
 bio: "Emeritus Prof. Comp Sci, U.Toronto & Engineering Fellow, Google"
 citations: 273310
 images:

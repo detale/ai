@@ -1,6 +1,5 @@
 ---
 name: Yoshua Bengio
-_id: scholar.yoshua-bengio
 bio: "Professor, U. Montreal (Computer Sc. & Op. Res.), Mila, CIFAR, CRM, IVADO, REPARTI, GRSNC"
 citations: 175562
 images:
