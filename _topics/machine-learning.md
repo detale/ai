@@ -5,4 +5,5 @@ image: https://ai.insideout.app/assets/images/machine-learning.jpg
 services:
   news: https://ai.insideout.app/api/news/machine-learning/
   learning: https://ai.insideout.app/api/learning/machine-learning/
+  scholars: https://ai.insideout.app/api/scholars/machine-learning/
 ---
