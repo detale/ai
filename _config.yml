@@ -7,6 +7,7 @@ url: https://ai.insideout.app
 collections:
   - topics
   - learning
+  - applications
   - scholars
   - influencers
 
@@ -24,24 +25,31 @@ defaults:
   - scope:
       path: ""
       type: learning
-      locale: en-us
-      deleted: false
     values:
       layout: learning
+      locale: en-us
+      deleted: false
+  - scope:
+      path: ""
+      type: applications
+    values:
+      layout: application
+      locale: en-us
+      deleted: false
   - scope:
       path: ""
       type: scholars
-      locale: en-us
-      deleted: false
     values:
       layout: scholar
+      locale: en-us
+      deleted: false
   - scope:
       path: ""
       type: influencers
-      locale: en-us
-      deleted: false
     values:
       layout: influencer
+      locale: en-us
+      deleted: false
   - scope:
       path: "api/*/*"
     values:
