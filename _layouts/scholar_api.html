@@ -8,6 +8,7 @@
             "name": {{ item.name | jsonify }},
             "id": "{{ item.id }}",
             "bio": {{ item.bio | strip_html | normalize_whitespace | strip | jsonify }},
+            "sourceUrl": "{{ item.sourceUrl | absolute_url }}",
             "citations": "{{ item.citations }}",
             "images": [
                 {% for image in item.images -%}
