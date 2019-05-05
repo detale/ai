@@ -1,0 +1,7 @@
+---
+_id: microsoft-ai
+name: Microsoft AI
+image: https://ai.insideout.app/assets/images/microsoft-ai.jpg
+services:
+  news: https://ai.insideout.app/api/news/microsoft-ai/
+---
