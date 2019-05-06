@@ -13,6 +13,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: /assets/images/2019/05/microsoft-makes-a-push-to-simplify-machine-learning-1.jpg
