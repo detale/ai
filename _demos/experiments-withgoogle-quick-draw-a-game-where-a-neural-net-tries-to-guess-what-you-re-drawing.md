@@ -2,6 +2,7 @@
 title: Quick, Draw! - a game where a neural net tries to guess what you're drawing.
 abstract: This is a game built with machine learning. You draw, and a neural network tries to guess what you're drawing. Of course, it doesn’t always work. But the more you play with it, the more it will learn. It's just one example of how you can use machine learning in fun ways.
 sourceUrl: https://experiments.withgoogle.com/quick-draw
+type: article
 
 provider:
   name: Experiments with Google
