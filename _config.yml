@@ -8,6 +8,7 @@ collections:
   - topics
   - learning
   - demos
+  - apis
   - scholars
   - influencers
 
@@ -34,6 +35,13 @@ defaults:
       type: demos
     values:
       layout: demo
+      locale: en-us
+      deleted: false
+  - scope:
+      path: ""
+      type: apis
+    values:
+      layout: api
       locale: en-us
       deleted: false
   - scope:
