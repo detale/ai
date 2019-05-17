@@ -18,5 +18,5 @@ images:
   - url: https://lh3.googleusercontent.com/sB4dNVa68fI7pzThjLBOQyUTnzr8LSRL_is7YF62eU-fhMA_sylZFTCoRYsV9pHDO83m8U5MDEnD-xpRma7H21VKtPkTrGBkag=s600
     width: 435
     height: 435
-    title: "Quick, Draw! - a game where a neural net tries to guess what you're drawing."
+    title: "Handwriting with a Neural Net"
 ---
