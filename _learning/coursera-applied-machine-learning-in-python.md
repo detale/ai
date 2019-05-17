@@ -5,7 +5,7 @@ sourceUrl: https://www.coursera.org/learn/python-machine-learning
 type: course
 
 instructors:
-  - Andrew Ng
+  - Kevyn Collins-Thompson
 
 provider:
   name: Coursera
