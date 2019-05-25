@@ -4,6 +4,8 @@ title: "This AI-generated Joe Rogan fake has to be heard to be believed"
 abstract: The most realistic AI voice clone we’ve heard
 publishedDateTime: 2019-05-17T11:28:13Z
 sourceUrl: https://www.theverge.com/2019/5/17/18629024/joe-rogan-ai-fake-voice-clone-deepfake-dessa
+ampUrl: https://www.theverge.com/platform/amp/2019/5/17/18629024/joe-rogan-ai-fake-voice-clone-deepfake-dessa
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/5/17/18629024/joe-rogan-ai-fake-voice-clone-deepfake-dessa
 type: article
 
 provider:

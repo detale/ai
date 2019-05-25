@@ -8,6 +8,8 @@
             "type": {{ post.type | jsonify }},
             "api": "{{ post.url | absolute_url }}",
             "sourceUrl": "{{ post.sourceUrl | absolute_url }}",
+            "ampUrl": "{{ post.ampUrl | absolute_url }}",
+            "cdnAmpUrl": "{{ post.cdnAmpUrl | absolute_url }}",
             "abstract": {{ post.abstract | strip_html | normalize_whitespace | strip | jsonify }},
             "publishedDateTime": {{ post.publishedDateTime | jsonify }},
             "updatedDateTime": {{ post.updatedDateTime | jsonify }},

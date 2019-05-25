@@ -4,6 +4,8 @@ title: "This AI-powered bot is learning how to tweet like Ethereum’s Vitalik B
 abstract: "Meet Vitalik Boterin, a new form of artificial intelligence that mimics Ethereum co-founder Vitalik Buterin with alarming accuracy."
 publishedDateTime: 2019-05-22T17:00:53Z
 sourceUrl: https://thenextweb.com/hardfork/2019/05/22/ethereum-vitalik-buterin-artificial-intelligence/
+ampUrl: https://thenextweb.com/hardfork/2019/05/22/ethereum-vitalik-buterin-artificial-intelligence/amp/
+cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2019/05/22/ethereum-vitalik-buterin-artificial-intelligence/amp/
 type: article
 
 provider:

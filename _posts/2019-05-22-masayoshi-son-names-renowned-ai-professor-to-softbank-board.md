@@ -4,6 +4,8 @@ title: "Masayoshi Son Names Renowned AI Professor to SoftBank Board"
 abstract: "Masayoshi Son can’t stop talking about how artificial intelligence is going to change the world. Now SoftBank Group Corp. will finally have a board member who is an expert on the subject."
 publishedDateTime: 2019-05-22T01:00:24Z
 sourceUrl: https://www.bloomberg.com/news/articles/2019-05-21/masayoshi-son-to-add-renowned-ai-professor-to-softbank-board
+ampUrl: https://www.bloomberg.com/amp/news/articles/2019-05-21/masayoshi-son-to-add-renowned-ai-professor-to-softbank-board
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-05-21/masayoshi-son-to-add-renowned-ai-professor-to-softbank-board
 type: article
 
 provider:

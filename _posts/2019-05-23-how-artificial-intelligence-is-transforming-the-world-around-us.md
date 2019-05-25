@@ -4,6 +4,8 @@ title: "How Artificial Intelligence is Transforming the World Around Us"
 abstract: Artificial intelligence is almost magical in the number of ways it is making our lives easier, more efficient and more effective. Here's a look at a few of them.
 publishedDateTime: 2019-05-23T00:00:16Z
 sourceUrl: https://www.fool.sg/2019/05/23/how-artificial-intelligence-is-transforming-the-world-around-us/
+ampUrl:
+cdnAmpUrl:
 type: article
 
 provider:
