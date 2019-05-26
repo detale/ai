@@ -7,8 +7,11 @@ layout: none
         {
             "name": {{ topic.name | jsonify }},
             "id": {{ topic._id | jsonify }},
-            {% if topic.image -%}
-            "image": {{ topic.image | jsonify }},
+            {% if topic.parent -%}
+            "parent": {{ topic.parent | jsonify }},
+            {% endif -%}
+            {% if topic.images -%}
+            "images": {{ topic.images | jsonify }},
             {% endif -%}
             "services": [
                 {% for service_hash in topic.services -%}

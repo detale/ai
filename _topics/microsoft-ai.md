@@ -1,7 +1,10 @@
 ---
 _id: microsoft-ai
 name: Microsoft AI
-image: https://ai.insideout.app/assets/images/microsoft-ai.jpg
+parent: AI
+images:
+  - https://ai.insideout.app/assets/images/microsoft-ai.jpg
+  - https://ai.insideout.app/assets/images/microsoft-ai-2.jpg
 services:
   news: https://ai.insideout.app/api/news/microsoft-ai/
   learning: https://ai.insideout.app/api/learning/microsoft-ai/
