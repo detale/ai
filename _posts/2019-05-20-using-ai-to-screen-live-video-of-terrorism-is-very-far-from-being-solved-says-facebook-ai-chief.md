@@ -17,4 +17,9 @@ topics:
   - Facebook AI
 
 images:
+  - url: https://cdn.vox-cdn.com/thumbor/fCQ9GXE-_zco3CWx6OhIqCwyF8g=/0x0:2040x1360/920x613/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/63864964/acastro_180828_1777_facebook_0001.0.0.jpg
+    width: 1820
+    height: 1213
+    title: "Using AI to screen live video of terrorism is ‘very far from being solved,’ says Facebook AI chief"
+    attribution: The Verge
 ---

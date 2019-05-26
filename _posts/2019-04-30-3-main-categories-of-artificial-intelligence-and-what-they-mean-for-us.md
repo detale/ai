@@ -14,10 +14,9 @@ topics:
   - AI
 
 images:
-  - url: /assets/images/2019/04/3-main-categories-of-artificial-intelligence-and-what-they-mean-for-us-1.jpg
+  - url: https://44u8552epjw3rivfs1yfikr1-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/Artificial-Intelligence-robot-hand.jpg
     width: 479
     height: 359
-    quality: 89
     title: "3 Main Categories of Artificial Intelligence and What They Mean for Us"
     attribution: Provided by The Motley Fool, Inc
 ---

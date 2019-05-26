@@ -14,10 +14,9 @@ topics:
   - AI
 
 images:
-  - url: /assets/images/2019/05/will-artificial-intelligence-take-over-our-jobs-1.jpg
+  - url: https://44u8552epjw3rivfs1yfikr1-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/Robot-AI-sign.jpg
     width: 509
     height: 339
-    quality: 89
-    title: "Will Artificial Intelligence Take Over Our Jobs?"
+    title: "AI big letters with robot standing in front"
     attribution: Provided by The Motley Fool, Inc
 ---

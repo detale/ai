@@ -15,10 +15,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: /assets/images/2019/02/china-ai-is-booming-3-stocks-to-invest-in-1.jpg
-    width: 2000
-    height: 1127
-    quality: 97
+  - url: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F509897%2Fgettyimages-899305016.jpg&w=700&op=resize
+    width: 700
+    height: 394
     title: Computer circuits that form the image of a brain.
     attribution: Getty Images
 ---
