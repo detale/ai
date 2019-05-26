@@ -8,8 +8,12 @@
             "type": {{ post.type | jsonify }},
             "api": "{{ post.url | absolute_url }}",
             "sourceUrl": "{{ post.sourceUrl | absolute_url }}",
-            "ampUrl": "{{ post.ampUrl | default: "" | absolute_url }}",
+            {% if post.ampUrl -%}
+            "ampUrl": "{{ post.ampUrl | absolute_url }}",
+            {% endif -%}
+            {% if post.cdnAmpUrl -%}
             "cdnAmpUrl": "{{ post.cdnAmpUrl | default: "" | absolute_url }}",
+            {% endif -%}
             "abstract": {{ post.abstract | strip_html | normalize_whitespace | strip | jsonify }},
             "publishedDateTime": {{ post.publishedDateTime | jsonify }},
             "updatedDateTime": {{ post.updatedDateTime | jsonify }},
