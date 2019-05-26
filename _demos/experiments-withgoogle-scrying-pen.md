@@ -1,6 +1,6 @@
 ---
 title: Scrying Pen - A realtime implementation of SketchRNN which predicts future strokes while you draw
-abstract: "Based on SketchRNN, this pen's ink stretches backwards into the past and forwards into possible futures. The two sides make a strange loop: the future ink influences how you draw, which in turn becomes the new "past" ink influencing further future ink. Let it guide your hand, or not, while you draw. Enjoy the gentle interplay between your volition and the machine's."
+abstract: "Based on SketchRNN, this pen's ink stretches backwards into the past and forwards into possible futures. The two sides make a strange loop: the future ink influences how you draw, which in turn becomes the new \"past\" ink influencing further future ink. Let it guide your hand, or not, while you draw. Enjoy the gentle interplay between your volition and the machine's."
 sourceUrl: https://experiments.withgoogle.com/scrying-pen
 type: article
 
