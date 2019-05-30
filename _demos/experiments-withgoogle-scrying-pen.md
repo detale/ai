@@ -15,8 +15,8 @@ topics:
   - Google AI
 
 images:
-  - url: https://lh3.googleusercontent.com/jBODr1sbIoPGzIMBTDXyBnrx-eru4AnMRMCqqTPPKvKrPCGIXf_7SRBJoAj8WzPqq0BULP8HHuP5ph4ki7QqU3YYl4ZQjNU5Zg=s600
-    width: 460
-    height: 460
-    title: "Quick, Draw! - a game where a neural net tries to guess what you're drawing."
+  - url: https://lh3.googleusercontent.com/EFm3Hyf6LbwCO44y6o31VaYnJKUcWxkPTUTziYd1z4nJx2piX9t7fsW9yKHP7Z4axHdnYniuclDStO1btSynaKy3wnasbrE=s600
+    width: 512
+    height: 512
+    title: "Scrying Pen - A realtime implementation of SketchRNN which predicts future strokes while you draw"
 ---
