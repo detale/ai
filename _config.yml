@@ -38,13 +38,14 @@ favicon:
 # Link to the privacy policy
 privacy_policy_link:
 
+jquery_version: "1.12.4"
 
 #----------------------------------------------------------------------------------
 # Theme Settings
 #----------------------------------------------------------------------------------
 themes:
   # The active theme must exist in the themes folder.
-  active: insideout
+  active: rapp
 
   minima:
     footer:
@@ -472,7 +473,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-relative-links # Convert relative links to md files to their rendered equivalents
   - jemoji # Enable Emoji
 

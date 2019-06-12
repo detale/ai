@@ -1,0 +1,9 @@
+{% comment -%}---------------------------------------------------------------------------
+This file allows theme creators to offer theme-specific functions or overwrite any of the
+system functions.  The function parameters can be accessed through include.params object.
+------------------------------------------------------------------------{% endcomment -%}
+
+{% case include.function -%}
+
+{%- else -%}<N/A>
+{%- endcase -%}

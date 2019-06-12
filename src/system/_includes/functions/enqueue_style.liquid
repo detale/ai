@@ -19,6 +19,7 @@ Parameters:
         {% assign ENQUEUED_STYLES = ENQUEUED_STYLES | push: "bootstrap" -%}
         {% case include.params.major_version -%}
             {% when "3" -%}{% assign bootstrap_version = "3.3.7" -%}
+            {% when "4" -%}{% assign bootstrap_version = "4.0.0" -%}
             {% else -%}{% assign bootstrap_version = "3.3.7" -%}
         {% endcase -%}
         {% if jekyll.environment == 'development' -%}
@@ -31,7 +32,14 @@ Parameters:
     {% when "font-awesome" -%}
     {% unless ENQUEUED_STYLES contains "font-awesome" -%}
         {% assign ENQUEUED_STYLES = ENQUEUED_STYLES | push: "font-awesome" -%}
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        {% case include.params.major_version -%}
+            {% when "4" -%}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+            {% when "5" -%}
+<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+            {% else -%}
+<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+        {%- endcase -%}
     {% endunless -%}
 
 {% endcase -%}

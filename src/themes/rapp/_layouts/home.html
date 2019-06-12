@@ -1,0 +1,31 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang='{{ CURRENT_LOCALE }}' class="no-js">
+<!--<![endif]-->
+
+    <head>
+        {% include jify file="_includes/head.html" mode="inclusive" indent_level=2 %}
+        <!-- begin layout head -->
+        {% include jify function="enqueue_meta_tag" for="site_verification" indent_level=2 %}
+        <!-- end layout head -->
+    </head>
+    <body data-spy="scroll" data-target=".navbar" data-offset="60">
+        {% include jify file="_includes/header.html" indent_level=2 %}
+        <main class="page-content" aria-label="Content">
+            <div class="wrapper">
+                <div class="home">
+                    {% if page.title -%}
+                    <h1 class="page-heading">{{ page.title }}</h1>
+                    {% endif -%}
+
+                    {% include jify function="render_content" content=content indent_level=5 %}
+                </div>
+            </div>
+        </main>
+        {% include jify file="_includes/footer.html" indent_level=2 %}
+        {% include jify file="_includes/foot.html" mode="inclusive" indent_level=2 %}
+    </body>
+</html>

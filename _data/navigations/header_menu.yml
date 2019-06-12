@@ -1,13 +1,8 @@
-- title: "Parent Page"
-  url: /parent-page/
-  description: "The Parent Page"
-  target: ""
-  attr_title: "Parent Page"
-  classes: ""
-  children:
-    - title: "Sub-page"
-      url: /sub-page/
-- title: "About"
-  url: /about/
-- title: "Elements"
-  url: /2018/04/29/elements/
+- title: "home"
+  url: "#home"
+- title: "newsletters"
+  url: "#newsletters"
+- title: "services"
+  url: "#services"
+- title: "screenshot"
+  url: "#screenshot"

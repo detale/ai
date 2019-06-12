@@ -13,7 +13,7 @@ Parameters:
                      - "webcomponents"
                      - "search"
                      - "analytics"
-    
+
 ------------------------------------------------------------------------{% endcomment -%}
 
 {% case include.params.for -%}
@@ -31,7 +31,7 @@ Parameters:
             {% when "3" -%}{% assign jquery_version = "3.3.1" -%}
             {% when "2" -%}{% assign jquery_version = "2.2.4" -%}
             {% when "1" -%}{% assign jquery_version = "1.12.4" -%}
-            {% else -%}{% assign jquery_version = "3.3.1" -%}
+            {% else -%}{% assign jquery_version = site.jquery_version | default: "3.3.1" -%}
         {% endcase -%}
         {% capture jquery_dist -%}
             <script src="{{ SYSTEM_DIRECTORY_URL }}/lib/jquery/{{ jquery_version }}/dist/jquery.js"></script>
@@ -50,6 +50,7 @@ Parameters:
         {% assign ENQUEUED_SCRIPTS = ENQUEUED_SCRIPTS | push: "bootstrap" -%}
         {% case include.params.major_version -%}
             {% when "3" -%}{% assign bootstrap_version = "3.3.7" -%}
+            {% when "4" -%}{% assign bootstrap_version = "4.0.0" -%}
             {% else -%}{% assign bootstrap_version = "3.3.7" -%}
         {% endcase -%}
         {% capture bootstrap_dist -%}

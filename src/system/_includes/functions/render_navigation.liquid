@@ -4,53 +4,53 @@ Function: render_navigation
 Description: Displays a navigation menu, tree or list
 
 Parameters:
-    * format                        (string) - Display format of the navigation.  It can be one of 
-                                               these values: tree / list / menu. 
+    * format                        (string) - Display format of the navigation.  It can be one of
+                                               these values: tree / list / menu.
     * nav                           (string) - the name of the navigation
-    * locale                        (string) - Locale of the navigation for multilingual site. 
+    * locale                        (string) - Locale of the navigation for multilingual site.
                                                Default: $locale
-    * nav_id                        (string) - The ID that is applied to the ul element which forms 
-                                               the navigation. 
-    * nav_class                     (string) - CSS class to use for the top-level ul element which 
-                                               forms the navigation. Default: "menu_bar" for menu nav, 
-                                               "tree" for tree nav, "list" for list nav. 
-    * expand_all_on_load            (bool)   - The flag indicates whether all navigation items are 
+    * nav_id                        (string) - The ID that is applied to the ul element which forms
+                                               the navigation.
+    * nav_class                     (string) - CSS class to use for the top-level ul element which
+                                               forms the navigation. Default: "menu_bar" for menu nav,
+                                               "tree" for tree nav, "list" for list nav.
+    * expand_all_on_load            (bool)   - The flag indicates whether all navigation items are
                                                expanded or not when loaded.  Default: false.
-    * child_nav_class               (string) - CSS class that is applied to the ul elements other 
+    * child_nav_class               (string) - CSS class that is applied to the ul elements other
                                                than the top-level ul element.  Default: 'sub-{format}'
-    * child_nav_expanded_class      (string) - CSS class that is applied to expanded navigation 
+    * child_nav_expanded_class      (string) - CSS class that is applied to expanded navigation
                                                items. Default: expanded.
     * child_nav_collapsed_class     (string) - CSS class that is applied to collapsed navigation
                                                items. Default: collapsed.
-    * depth                         (int)    - How many levels of the hierarchy are to be included.  
+    * depth                         (int)    - How many levels of the hierarchy are to be included.
                                                Default 5.
-    * container                     (string) - Whether to wrap the ul, and what to wrap it with. 
-                                               Default: 'div'.  If container = "", no container 
-                                               will wrap the ul element. 
-    * container_id                  (string) - The ID that is applied to the container. 
-    * container_class               (string) - CSS class that is applied to the container. 
-    * item_class                    (string) - CSS class that is applied to each navigation item 
+    * container                     (string) - Whether to wrap the ul, and what to wrap it with.
+                                               Default: 'div'.  If container = "", no container
+                                               will wrap the ul element.
+    * container_id                  (string) - The ID that is applied to the container.
+    * container_class               (string) - CSS class that is applied to the container.
+    * item_class                    (string) - CSS class that is applied to each navigation item
                                                (li element). Default: '{format}-item'.
-    * current_item_class            (string) - Additional CSS class that is applied to the current 
+    * current_item_class            (string) - Additional CSS class that is applied to the current
                                                navigation item (li element).  Default: current-item
-    * current_item_ancestor_class   (string) - Additional CSS class that is applied to the ancestors 
-                                               of the current navigation item (li element).  
+    * current_item_ancestor_class   (string) - Additional CSS class that is applied to the ancestors
+                                               of the current navigation item (li element).
                                                Default: current-item-ancestor
-    * item_has_children_class       (string) - Additional CSS class that is applied to the navigation 
-                                               item (li element) containing children. 
+    * item_has_children_class       (string) - Additional CSS class that is applied to the navigation
+                                               item (li element) containing children.
                                                Default: item-has-children
-    * link_class                    (string) - CSS class that is applied to each link in navigation 
+    * link_class                    (string) - CSS class that is applied to each link in navigation
                                                item (a element).  Default: '{format}-item-link'
-    * current_link_class            (string) - Additional CSS class that is applied to the link of 
-                                               the current navigation item (a element). 
+    * current_link_class            (string) - Additional CSS class that is applied to the link of
+                                               the current navigation item (a element).
                                                Default: current-link
-    * current_link_ancestor_class   (string) - Additional CSS class that is applied to the ancestor 
-                                               links of the current navigation item (a element). 
+    * current_link_ancestor_class   (string) - Additional CSS class that is applied to the ancestor
+                                               links of the current navigation item (a element).
                                                Default: current-link-ancestor
     * before_link                   (string) - Text before the link markup.
     * after_link                    (string) - Text after the link markup.
-    * render_link_function          (string) - Filter the link display, which includes `before_link`, 
-                                               the opening `<a>`, the nav item's title, the closing 
+    * render_link_function          (string) - Filter the link display, which includes `before_link`,
+                                               the opening `<a>`, the nav item's title, the closing
                                                `</a>`, and `after_link`.
     * before_link_text              (string) - Text before the link text (nav item title).
     * after_link_text               (string) - Text after the link text (nav item title).
@@ -72,7 +72,7 @@ Output: The resulting HTML that renders the menu
     {% endif -%}
 
     {% if root_items -%}
-    
+
     {% comment -%}Set up the default parameters{% endcomment -%}
     {% assign default_nav_id = "nav-" | append: UNIQUE_ID -%}
     {% assign nav_id = include.params.nav_id | default: default_nav_id -%}
@@ -127,7 +127,7 @@ Output: The resulting HTML that renders the menu
     {% assign current_item_class = include.params.current_item_class | default: "current-item" -%}
     {% assign current_item_ancestor_class = include.params.current_item_ancestor_class | default: "current-item-ancestor" -%}
     {% assign default_link_class = include.params.format | append: "-item-link" -%}
-    {% assign link_class = include.param.link_class | default: default_link_class -%}
+    {% assign link_class = include.params.link_class | default: default_link_class -%}
     {% assign current_link_class = include.params.current_link_class | default: "current-link" -%}
     {% assign current_link_ancestor_class = include.params.current_link_ancestor_class | default: "current-link-ancestor" -%}
     {% assign before_link = include.params.before_link -%}
@@ -140,7 +140,7 @@ Output: The resulting HTML that renders the menu
     {% unless include.params.container == '' -%}
 <{{ include.params.container | default: "div" }}{% if include.params.container_class %} class="{{ include.params.container_class }}"{% endif %}{% if include.params.container_id %} id="{{ include.params.container_id }}"{% endif %}>
     {% endunless -%}
-    
+
     <ul role="{{ nav_role }}" class="{{ include.params.nav_class | default: "nav" }}" id="{{ nav_id }}">
         {% assign remaining_depth = include.params.depth | default: 5 -%}
         {% include jify function="render_navigation" items=root_items depth=remaining_depth format=include.params.format %}
@@ -159,7 +159,7 @@ Output: The resulting HTML that renders the menu
         '{{ current_item_class }}',  // current nav item class
         '{{ current_item_ancestor_class }}',  // current nav item ancestor class
         '{{ link_class }}',  // nav item link <a> class
-        '{{ current_link_class }}',  // current link class 
+        '{{ current_link_class }}',  // current link class
         '{{ current_link_ancestor_class }}',  // current link ancestor class
         '{{ child_nav_class }}',  // child nav <ul> class
         '{{ child_nav_expanded_class }}',  // child nav expanded class

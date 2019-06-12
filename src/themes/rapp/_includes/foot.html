@@ -1,0 +1,28 @@
+{% comment -%}---------------------------------------------------------------------------
+Always have {% include jify file="_includes/foot.html" mode="inclusive" %} just before
+the closing </body> tag of your layout.  You generally use this partial to reference
+JavaScript files.
+------------------------------------------------------------------------{% endcomment -%}
+
+<!--jquery-->
+{% include jify function="enqueue_script" for="jquery" major_version="1" %}
+<!--bootstrap v4 js-->
+{% include jify function="enqueue_script" for="bootstrap" major_version="4" %}
+<!--popper js-->
+<script src="{{ THEME_DIRECTORY_URL }}/js/vendor/popper.min.js"></script>
+<!--aos js-->
+<script src="{{ THEME_DIRECTORY_URL }}/js/vendor/aos.js"></script>
+<!--owl carousel -->
+<script src="{{ THEME_DIRECTORY_URL }}/js/vendor/owl-carousel.js"></script>
+<!--counter js-->
+<script src="{{ THEME_DIRECTORY_URL }}/js/vendor/counter.js"></script>
+<!--easing js-->
+<script src="{{ THEME_DIRECTORY_URL }}/js/vendor/easing.js"></script>
+<!--ajax contact-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js" integrity="sha256-dHf/YjH1A4tewEsKUSmNnV05DDbfGN3g7NMq86xgGh8=" crossorigin="anonymous"></script>
+<script src="{{ THEME_DIRECTORY_URL }}/js/contact.js"></script>
+<!--maps-->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCuoVRm6rPCdR1c655zViYGonUKpe1wRUs&callback=initMap"
+async defer></script>
+<!--main script-->
+<script src="{{ THEME_DIRECTORY_URL }}/js/main.js"></script>

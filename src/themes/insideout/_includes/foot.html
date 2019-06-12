@@ -1,8 +1,0 @@
-{% comment -%}---------------------------------------------------------------------------
-Always have {% include jify file="_includes/foot.html" mode="inclusive" %} just before 
-the closing </body> tag of your layout.  You generally use this partial to reference 
-JavaScript files.
-------------------------------------------------------------------------{% endcomment -%}
-
-<script src="{{ THEME_DIRECTORY_URL }}/js/scale.fix.js"></script>
-{% include jify function="enqueue_script" for="search" %}
