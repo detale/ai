@@ -1,0 +1,41 @@
+{% comment -%}---------------------------------------------------------------------------
+Function: enqueue_meta_tag
+
+Description: Enqueue meta tag in the HTML head for favicon, site verification SEO or 
+    other custom purposes.
+
+Usage: 
+    {% include jify function="enqueue_meta_tag" for="site_verification" -%}
+
+Parameters:
+    * for (string)   : can be "favicon", "site_verification", "seo", or anything else 
+                       (custom meta tag)
+------------------------------------------------------------------------{% endcomment -%}
+
+{% case include.params.for -%}
+    {% when "favicon" -%}
+    {% assign favicon_url = site.favicon | default: "/favicon.ico" -%}
+<!-- favicon -->
+<link rel="icon" type="image/x-icon" href="{{ favicon_url }}">
+<meta name="msapplication-TileImage" content="{{ favicon_url }}">
+<link rel="apple-touch-icon" type="image/x-icon" href="{{ favicon_url }}">
+
+    {% when "site_verification" -%}
+    {% for plugin_hash in site.site_verification -%}
+        {% assign site_verification_plugin_name = plugin_hash[0] -%}
+        {% assign site_verification_plugin = plugin_hash[1] -%}
+        {% if site_verification_plugin.enabled -%}
+            {% include jify function="load_plugin" plugin=site_verification_plugin_name category="site_verification" -%}
+        {%- endif -%}
+    {% endfor -%}
+
+    {% when "seo" -%}
+    {% for plugin_hash in site.seo -%}
+        {% assign seo_plugin_name = plugin_hash[0] -%}
+        {% assign seo_plugin = plugin_hash[1] -%}
+        {% if seo_plugin.enabled -%}
+            {% include jify function="load_plugin" plugin=seo_plugin_name category="seo" -%}
+        {%- endif -%}
+    {% endfor -%}
+
+{% endcase -%}

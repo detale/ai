@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "noEmitHelpers": true,
+		"lib": [
+			"dom",
+			"es2017"
+		],
+		"forceConsistentCasingInFileNames": true,
+		"target": "es5",
+		"module": "es6",
+		"moduleResolution": "node",
+		"removeComments": true
+	}
+}

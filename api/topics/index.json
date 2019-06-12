@@ -3,7 +3,8 @@ layout: none
 ---
 {
     "value": [
-        {% for topic in site.topics -%}
+        {% include jify function="get_terms" taxonomy="topic" -%}
+        {% for topic in terms -%}
         {
             "name": {{ topic.name | jsonify }},
             "id": {{ topic._id | jsonify }},

@@ -1,0 +1,19 @@
+{
+  "name": "jify.js",
+  "version": "1.0.2",
+  "description": "jify system javascript library",
+  "main": "jify.js",
+  "dependencies": {
+    "custom-event-polyfill": "^1.0.6"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.5",
+    "rollup-plugin-typescript2": "^0.16.1",
+    "typescript": "^3.0.1"
+  },
+  "scripts": {
+    "build-jify.js": "rollup -c"
+  },
+  "author": "Jify",
+  "license": "ISC"
+}

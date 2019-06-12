@@ -1,0 +1,12 @@
+{% comment -%}---------------------------------------------------------------------------
+This file allows you to offer custom functions or overwrite any of the theme or system 
+functions.   The function parameters can be accessed through include.params object.
+------------------------------------------------------------------------{% endcomment -%}
+
+{% case include.function -%}
+
+{% when "<function name>" -%}
+<function-body>
+
+{%- else -%}<N/A>
+{%- endcase -%}

@@ -1,64 +1,504 @@
+#----------------------------------------------------------------------------------
+# Site Settings
+#----------------------------------------------------------------------------------
+
+# Title of your site
 title: AI Inside Out
-description: The best AI news and resources curated by the best experts
-repository: insideout/ai
-baseurl: ""
+
+# Short bio or description
+description: Your one-stop shop of AI everything
+
+# Site logo image such as corporate symbol
+logo:
+
+# Your website URL (e.g. https://<username>.github.io)
+# Used for sitemap.xml and your RSS feed
 url: https://ai.insideout.app
 
+repository: insideout/ai
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+# The site locale e.g. en-us
+locale: en-us
+
+# The site charset e.g. utf-8
+charset: utf-8
+
+# Discourage search engines to index the site
+noindex: false
+
+# Link to the favicon (Default: "/favicon.ico")
+favicon:
+
+# Link to the privacy policy
+privacy_policy_link:
+
+
+#----------------------------------------------------------------------------------
+# Theme Settings
+#----------------------------------------------------------------------------------
+themes:
+  # The active theme must exist in the themes folder.
+  active: insideout
+
+  minima:
+    footer:
+      social_links: social
+
+  minimal:
+    home:
+      enable_pagination: true
+
+  # TwentySeventeen theme-specific settings
+  twentyseventeen:
+    header:
+      image:      # Default: /src/themes/twentyseventeen/images/header.jpg
+      menu: main
+      custom:
+        scripts:
+        styles:
+        meta_tags:
+    footer:
+      sidebar1: footer_sidebar1
+      sidebar2: footer_sidebar2
+      social_links: social
+    page:
+      # template can be one-column or two-column
+      template: two-column
+    home:
+      # template can be "list_posts" or "list_sections"
+      template: list_sections
+      list_posts:
+        show_post_excerpt: false
+        show_post_content: true
+        enable_pagination: true
+      list_sections:
+        - title: A homepage section
+          type: content
+          content: >
+            This is an example of a homepage section.
+          featured_image: /src/themes/twentyseventeen/images/espresso.jpg
+        - title: About
+          type: content
+          content: >
+            You might be an artist who would like to introduce yourself and
+            your work here or maybe you're a business with a mission to describe.
+          featured_image: /src/themes/twentyseventeen/images/sandwich.jpg
+        - title: Blog
+          type: list_posts
+          show_post_excerpt: true
+          show_post_content: false
+          enable_pagination: true
+          featured_image: /src/themes/twentyseventeen/images/coffee.jpg
+        - title: Contact
+          type: content
+          content: >
+            This is a page with some basic contact information, such as an
+            address and phone number.
+          featured_image: /src/themes/twentyseventeen/images/espresso.jpg
+    optimization: large-site  # or 'small-site'
+
+  twentysixteen:
+    header:
+      image:
+      menu: main
+      social_menu: social
+    footer:
+      menu: main
+      social_menu: social
+
+
+#----------------------------------------------------------------------------------
+# Post Settings
+#----------------------------------------------------------------------------------
+
+# The permalink of posts
+# For multilingual site, /:path/ is the only global permalink setting that works.
+# Other permalink settings cannot prepend the post locale to the URL.
+permalink: /:year/:month/:day/:title/
+
+# Default settings of posts
+default_post_settings: &default_post_settings
+  layout: post
+  permalink: /web/:categories/:year/:month/:day/:title/
+  deleted: false
+  has_sidebar: true
+  read_time: true
+  share: true
+  related: true
+  comments:
+    enabled: true
+
+# Post listing settings
+# Pagination, assuming '/' is the post listing page.
+paginate: 5
+paginate_path: "/page/:num/"
+
+
+#----------------------------------------------------------------------------------
+# Page Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of pages
+default_page_settings: &default_page_settings
+  layout: page
+  permalink: /:path/
+  has_sidebar: false
+  comments:
+    enabled: false
+
+page_templates:
+  home:
+  search:
+  404:
+
+
+#----------------------------------------------------------------------------------
+# Learning Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of learning
+default_learning_settings: &default_learning_settings
+  layout: learning
+  permalink: /web/learning/:path/
+  deleted: false
+  has_sidebar: false
+  comments:
+    enabled: false
+
+
+#----------------------------------------------------------------------------------
+# Demo Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of demos
+default_demo_settings: &default_demo_settings
+  layout: demo
+  permalink: /web/demos/:path/
+  deleted: false
+  has_sidebar: false
+  comments:
+    enabled: false
+
+
+#----------------------------------------------------------------------------------
+# Scholar Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of scholars
+default_scholar_settings: &default_scholar_settings
+  layout: scholar
+  permalink: /web/scholars/:path/
+  deleted: false
+  has_sidebar: false
+  comments:
+    enabled: false
+
+
+#----------------------------------------------------------------------------------
+# Influencer Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of influencers
+default_influencer_settings: &default_influencer_settings
+  layout: influencer
+  permalink: /web/influencers/:path/
+  deleted: false
+  has_sidebar: false
+  comments:
+    enabled: false
+
+
+#----------------------------------------------------------------------------------
+# Taxonomy Settings
+#----------------------------------------------------------------------------------
+
+# You can overwrite the default taxonomy settings in individual taxonomy settings
+default_taxonomy_settings: &default_taxonomy_settings
+  layout: archive
+  permalink: /:path/
+  has_sidebar: true
+  comments:
+    enabled: false
+
+taxonomies:
+  category:
+    name: Category
+    settings: &category_settings
+      taxonomy: category
+      archive:
+        taxonomy_field: categories
+        taxonomy_query: item.categories contains page.name
+        post_collection: # Default: posts
+        where_exp: # Default: nil
+        order_by: # Default: date
+        order: # Default: DESC
+
+  tag:
+    name: Tag
+    settings: &tag_settings
+      taxonomy: tag
+      archive:
+        taxonomy_field: tags
+        taxonomy_query: item.tags contains page.name
+        post_collection: # Default: posts
+        where_exp: # Default: nil
+        order_by: # Default: date
+        order: # Default DESC
+
+  topic:
+    name: Topic
+    settings: &topic_settings
+      taxonomy: topic
+      archive:
+        taxonomy_field: topics
+        taxonomy_query: item.topics contains page.name
+
+
+#----------------------------------------------------------------------------------
+# Shortcodes
+#----------------------------------------------------------------------------------
+shortcodes:
+  if:
+    enabled: true
+    settings:
+  youtube:
+    enabled: true
+    settings:
+  note:
+    enabled: false
+    settings:
+  tabs:
+    enabled: false
+    settings:
+  accordion:
+    enabled: false
+    settings:
+  codepen:
+    enabled: false
+    settings:
+
+
+#----------------------------------------------------------------------------------
+# Analytics
+#----------------------------------------------------------------------------------
+analytics:
+  google:
+    enabled: true
+    settings:
+      tracking_id:
+
+
+#----------------------------------------------------------------------------------
+# Comments
+#----------------------------------------------------------------------------------
+comments:
+  disqus:
+    enabled: true
+    settings:
+      shortname:
+  discourse:
+    enabled: false
+    settings:
+      server:
+  facebook:
+    enabled: false
+    settings:
+      appid:
+      num_of_posts:
+      colorscheme:
+
+
+#----------------------------------------------------------------------------------
+# Search
+#----------------------------------------------------------------------------------
+search:
+  lunr:
+    enabled: true
+    settings:
+      search_field_selector:              # Default: input.search_field
+      search_result_container_selector:   # Default: auto-calculated based on search_field
+      num_of_search_results:              # Default: 5
+      highlight_search_terms:             # Default: false
+
+
+#----------------------------------------------------------------------------------
+# SEO
+#----------------------------------------------------------------------------------
+seo:
+  opengraph:
+    enabled: true
+  twitter:
+    enabled: true
+
+
+#----------------------------------------------------------------------------------
+# Site Verification
+#----------------------------------------------------------------------------------
+site_verification:
+  google:
+    enabled: false
+    settings:
+      verification_code:
+  bing:
+    enabled: false
+    settings:
+      verification_code:
+  pinterest:
+    enabled: false
+    settings:
+      verification_code:
+  yandex:
+    enabled: false
+    settings:
+      verification_code:
+
+
+#----------------------------------------------------------------------------------
+# Custom Settings
+#----------------------------------------------------------------------------------
+
+
+
+
+#----------------------------------------------------------------------------------
+# System Settings
+# DO NOT CHANGE if you do not know what you are doing
+#----------------------------------------------------------------------------------
+
 collections:
-  - topics
-  - learning
-  - demos
-  - apis
-  - scholars
-  - influencers
+  terms:
+    output: true
+  posts:
+    output: true
+  pages:
+    output: true
+  learning:
+    output: true
+  demos:
+    output: true
+  scholars:
+    output: true
+  influencers:
+    output: true
 
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: post
-      permalink: /api/:categories/:year/:month/:day/:title/index.json
-      locale: en-us
-      isBreakingNews: false
-      isTopStory: false
-      deleted: false
+      <<: *default_post_settings
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      <<: *default_page_settings
+  # _learning
   - scope:
       path: ""
       type: learning
     values:
-      layout: learning
-      locale: en-us
-      deleted: false
+      <<: *default_learning_settings
+  # _demos
   - scope:
       path: ""
       type: demos
     values:
-      layout: demo
-      locale: en-us
-      deleted: false
-  - scope:
-      path: ""
-      type: apis
-    values:
-      layout: api
-      locale: en-us
-      deleted: false
+      <<: *default_demo_settings
+  # _scholars
   - scope:
       path: ""
       type: scholars
     values:
-      layout: scholar
-      locale: en-us
-      deleted: false
+      <<: *default_scholar_settings
+  # _influencers
   - scope:
       path: ""
       type: influencers
     values:
-      layout: influencer
-      locale: en-us
-      deleted: false
+      <<: *default_influencer_settings
+  # _terms
+  - scope:
+      path: ""
+      type: terms
+    values:
+      <<: *default_taxonomy_settings
+  # categories
+  - scope:
+      path: _terms/categories
+      type: terms
+    values:
+      <<: *category_settings
+  # tags
+  - scope:
+      path: _terms/tags
+      type: terms
+    values:
+      <<: *tag_settings
+  # topics
+  - scope:
+      path: _terms/topics
+      type: terms
+    values:
+      <<: *topic_settings
   - scope:
       path: "api/*/*"
     values:
       permalink: /:path/index.json
+
+# Compress HTML in Jekyll
+# http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  comments: all
+  ignore:
+    envs: [development]
+  blanklines: false
+  profile: false
+  startings: []
+  endings: []
+
+theme:
+
+# Use the following Jekyll plug-ins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-relative-links # Convert relative links to md files to their rendered equivalents
+  - jemoji # Enable Emoji
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - .htaccess
+
+# Exclude these files from your production _site
+exclude:
+  - "src/jify"
+  - CNAME
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .SynologyWorkingDirectory
+  - .cache
+  - .sass-cache
+
+incremental: false
+
+sass:
+  sass_dir: ./src
+  style: compressed
+
+includes_dir: ./src
+layouts_dir: ./src/system/_layouts

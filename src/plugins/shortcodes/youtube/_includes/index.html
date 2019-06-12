@@ -1,0 +1,15 @@
+{% if include.params.attributes -%}
+    {% capture src -%}{% include jify function="extract_shortcode_att" attribute="src" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture width -%}{% include jify function="extract_shortcode_att" default="560" attribute="width" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture height -%}{% include jify function="extract_shortcode_att" default="315" attribute="height" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture allow -%}{% include jify function="extract_shortcode_att" attribute="allow" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture frameborder -%}{% include jify function="extract_shortcode_att" default="0" attribute="frameborder" attributes=include.params.attributes %}{%- endcapture -%}
+    {% capture allowfullscreen -%}{% include jify function="extract_shortcode_att" default="true" attribute="allowfullscreen" attributes=include.params.attributes %}{%- endcapture -%}
+
+    {% if src -%}
+<iframe src="{{ src }}" frameborder="{{ frameborder }}"{% if width != blank %} width="{{ width }}"{% if height != blank %} height="{{ height }}"{% endif %}{% endif -%}
+    {% if allow != blank %} allow="{{ allow }}"{% endif -%}
+    {% if allowfullscreen != blank %} allowfullscreen="{{allowfullscreen}}"{% endif -%}>
+</iframe>
+    {%- endif -%}
+{% endif -%}
