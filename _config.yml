@@ -50,7 +50,7 @@ themes:
   rapp:
     header:
       title: Your <b>one-stop shop</b> of everything about <b>AI</b>
-      description: AI Inside Out provides the best and latest curation of AI news, learning resources, demos, researches, meetups and many more broken down into AI sub areas.
+      description: AI Inside Out provides the best and latest curation of AI news, learning resources, demos, researches, meetups and many more, broken down into different AI sub areas.
       banner_app: /assets/images/banner-app.jpg
 
   minimal:
