@@ -45,8 +45,8 @@
                 <div class="row h-100">
                     <div class="col-md-12 align-self-center">
                         <div class="hero-content" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                            <h1><b>AI</b> Inside <b>Out</b></h1>
-                            <p>{{ site.description }}</p>
+                            <h1>{% include jify function="render_config" of="theme" key="header.title" %}</h1>
+                            <p>{% include jify function="render_config" of="theme" key="header.description" %}</p>
                             <div class="btn-group">
                                 <a href="#" class="btn">Contact Us</a>
                                 <a href="#" class="btn"><i class="far fa-play-circle"></i> How It Works</a>
@@ -55,6 +55,23 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-5 pos-r">
+                <div class="row justify-content-md-center justify-content-sm-center">
+                    <div class="col-md-auto col-sm-auto">
+                        <div class="banner-app-mock">
+                            <!--mobile inside image-->
+                            <img src='{% include jify function="render_config" of="theme" key="header.banner_app" %}' class="main-img" alt="mobile inside image" />
+                            <!--mobile mockup-->
+                            <img src="{{ THEME_DIRECTORY_URL }}/images/mobile-mock.png" class="mockup" alt="mobile mockup" />
+                        </div><!--/.banner-app-mock-->
+                    </div>
+                </div>
+                <div class="mobile-graphic">
+                    <!--mobile graphic-->
+                    <img src="{{ THEME_DIRECTORY_URL }}/images/mobile-graphic.png" alt="" class="moc-grp">
+                </div>
+            </div>
         </div>
     </div>
 </header>
+<!--/.hero section-->

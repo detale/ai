@@ -6,7 +6,7 @@
 title: AI Inside Out
 
 # Short bio or description
-description: Your one-stop shop of AI everything
+description: "Your one-stop shop of everything about AI"
 
 # Site logo image such as corporate symbol
 logo:
@@ -47,9 +47,11 @@ themes:
   # The active theme must exist in the themes folder.
   active: rapp
 
-  minima:
-    footer:
-      social_links: social
+  rapp:
+    header:
+      title: Your <b>one-stop shop</b> of everything about <b>AI</b>
+      description: AI Inside Out provides the best and latest curation of AI news, learning resources, demos, researches, meetups and many more broken down into AI sub areas.
+      banner_app: /assets/images/banner-app.jpg
 
   minimal:
     home:
