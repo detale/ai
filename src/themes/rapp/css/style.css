@@ -345,7 +345,11 @@ Start Banner style
 }
 
 .hero-content .btn-group .btn{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   margin-top: 28px;
+  margin-right: 20px;
   background-color: #f0083f;
   color: #ffffff;
   padding: 12px 36px;
@@ -353,14 +357,13 @@ Start Banner style
   font-size: 14px;
   outline: 0;
 }
-.hero-content .btn-group .btn:nth-child(2){
-  margin-left: 30px;
+.hero-content .btn-group .btn:nth-child(3){
   background:none;
   color: #f0083f;
   border:1px solid #f0083f;
 }
 .hero-content .btn-group .btn i{
-  padding-right: 5px;
+  padding-right: 10px;
 }
 
 /*mobile mockup*/
