@@ -9,7 +9,7 @@ title: AI Inside Out
 description: "Your one-stop shop of everything about AI"
 
 # Site logo image such as corporate symbol
-logo:
+logo: /assets/images/logo.png
 
 # Your website URL (e.g. https://<username>.github.io)
 # Used for sitemap.xml and your RSS feed
