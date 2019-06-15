@@ -2608,3 +2608,43 @@ Start Blog Details light page style
 Close Blog Details light page style
 
 -------------------------------- */
+.mailster-wrapper
+{
+  background: none;
+  border: 2px solid rgba(255,255,255,0.4);
+  border-radius: 5px;
+  padding: 0;
+  text-align: left;
+  float: none;
+  display: inline-block;
+  background-color: #fff;
+  line-height: 1.428571429;
+  margin-top: 20px;
+  color: #8d8d8d;
+}
+
+.mailster-wrapper i {
+  color: #f0083f;
+  margin-left: 15px;
+  z-index: 1;
+  margin-top: -3px;
+  font-weight: 900;
+}
+
+.mailster-wrapper .mailster-email {
+  font-size: 18px;
+  padding: 13px;
+  font-weight: bold;
+  border: none;
+  width: 210px;
+}
+
+.mailster-wrapper .submit-button {
+  border: none;
+  padding: 9px 28px;
+  margin-right: 10px;
+  color: #fff;
+  background: #f0083f;
+  border-radius: 3px;
+  font-weight: bold;
+}
