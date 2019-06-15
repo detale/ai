@@ -6,7 +6,7 @@
 title: AI Inside Out
 
 # Short bio or description
-description: "Your one-stop shop of everything about AI"
+description: "Your one-stop shop for all things AI"
 
 # Site logo image such as corporate symbol
 logo: /assets/images/logo.png
@@ -40,6 +40,7 @@ privacy_policy_link:
 
 jquery_version: "1.12.4"
 
+
 #----------------------------------------------------------------------------------
 # Theme Settings
 #----------------------------------------------------------------------------------
@@ -49,71 +50,9 @@ themes:
 
   rapp:
     header:
-      title: Your <b>one-stop shop</b> of everything about <b>AI</b>
-      description: AI Inside Out provides the best and latest curation of AI news, learning resources, demos, researches, meetups and many more, broken down into different AI sub areas.
+      title: Your <b>one-stop shop</b> for all things <b>AI</b>
+      description: AI Inside Out offers AI news, learning resources, researches, meetups and many more, tailored to your interests.
       banner_app: /assets/images/banner-app.jpg
-
-  minimal:
-    home:
-      enable_pagination: true
-
-  # TwentySeventeen theme-specific settings
-  twentyseventeen:
-    header:
-      image:      # Default: /src/themes/twentyseventeen/images/header.jpg
-      menu: main
-      custom:
-        scripts:
-        styles:
-        meta_tags:
-    footer:
-      sidebar1: footer_sidebar1
-      sidebar2: footer_sidebar2
-      social_links: social
-    page:
-      # template can be one-column or two-column
-      template: two-column
-    home:
-      # template can be "list_posts" or "list_sections"
-      template: list_sections
-      list_posts:
-        show_post_excerpt: false
-        show_post_content: true
-        enable_pagination: true
-      list_sections:
-        - title: A homepage section
-          type: content
-          content: >
-            This is an example of a homepage section.
-          featured_image: /src/themes/twentyseventeen/images/espresso.jpg
-        - title: About
-          type: content
-          content: >
-            You might be an artist who would like to introduce yourself and
-            your work here or maybe you're a business with a mission to describe.
-          featured_image: /src/themes/twentyseventeen/images/sandwich.jpg
-        - title: Blog
-          type: list_posts
-          show_post_excerpt: true
-          show_post_content: false
-          enable_pagination: true
-          featured_image: /src/themes/twentyseventeen/images/coffee.jpg
-        - title: Contact
-          type: content
-          content: >
-            This is a page with some basic contact information, such as an
-            address and phone number.
-          featured_image: /src/themes/twentyseventeen/images/espresso.jpg
-    optimization: large-site  # or 'small-site'
-
-  twentysixteen:
-    header:
-      image:
-      menu: main
-      social_menu: social
-    footer:
-      menu: main
-      social_menu: social
 
 
 #----------------------------------------------------------------------------------
