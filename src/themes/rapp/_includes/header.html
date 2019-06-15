@@ -25,6 +25,7 @@
 </nav>
 <!-- /.navbar -->
 
+{% if page.layout == "home" -%}
 <!--hero section-->
 <header class="hero-section" id="home">
 
@@ -89,3 +90,20 @@
     </div>
 </header>
 <!--/.hero section-->
+{% else -%}
+<!--inner page banner-->
+{% include jify function="get_config" of="theme" key="header.banner_image" -%}
+<header class="inner-page-banner"{% if config %} style="background-image: url({{ config }});"{% endif %}>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="inside-title">
+                    <h2>{{ page.title }}</h2>
+                    <p>{{ page.description }}</p>
+                </div><!--/.inside-title-->
+            </div>
+        </div>
+    </div><!--/.container-->
+</header>
+<!--inner page banner-->
+{% endif -%}

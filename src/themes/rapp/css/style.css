@@ -2138,7 +2138,7 @@ Start Blog page style
 .inner-page-banner{
   width: 100%;
   position: relative;
-  background-image: url(../img/blog/banner.jpg);
+  background-image: url(../images/banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 250px 0;
@@ -2164,6 +2164,12 @@ Start Blog page style
   font-weight: 700;
   color: #f0083f;
   font-size: 36px;
+  line-height: 1.2em;
+}
+.inner-page-banner .inside-title p{
+  font-weight: 500;
+  color: #FFFFFF;
+  font-size: 20px;
   line-height: 1.2em;
 }
 
