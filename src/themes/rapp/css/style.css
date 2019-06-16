@@ -352,7 +352,7 @@ Start Banner style
   margin-right: 20px;
   background-color: #f0083f;
   color: #ffffff;
-  padding: 12px 36px;
+  padding: 12px 34px;
   font-weight: 600;
   font-size: 14px;
   outline: 0;
@@ -651,6 +651,56 @@ Start Banner style
         opacity: 1;
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     }
+}
+
+
+/* --------------------------------
+
+Newsletter
+
+-------------------------------- */
+
+.newsletter-wrapper
+{
+  background: none;
+  border: 2px solid rgba(255,255,255,0.4);
+  border-radius: 5px;
+  padding: 0;
+  text-align: left;
+  float: none;
+  display: inline-block;
+  background-color: #fff;
+  line-height: 1.428571429;
+  margin-top: 20px;
+  color: #8d8d8d;
+  width: 380px;
+}
+
+.newsletter-wrapper i {
+  color: #f0083f;
+  margin-left: 15px;
+  z-index: 1;
+  margin-top: -3px;
+  font-weight: 900;
+}
+
+.newsletter-wrapper .email {
+  font-size: 18px;
+  padding: 13px;
+  font-weight: bold;
+  border: none;
+  width: 210px;
+}
+
+.newsletter-wrapper .submit-button {
+  border: none;
+  padding: 9px;
+  margin-right: 10px;
+  color: #fff;
+  background: #f0083f;
+  border-radius: 3px;
+  font-weight: bold;
+  width: 120px;
 }
 
 /* --------------------------------
@@ -1595,10 +1645,6 @@ Start Responsive style
 }
 
 @media only screen and (max-width : 400px) {
-  .hero-content .btn-group{
-    display: inline;
-
-  }
   .hero-content .btn-group .btn{
     clear: both;
     float: left;
@@ -1608,6 +1654,55 @@ Start Responsive style
   }
   .feature-inside .btn-group .btn:nth-child(1){
     margin-bottom: 20px;
+  }
+
+  /* --------------------------------
+
+  Newsletter
+
+  -------------------------------- */
+
+  .newsletter-wrapper
+  {
+    background: none;
+    border: 2px solid rgba(255,255,255,0.4);
+    border-radius: 5px;
+    padding: 0;
+    text-align: left;
+    float: none;
+    display: inline-block;
+    background-color: #fff;
+    line-height: 1.428571429;
+    margin-top: 20px;
+    color: #8d8d8d;
+    width: 380px;
+  }
+
+  .newsletter-wrapper i {
+    color: #f0083f;
+    margin-left: 15px;
+    z-index: 1;
+    margin-top: -3px;
+    font-weight: 900;
+  }
+
+  .newsletter-wrapper .email {
+    font-size: 18px;
+    padding: 13px;
+    font-weight: bold;
+    border: none;
+    width: 210px;
+  }
+
+  .newsletter-wrapper .submit-button {
+    border: none;
+    padding: 9px;
+    margin-right: 10px;
+    color: #fff;
+    background: #f0083f;
+    border-radius: 3px;
+    font-weight: bold;
+    width: 120px;
   }
 }
 
@@ -2608,43 +2703,3 @@ Start Blog Details light page style
 Close Blog Details light page style
 
 -------------------------------- */
-.mailster-wrapper
-{
-  background: none;
-  border: 2px solid rgba(255,255,255,0.4);
-  border-radius: 5px;
-  padding: 0;
-  text-align: left;
-  float: none;
-  display: inline-block;
-  background-color: #fff;
-  line-height: 1.428571429;
-  margin-top: 20px;
-  color: #8d8d8d;
-}
-
-.mailster-wrapper i {
-  color: #f0083f;
-  margin-left: 15px;
-  z-index: 1;
-  margin-top: -3px;
-  font-weight: 900;
-}
-
-.mailster-wrapper .mailster-email {
-  font-size: 18px;
-  padding: 13px;
-  font-weight: bold;
-  border: none;
-  width: 210px;
-}
-
-.mailster-wrapper .submit-button {
-  border: none;
-  padding: 9px 28px;
-  margin-right: 10px;
-  color: #fff;
-  background: #f0083f;
-  border-radius: 3px;
-  font-weight: bold;
-}
