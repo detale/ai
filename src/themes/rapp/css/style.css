@@ -1645,12 +1645,18 @@ Start Responsive style
 }
 
 @media only screen and (max-width : 400px) {
+  .hero-content .btn-group {
+    width: 100%;
+  }
   .hero-content .btn-group .btn{
+    width: 50%;
+    padding: .375rem .75rem;
     clear: both;
     float: left;
   }
   .hero-content .btn-group .btn:nth-child(2){
     margin-left: 0;
+    margin-right: 0;
   }
   .feature-inside .btn-group .btn:nth-child(1){
     margin-bottom: 20px;
@@ -1675,7 +1681,7 @@ Start Responsive style
     line-height: 1.428571429;
     margin-top: 20px;
     color: #8d8d8d;
-    width: 380px;
+    width: 100%;
   }
 
   .newsletter-wrapper i {
@@ -1691,7 +1697,7 @@ Start Responsive style
     padding: 13px;
     font-weight: bold;
     border: none;
-    width: 210px;
+    width: 100%;
   }
 
   .newsletter-wrapper .submit-button {
@@ -1702,7 +1708,7 @@ Start Responsive style
     background: #f0083f;
     border-radius: 3px;
     font-weight: bold;
-    width: 120px;
+    width: 100%;
   }
 }
 
