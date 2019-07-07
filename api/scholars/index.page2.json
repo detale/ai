@@ -1,0 +1,5 @@
+---
+layout: scholar_api
+page: 2
+permalink: /:path/page2/
+---

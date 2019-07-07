@@ -11,4 +11,5 @@ images:
 services:
   news: https://ai.insideout.app/api/news/aws-ai/
   learning: https://ai.insideout.app/api/learning/aws-ai/
+  demos: https://ai.insideout.app/api/demos/aws-ai/
 ---

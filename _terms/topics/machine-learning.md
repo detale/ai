@@ -15,5 +15,6 @@ images:
 services:
   news: https://ai.insideout.app/api/news/machine-learning/
   learning: https://ai.insideout.app/api/learning/machine-learning/
+  demos: https://ai.insideout.app/api/demos/machine-learning/
   scholars: https://ai.insideout.app/api/scholars/machine-learning/
 ---

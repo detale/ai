@@ -1,0 +1,27 @@
+{
+    "value": [
+        {% assign newsletter_issues = site.newsletter | sort: "publishedDateTime" | reverse -%}
+        {% for issue in newsletter_issues -%}
+        {
+            "title": {{ issue.title | jsonify }},
+            "type": {{ issue.type | jsonify }},
+            "url": "{{ issue.url | absolute_url }}",
+            "abstract": {{ issue.abstract | strip_html | normalize_whitespace | strip | jsonify }},
+            "publishedDateTime": {{ issue.publishedDateTime | jsonify }},
+            "provider": {
+                {% if issue.provider.id -%}
+                "id": "{{ issue.provider.id }}",
+                "logo": {
+                    "url": "https://providers.insideout.app/{{ issue.provider.id }}/logo-50x50.jpg",
+                    "width": 50,
+                    "height": 50
+                },
+                {% endif -%}
+                "name": {{ issue.provider.name | jsonify }}
+            },
+            "locale": {{ issue.locale | default: site.locale | jsonify }},
+            "topics": {{ issue.topics | jsonify }}
+        }{% unless forloop.last -%},{% endunless %}
+        {% endfor %}
+    ]
+}

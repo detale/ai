@@ -5,6 +5,7 @@ name: Google AI
 parent: AI
 keywords:
   - tensorflow
+  - deepmind
 images:
   - https://ai.insideout.app/assets/images/google-ai.jpg
   - https://ai.insideout.app/assets/images/google-ai-2.jpg

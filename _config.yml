@@ -77,11 +77,8 @@ default_post_settings: &default_post_settings
   comments:
     enabled: true
 
-# Post listing settings
-# Pagination, assuming '/' is the post listing page.
-paginate: 5
-paginate_path: "/page/:num/"
-
+pagination:
+  page_size: 15
 
 #----------------------------------------------------------------------------------
 # Page Settings
@@ -151,6 +148,20 @@ default_scholar_settings: &default_scholar_settings
 default_influencer_settings: &default_influencer_settings
   layout: influencer
   permalink: /web/influencers/:path/
+  deleted: false
+  has_sidebar: false
+  comments:
+    enabled: false
+
+
+#----------------------------------------------------------------------------------
+# Newsletter Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of newsletter issues
+default_newsletter_settings: &default_newsletter_settings
+  layout: newsletter
+  permalink: /web/newsletter/:path/
   deleted: false
   has_sidebar: false
   comments:
@@ -329,6 +340,8 @@ collections:
     output: true
   influencers:
     output: true
+  newsletter:
+    output: true
 
 defaults:
   # _posts
@@ -367,6 +380,12 @@ defaults:
       type: influencers
     values:
       <<: *default_influencer_settings
+  # _newsletter
+  - scope:
+      path: ""
+      type: newsletter
+    values:
+      <<: *default_newsletter_settings
   # _terms
   - scope:
       path: ""
@@ -413,7 +432,6 @@ theme:
 # Use the following Jekyll plug-ins
 plugins:
   - jekyll-redirect-from
-  - jekyll-paginate
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-relative-links # Convert relative links to md files to their rendered equivalents
   - jemoji # Enable Emoji

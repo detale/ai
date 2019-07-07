@@ -1,9 +1,17 @@
 {
+    {% assign page_size = site.pagination.page_size | default: 15 -%}
+    {% assign current_page = page.page | default: 1 -%}
+    {% assign for_offset = current_page | minus:1 | times:page_size -%}
+    {% assign for_count = 0 -%}
+    "page": {{ current_page }},
     "value": [
         {% capture news_where_exp %}post.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
         {% assign news = site.posts | where: "category", "news" | where_exp: "post", news_where_exp -%}
-        {% for post in news -%}
+        {% for post in news limit:page_size offset:for_offset -%}
         {
+            {% if forloop.last -%}
+                {% assign for_count = forloop.length -%}
+            {% endif -%}
             "title": {{ post.title | jsonify }},
             "type": {{ post.type | jsonify }},
             "api": "{{ post.url | absolute_url }}",
@@ -39,10 +47,15 @@
                 }{% unless forloop.last -%},{% endunless %}
                 {% endfor %}
             ],
-            "locale": {{ post.locale | jsonify }},
+            "locale": {{ post.locale | default: site.locale | jsonify }},
             "categories": {{ post.categories | jsonify }},
             "topics": {{ post.topics | jsonify }}
         }{% unless forloop.last -%},{% endunless %}
         {% endfor %}
-    ]
+    ],
+    {% if for_count < page_size or current_page == 9 -%}
+    "nextPage": null
+    {% else -%}
+    "nextPage": "{{ current_page | plus:1 }}"
+    {%- endif %}
 }

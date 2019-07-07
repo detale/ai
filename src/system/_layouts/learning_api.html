@@ -1,9 +1,17 @@
 {
+    {% assign page_size = site.pagination.page_size | default: 15 -%}
+    {% assign current_page = page.page | default: 1 -%}
+    {% assign for_offset = current_page | minus:1 | times:page_size -%}
+    {% assign for_count = 0 -%}
+    "page": {{ current_page }},
     "value": [
         {% capture learning_where_exp %}item.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
         {% assign learning = site.learning | where_exp: "item", learning_where_exp -%}
-        {% for item in learning -%}
+        {% for item in learning limit:page_size offset:for_offset -%}
         {
+            {% if forloop.last -%}
+                {% assign for_count = forloop.length -%}
+            {% endif -%}
             "title": {{ item.title | jsonify }},
             "type": {{ item.type | jsonify }},
             "api": "{{ item.url | absolute_url }}",
@@ -35,9 +43,14 @@
                 }{% unless forloop.last -%},{% endunless %}
                 {% endfor %}
             ],
-            "locale": {{ item.locale | jsonify }},
+            "locale": {{ item.locale | default: site.locale | jsonify }},
             "topics": {{ item.topics | jsonify }}
         }{% unless forloop.last -%},{% endunless %}
         {% endfor %}
-    ]
+    ],
+    {% if for_count < page_size or current_page == 9 -%}
+    "nextPage": null
+    {% else -%}
+    "nextPage": "{{ current_page | plus:1 }}"
+    {%- endif %}
 }

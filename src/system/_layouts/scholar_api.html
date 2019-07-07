@@ -1,10 +1,18 @@
 {
+    {% assign page_size = site.pagination.page_size | default: 15 -%}
+    {% assign current_page = page.page | default: 1 -%}
+    {% assign for_offset = current_page | minus:1 | times:page_size -%}
+    {% assign for_count = 0 -%}
+    "page": {{ current_page }},
     "value": [
         {% capture scholars_where_exp %}item.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
         {% assign scholars = site.scholars | where_exp: "item", scholars_where_exp -%}
         {% assign scholars = scholars | sort: "citations" | reverse -%}
-        {% for item in scholars -%}
+        {% for item in scholars limit:page_size offset:for_offset -%}
         {
+            {% if forloop.last -%}
+                {% assign for_count = forloop.length -%}
+            {% endif -%}
             "name": {{ item.name | jsonify }},
             "id": "{{ item.id }}",
             "bio": {{ item.bio | strip_html | normalize_whitespace | strip | jsonify }},
@@ -25,5 +33,10 @@
             "topics": {{ item.topics | jsonify }}
         }{% unless forloop.last -%},{% endunless %}
         {% endfor %}
-    ]
+    ],
+    {% if for_count < page_size or current_page == 9 -%}
+    "nextPage": null
+    {% else -%}
+    "nextPage": "{{ current_page | plus:1 }}"
+    {%- endif %}
 }

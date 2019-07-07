@@ -1,9 +1,17 @@
 {
+    {% assign page_size = site.pagination.page_size | default: 15 -%}
+    {% assign current_page = page.page | default: 1 -%}
+    {% assign for_offset = current_page | minus:1 | times:page_size -%}
+    {% assign for_count = 0 -%}
+    "page": {{ current_page }},
     "value": [
         {% capture demos_where_exp %}demo.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
         {% assign demos = site.demos | where_exp: "demo", demos_where_exp -%}
-        {% for demo in demos -%}
+        {% for demo in demos limit:page_size offset:for_offset -%}
         {
+            {% if forloop.last -%}
+                {% assign for_count = forloop.length -%}
+            {% endif -%}
             "title": {{ demo.title | jsonify }},
             "type": {{ demo.type | jsonify }},
             "api": "{{ demo.url | absolute_url }}",
@@ -35,9 +43,14 @@
                 }{% unless forloop.last -%},{% endunless %}
                 {% endfor %}
             ],
-            "locale": {{ demo.locale | jsonify }},
+            "locale": {{ demo.locale | default: site.locale | jsonify }},
             "topics": {{ demo.topics | jsonify }}
         }{% unless forloop.last -%},{% endunless %}
         {% endfor %}
-    ]
+    ],
+    {% if for_count < page_size or current_page == 9 -%}
+    "nextPage": null
+    {% else -%}
+    "nextPage": "{{ current_page | plus:1 }}"
+    {%- endif %}
 }
