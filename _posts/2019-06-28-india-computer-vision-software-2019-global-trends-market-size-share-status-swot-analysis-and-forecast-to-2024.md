@@ -11,12 +11,7 @@ provider:
   id: menafn
 
 topics:
-  - AI
-  - Computer Vision
-
-images:
-  - url: https://menafn.com/images/shared/img_trnsp.gif
-    width: 5
-    height: 5
-    title: India- Computer Vision Software 2019 Global Trends, Market Size, Share, Status, SWOT Analysis and Forecast to 2024
+ - AI
+ - computer vision
+ - Computer Vision
 ---

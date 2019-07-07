@@ -13,12 +13,13 @@ provider:
   id: internationalbusinesstimes
 
 topics:
-  - AI
-  - Bots
+ - AI
+ - pyrobot
+ - Facebook AI
 
 images:
   - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/04/03/facebook.jpg
     width: 1200
     height: 800
-    title: PyRobot: Facebook’s Open-Source Robotics Framework Designed To Make Controlling Bots Easy
+    title: "PyRobot: Facebook’s Open-Source Robotics Framework Designed To Make Controlling Bots Easy"
 ---

@@ -12,4 +12,11 @@ provider:
 
 topics:
   - AI
+  - machine learning
+
+images:
+  - url: https://www.chiefmarketer.com/wp-content/uploads/2019/06/ai-robot-850.jpg
+    width: 850
+    height: 335
+    title: "Marketing Benefits of AI and Machine Learning"
 ---

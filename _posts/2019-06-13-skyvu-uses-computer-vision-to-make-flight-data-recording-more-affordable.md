@@ -14,11 +14,11 @@ provider:
 
 topics:
   - AI
-  - Computer Vision
+  - computer vision
 
 images:
   - url: https://img.newatlas.com/skyvu-flight-data-recorder-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=crop&h=347&q=60&rect=0%2C271%2C1439%2C810&w=616&s=0b6b7e8c11d8d7ff0c677544d8688505
     width: 616
     height: 347
-    title: SkyVU uses computer vision to make flight data recording more affordable
+    title: "SkyVU uses computer vision to make flight data recording more affordable"
 ---

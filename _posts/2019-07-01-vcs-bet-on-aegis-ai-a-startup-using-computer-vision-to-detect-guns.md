@@ -14,6 +14,12 @@ provider:
 
 topics:
  - AI
+ - computer vision
  - Computer Vision
- - Microsoft AI
+
+images:
+  - url: https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1040614822.jpg?w=600
+    width: 600
+    height: 400
+    title: "VCs bet on Aegis AI, a startup using computer vision to detect guns"
 ---

@@ -11,6 +11,7 @@ provider:
   id: yahoo
 
 topics:
-  - AI
-  - AWS AI
+ - AI
+ - artificial intelligence aws
+ - AWS AI
 ---

@@ -11,12 +11,13 @@ provider:
   id: hackaday
 
 topics:
-  - AI
-  - Computer Vision
+ - AI
+ - computer vision
+ - Computer Vision
 
 images:
-  - url: https://hackaday.com/wp-content/uploads/2019/06/Telloheader.png
-    width: 800
-    height: 392
-    title: Build Your Own Selfie Drone With Computer Vision
+  - url: https://hackaday.com/wp-content/uploads/2019/04/GreatFET-front-square.jpg?w=600&#038;h=600
+    width: 600
+    height: 600
+    title: "Build Your Own Selfie Drone With Computer Vision"
 ---

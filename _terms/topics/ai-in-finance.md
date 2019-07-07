@@ -3,6 +3,8 @@ taxonomy: topic
 _id: ai-in-finance
 name: AI in Finance
 parent: AI
+keywords:
+  - artificial intelligence bank
 images:
   - https://ai.insideout.app/assets/images/ai-in-finance.jpg
   - https://ai.insideout.app/assets/images/ai-in-finance-2.jpg

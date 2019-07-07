@@ -1,7 +1,7 @@
 ---
 category: news
 title: "SilverBridge recognised at Microsoft AI hackathon"
-abstract: "A three-member SilverBridge development team, which participated at the Microsoft Artificial Intelligence (#MSAIHack) Hackathon held in Bryanston last week, was awarded the runner-up prize in the Financial Services Industry (FSI) category. The team ..."
+abstract: "Six teams competed against one another by creating prototypes and presentations using Microsoft Azure AI services. “The SilverBridge developers used the cognitive Services Vision API (application programming interface) with a specific focus on facial ..."
 publishedDateTime: 2019-07-01T11:45:00Z
 sourceUrl: https://www.itweb.co.za/content/KWEBb7yaEJJ7mRjO
 ampUrl: https://amp.itweb.co.za/content/KWEBb7yaEJJ7mRjO
@@ -13,12 +13,13 @@ provider:
   id: itweb
 
 topics:
-  - AI
-  - Microsoft AI
+ - AI
+ - microsoft cognitive services
+ - Microsoft AI
 
 images:
   - url: https://www.itweb.co.za/static/pictures/2019/07/Yunus-Scheepers-SilverBridge-400X.jpg
     width: 400
     height: 301
-    title: SilverBridge recognised at Microsoft AI hackathon
+    title: "SilverBridge recognised at Microsoft AI hackathon"
 ---

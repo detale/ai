@@ -3,6 +3,10 @@ taxonomy: topic
 _id: computer-vision
 name: Computer Vision
 parent: AI
+keywords:
+  - computer vision
+  - face recognition
+  - object recognition
 images:
   - https://ai.insideout.app/assets/images/computer-vision.jpg
 services:

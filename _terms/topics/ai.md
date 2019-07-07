@@ -2,6 +2,8 @@
 taxonomy: topic
 _id: ai
 name: AI
+keywords:
+  - artificial intelligence
 images:
   - https://ai.insideout.app/assets/images/ai.jpg
   - https://ai.insideout.app/assets/images/ai-2.jpg

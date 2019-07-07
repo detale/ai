@@ -11,12 +11,7 @@ provider:
   id: marketwatch
 
 topics:
-  - AI
-  - AI in Healthcare
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: Growing Demand for Artificial Intelligence in Healthcare Market to Significantly Increase CAGR Through 2023 | 51.7% CAGR
+ - AI
+ - artificial intelligence healthcare
+ - AI in Healthcare
 ---

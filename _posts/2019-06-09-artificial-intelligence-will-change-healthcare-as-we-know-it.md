@@ -11,6 +11,13 @@ provider:
   id: businessnewsdaily
 
 topics:
-  - AI
-  - AI in Healthcare
+ - AI
+ - artificial intelligence healthcare
+ - AI in Healthcare
+
+images:
+  - url: https://www.business.com/images/content/5cf/82bd95a215e6b7b8b4578/1500-0-
+    width: 1000
+    height: 664
+    title: "Artificial Intelligence Will Change Healthcare as We Know It"
 ---

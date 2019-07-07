@@ -13,12 +13,13 @@ provider:
   id: photonicsspectra
 
 topics:
-  - AI
-  - Computer Vision
+ - AI
+ - machine learning
+ - Computer Vision
 
 images:
   - url: https://www.photonics.com/images/Web/Articles/2019/6/12/thumbnail_64805.jpg
     width: 650
     height: 488
-    title: Machine Learning and Computer Vision Lead to Smarter, More Precise Crop Management
+    title: "Machine Learning and Computer Vision Lead to Smarter, More Precise Crop Management"
 ---

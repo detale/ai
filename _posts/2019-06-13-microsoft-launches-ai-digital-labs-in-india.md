@@ -1,18 +1,22 @@
 ---
 category: news
-title: "Microsoft launches AI digital labs in India"
-abstract: "A statement from Microsoft says it would support the select institutions with infrastructure, curriculum and content, access to cloud, AI services and developer support. Tech giant Microsoft on Thursday said it will launch AI digital labs in the country in ..."
-publishedDateTime: 2019-06-13T19:43:00Z
-sourceUrl: https://www.thehindu.com/business/Industry/microsoft-launches-ai-digital-labs-in-india/article27901008.ece
-ampUrl: https://www.thehindu.com/business/Industry/microsoft-launches-ai-digital-labs-in-india/article27901008.ece/amp/
-cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/microsoft-launches-ai-digital-labs-in-india/article27901008.ece/amp/
+title: "Microsoft launches AI Digital Labs in India"
+abstract: "The company will facilitate setting up of core AI infrastructure and IoT Hub as well as provide access to a wide range of AI developmental tools and Azure AI Services such as Microsoft Cognitive Services, Azure Machine Learning and Bot Services."
+publishedDateTime: 2019-06-13T09:27:00Z
+sourceUrl: https://news.microsoft.com/en-in/microsoft-launches-ai-digital-labs-india/
 type: article
 
 provider:
-  name: thehindu.com
-  id: thehinducom
+  name: Microsoft
+  id: microsoft
 
 topics:
   - AI
-  - Microsoft AI
+  - microsoft cognitive services
+
+images:
+  - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2019/06/Digital-AI-Labs-2-002.jpg
+    width: 4698
+    height: 1830
+    title: "Microsoft launches AI Digital Labs in India"
 ---

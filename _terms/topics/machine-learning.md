@@ -3,6 +3,10 @@ taxonomy: topic
 _id: machine-learning
 name: Machine Learning
 parent: AI
+keywords:
+  - machine learning
+  - deep learning
+  - artificial neural networks
 images:
   - https://ai.insideout.app/assets/images/machine-learning.jpg
   - https://ai.insideout.app/assets/images/machine-learning-2.jpg

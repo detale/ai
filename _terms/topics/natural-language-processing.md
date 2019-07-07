@@ -3,6 +3,10 @@ taxonomy: topic
 _id: natural-language-processing
 name: Natural Language Processing
 parent: AI
+keywords:
+  - natural language processing
+  - speech recognition
+  - machine translation
 images:
   - https://ai.insideout.app/assets/images/natural-language-processing.jpg
 services:

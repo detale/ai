@@ -11,12 +11,13 @@ provider:
   id: controlengineering
 
 topics:
-  - AI
-  - Computer Vision
+ - AI
+ - computer vision
+ - Computer Vision
 
 images:
   - url: https://www.controleng.com/wp-content/uploads/sites/2/2019/06/ctlx_icon_MachineVision_Slider_01-4.jpg
     width: 485
     height: 350
-    title: Embedded vision is driving ADAS technology advances
+    title: "Embedded vision is driving ADAS technology advances"
 ---

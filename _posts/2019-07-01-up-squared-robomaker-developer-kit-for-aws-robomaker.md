@@ -1,7 +1,7 @@
 ---
 category: news
 title: "UP Squared RoboMaker Developer Kit for AWS RoboMaker"
-abstract: "4th of June 2019 - Amazon re:MARS 2019 - Las Vegas - UP Bridge The Gap, a brand belonging to a professional embedded computing ODM AAEON Technology Europe, is proud to announce its UP Squared RoboMaker Developer Kit for AWS RoboMaker powered by Intel® AI ..."
+abstract: "This effort is a clear direction from AWS, AAEON, and Intel to unlock the potential of artificial intelligence and opening a world of new possibilities for developer experiences. At Amazon re:MARS 2019, the UP team showcased how to use this kit to quickly ..."
 publishedDateTime: 2019-07-02T02:59:00Z
 sourceUrl: https://www.embedded-computing.com/home-page/up-squared-robomaker-developer-kit-for-aws-robomaker
 type: article
@@ -11,12 +11,7 @@ provider:
   id: embeddedcomputingdesign
 
 topics:
-  - AI
-  - AWS AI
-
-images:
-  - url: https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1zZWNvbmRhcnlfbG9nbyZ2ZXJzaW9uPTE1NjIwMTc0NTMmc2lnPTIwZjRiMjU2ZDU2ZGY5YWFjODFkNTkxNzEwYTA1OTg2
-    width: 291
-    height: 100
-    title: UP Squared RoboMaker Developer Kit for AWS RoboMaker
+ - AI
+ - artificial intelligence aws
+ - AWS AI
 ---

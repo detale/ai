@@ -3,6 +3,9 @@ taxonomy: topic
 _id: ai-in-healthcare
 name: AI in Healthcare
 parent: AI
+keywords:
+  - artificial intelligence healthcare
+  - artificial intelligence therapy
 images:
   - https://ai.insideout.app/assets/images/ai-in-healthcare.jpg
   - https://ai.insideout.app/assets/images/ai-in-healthcare-2.jpg
