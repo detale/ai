@@ -13,9 +13,8 @@ provider:
   id: techcrunch
 
 topics:
- - AI
- - computer vision
- - Computer Vision
+  - AI
+  - Computer Vision
 
 images:
   - url: https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1040614822.jpg?w=600

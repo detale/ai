@@ -14,7 +14,7 @@ provider:
 
 topics:
   - AI
-  - tensorflow
+  - Google AI
 
 images:
   - url: https://zdnet4.cbsistatic.com/hub/i/r/2019/06/21/3a5cf235-3d00-4600-9e13-8cebc931b58f/thumbnail/770x578/615a00e8e7a5388ac3a472243516f175/pic11.jpg

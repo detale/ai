@@ -13,9 +13,8 @@ provider:
   id: techcrunch
 
 topics:
- - AI
- - machine learning
- - Machine Learning
+  - AI
+  - Machine Learning
 
 images:
   - url: https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1031924616.jpg?w=500

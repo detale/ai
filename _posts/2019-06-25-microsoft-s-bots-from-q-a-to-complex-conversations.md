@@ -13,9 +13,8 @@ provider:
   id: techrepublic
 
 topics:
- - AI
- - microsoft cognitive services
- - Microsoft AI
+  - AI
+  - Microsoft AI
 
 images:
   - url: https://tr1.cbsistatic.com/hub/i/r/2019/06/24/e628f6fc-098a-4c29-a848-4dd5c960b122/thumbnail/770x578/8164cebdf365c0308c908b293b7dc0dd/microsoft-bots-thumb.jpg

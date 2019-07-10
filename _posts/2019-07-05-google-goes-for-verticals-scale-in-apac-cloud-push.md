@@ -13,10 +13,8 @@ provider:
   id: zdnet
 
 topics:
- - AI
- - artificial intelligence aws
- - AWS AI
- - Microsoft AI
+  - AI
+  - AWS AI
 
 images:
   - url: https://zdnet1.cbsistatic.com/hub/i/r/2016/03/23/71e82a21-c635-4182-808a-479aed4854d2/thumbnail/770x578/c3da089eb5fe421af8c5cd7841434b11/google-cloud-platform.jpg

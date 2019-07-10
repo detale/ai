@@ -14,7 +14,7 @@ provider:
 
 topics:
   - AI
-  - natural language processing
+  - Natural Language Processing
 
 images:
   - url: https://images.readwrite.com/wp-content/uploads/2019/05/How-Emerging-Technologies-Are-Changing-the-Future-of-Work.jpg

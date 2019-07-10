@@ -13,9 +13,8 @@ provider:
   id: techcrunch
 
 topics:
- - AI
- - artificial intelligence self driving
- - AI in Autos
+  - AI
+  - AI in Autos
 
 images:
   - url: https://techcrunch.com/wp-content/uploads/2019/06/DSC_0922-2-e1560241047255.jpg?w=751

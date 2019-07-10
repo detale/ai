@@ -11,9 +11,8 @@ provider:
   id: arstechnica
 
 topics:
- - AI
- - deep learning
- - Machine Learning
+  - AI
+  - Machine Learning
 
 images:
   - url: https://cdn.arstechnica.net/wp-content/uploads/2019/06/GettyImages-537021780-760x380.jpg

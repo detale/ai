@@ -14,7 +14,7 @@ provider:
 
 topics:
   - AI
-  - object recognition
+  - Computer Vision
 
 images:
   - url: https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=598

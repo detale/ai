@@ -14,7 +14,7 @@ provider:
 
 topics:
   - AI
-  - computer vision
+  - Computer Vision
 
 images:
   - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/06/2019-06-22-ts3_thumbs-ad6.jpg

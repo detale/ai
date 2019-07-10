@@ -14,7 +14,7 @@ provider:
 
 topics:
   - AI
-  - pytorch
+  - Facebook AI
 
 images:
   - url: https://images.idgesg.net/images/article/2019/05/user_laptop_binary_code_coding_programming_development_by_metamorworks_gettyimages-1092965422_2400x1600-100795793-large.3x2.jpg

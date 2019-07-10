@@ -13,9 +13,8 @@ provider:
   id: zdnet
 
 topics:
- - AI
- - artificial intelligence aws
- - AWS AI
+  - AI
+  - AWS AI
 
 images:
   - url: https://zdnet1.cbsistatic.com/hub/i/r/2019/06/25/613ed3b0-f048-4650-b6fc-7ce15687f62e/thumbnail/770x578/7408bcf0fe6968667e5bba2e39efab1c/istock-952991586.jpg

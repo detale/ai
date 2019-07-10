@@ -14,5 +14,11 @@ provider:
 
 topics:
   - AI
-  - tensorflow
+  - Google AI
+
+images:
+  - url: https://zdnet1.cbsistatic.com/hub/i/r/2019/06/28/7d6b5be0-067e-4c63-be79-3f7b3ccefcfc/thumbnail/770x578/c0443168b21ff2576fb8485f7f77e776/aiistock-995439834.jpg
+    width: 770
+    height: 578
+    title: "MIT: We're building on Julia programming language to open up AI coding to novices"
 ---

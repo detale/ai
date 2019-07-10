@@ -13,9 +13,8 @@ provider:
   id: slashgear
 
 topics:
- - AI
- - object recognition
- - Computer Vision
+  - AI
+  - Computer Vision
 
 images:
   - url: https://edge.slashgear.com/wp-content/uploads/2019/06/dji-robomaster-1.jpg

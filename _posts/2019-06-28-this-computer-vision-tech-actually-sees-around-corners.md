@@ -13,9 +13,8 @@ provider:
   id: zdnet
 
 topics:
- - AI
- - computer vision
- - Computer Vision
+  - AI
+  - Computer Vision
 
 images:
   - url: https://zdnet2.cbsistatic.com/hub/i/r/2019/06/28/2a16ddbc-6008-46c7-b229-1c54ce18b328/thumbnail/770x578/95d503c348842bf49fee1f74ba4fa511/corners-sight.jpg

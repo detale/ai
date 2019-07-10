@@ -13,9 +13,8 @@ provider:
   id: readwrite
 
 topics:
- - AI
- - artificial intelligence waymo
- - AI in Autos
+  - AI
+  - AI in Autos
 
 images:
   - url: https://images.readwrite.com/wp-content/uploads/2019/05/tech-trends-e1559133773635.jpg

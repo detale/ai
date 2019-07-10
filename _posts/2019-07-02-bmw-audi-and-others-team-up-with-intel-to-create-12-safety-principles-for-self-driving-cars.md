@@ -13,9 +13,8 @@ provider:
   id: techspot
 
 topics:
- - AI
- - artificial intelligence self driving
- - AI in Autos
+  - AI
+  - AI in Autos
 
 images:
   - url: https://static.techspot.com/images2/news/ts3_thumbs/2019/07/2019-07-02-ts3_thumbs-b38.jpg

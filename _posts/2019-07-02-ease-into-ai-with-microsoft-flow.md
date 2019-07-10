@@ -11,9 +11,8 @@ provider:
   id: infoworld
 
 topics:
- - AI
- - microsoft cognitive services
- - Microsoft AI
+  - AI
+  - Microsoft AI
 
 images:
   - url: https://images.idgesg.net/images/article/2018/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large.3x2.jpg

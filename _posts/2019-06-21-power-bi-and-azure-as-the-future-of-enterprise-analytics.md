@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Power BI and Azure as the future of enterprise analytics"
-abstract: "Or you can take advantage of Azure Cognitive Services to analyse the data in images and text, or build your own machine-learning models and run them. SEE: Microsoft Power BI: Getting started with data visualization (free PDF) (TechRepublic) Power BI also ..."
-publishedDateTime: 2019-06-21T10:08:00Z
+abstract: "which you can do through the Azure portal, or make interactive using the Power BI Desktop app. The automated machine learning in Power BI is the AutoML feature from Azure Machine Learning, which looks at what you're trying to predict and what data you have ..."
+publishedDateTime: 2019-06-21T10:21:00Z
 sourceUrl: https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/
 ampUrl: https://www.techrepublic.com/google-amp/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/
@@ -13,13 +13,12 @@ provider:
   id: techrepublic
 
 topics:
- - AI
- - microsoft cognitive services
- - Microsoft AI
+  - AI
+  - Microsoft AI
 
 images:
-  - url: https://tr1.cbsistatic.com/hub/i/r/2019/06/20/4bf2f37f-c716-4186-ae4d-be8363c7c64a/thumbnail/770x578/52d3dbda5d48a92e29be5f50dd2a34e0/power-bi-thumb.png
-    width: 770
-    height: 578
+  - url: https://tr1.cbsistatic.com/hub/i/r/2019/05/11/61b303e5-ffd5-4a83-bff1-01bb383e9fce/thumbnail/768x432/171b2410435ce742e2ab1eb6846a1ed6/thumb.jpg
+    width: 768
+    height: 432
     title: "Power BI and Azure as the future of enterprise analytics"
 ---

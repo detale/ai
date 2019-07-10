@@ -13,9 +13,8 @@ provider:
   id: theverge
 
 topics:
- - AI
- - artificial intelligence therapy
- - AI in Healthcare
+  - AI
+  - AI in Healthcare
 
 images:
   - url: https://cdn.vox-cdn.com/thumbor/Vt0pvDlHc02TBdoeYBIyfe3Rt6Q=/0x0:2404x1259/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/18282838/151062312.jpg.jpg

@@ -11,10 +11,8 @@ provider:
   id: infoworld
 
 topics:
- - AI
- - machine learning
- - Machine Learning
- - Google AI
+  - AI
+  - Google AI
 
 images:
   - url: https://images.idgesg.net/images/article/2019/02/abstract-binary-vortex_matrix_motion_digtial-transformation_disruption_-by-simon-carter-peter-crowther-getty-100786981-large.3x2.jpg
