@@ -7,10 +7,11 @@ sourceUrl: https://www.zdnet.com/article/game-of-rods-and-cones-will-computer-vi
 ampUrl: https://www.zdnet.com/google-amp/article/game-of-rods-and-cones-will-computer-vision-rule-the-enterprise/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/game-of-rods-and-cones-will-computer-vision-rule-the-enterprise/
 type: article
+score: 90
 
 provider:
   name: ZDNet
-  id: zdnet
+  id: zdnet.com
 
 topics:
   - AI

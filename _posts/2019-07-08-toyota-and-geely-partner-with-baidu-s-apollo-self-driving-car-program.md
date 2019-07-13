@@ -7,10 +7,11 @@ sourceUrl: https://www.cnet.com/roadshow/news/toyota-geely-baidu-apollo-partners
 ampUrl: https://www.cnet.com/google-amp/news/toyota-geely-baidu-apollo-partnership/
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/toyota-geely-baidu-apollo-partnership/
 type: article
+score: 90
 
 provider:
   name: CNET
-  id: cnet
+  id: cnet.com
 
 topics:
   - AI

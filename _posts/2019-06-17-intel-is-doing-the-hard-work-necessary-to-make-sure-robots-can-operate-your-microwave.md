@@ -7,10 +7,12 @@ sourceUrl: https://techcrunch.com/2019/06/17/intel-is-doing-the-hard-work-necess
 ampUrl: https://techcrunch.com/2019/06/17/intel-is-doing-the-hard-work-necessary-to-make-sure-robots-can-operate-your-microwave/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/06/17/intel-is-doing-the-hard-work-necessary-to-make-sure-robots-can-operate-your-microwave/amp/
 type: article
+score: 19
+published: false
 
 provider:
   name: TechCrunch
-  id: techcrunch
+  id: techcrunch.com
 
 topics:
   - AI

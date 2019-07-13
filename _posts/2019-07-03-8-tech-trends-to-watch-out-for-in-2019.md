@@ -7,10 +7,11 @@ sourceUrl: https://readwrite.com/2019/07/03/8-tech-trends-to-watch-out-for-in-20
 ampUrl: https://readwrite.com/2019/07/03/8-tech-trends-to-watch-out-for-in-2019/amp/
 cdnAmpUrl: https://readwrite-com.cdn.ampproject.org/c/s/readwrite.com/2019/07/03/8-tech-trends-to-watch-out-for-in-2019/amp/
 type: article
+score: 55
 
 provider:
   name: ReadWrite
-  id: readwrite
+  id: readwrite.com
 
 topics:
   - AI

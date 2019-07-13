@@ -7,15 +7,15 @@ sourceUrl: https://techcrunch.com/2019/07/05/clever-cloud-launches-gpu-based-ins
 ampUrl: https://techcrunch.com/2019/07/05/clever-cloud-launches-gpu-based-instances/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/07/05/clever-cloud-launches-gpu-based-instances/amp/
 type: article
+score: 57
 
 provider:
   name: TechCrunch
-  id: techcrunch
+  id: techcrunch.com
 
 topics:
- - AI
- - Facebook AI
- - Google AI
+  - AI
+  - Facebook AI
 
 images:
   - url: https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-885300382.jpg?w=600

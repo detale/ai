@@ -7,10 +7,11 @@ sourceUrl: https://www.zdnet.com/article/microsoft-gives-immersive-reader-the-ai
 ampUrl: https://www.zdnet.com/google-amp/article/microsoft-gives-immersive-reader-the-ai-treatment/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gives-immersive-reader-the-ai-treatment/
 type: article
+score: 57
 
 provider:
   name: ZDNet
-  id: zdnet
+  id: zdnet.com
 
 topics:
   - AI

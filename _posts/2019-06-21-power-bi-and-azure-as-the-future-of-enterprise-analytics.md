@@ -2,15 +2,16 @@
 category: news
 title: "Power BI and Azure as the future of enterprise analytics"
 abstract: "which you can do through the Azure portal, or make interactive using the Power BI Desktop app. The automated machine learning in Power BI is the AutoML feature from Azure Machine Learning, which looks at what you're trying to predict and what data you have ..."
-publishedDateTime: 2019-06-21T10:21:00Z
+publishedDateTime: 2019-06-21T10:08:00Z
 sourceUrl: https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/
 ampUrl: https://www.techrepublic.com/google-amp/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/
 type: article
+score: 58
 
 provider:
   name: TechRepublic
-  id: techrepublic
+  id: techrepublic.com
 
 topics:
   - AI

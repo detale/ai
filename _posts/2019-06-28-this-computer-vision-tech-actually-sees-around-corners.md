@@ -7,10 +7,11 @@ sourceUrl: https://www.zdnet.com/article/this-computer-vision-tech-actually-sees
 ampUrl: https://www.zdnet.com/google-amp/article/this-computer-vision-tech-actually-sees-around-corners/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-computer-vision-tech-actually-sees-around-corners/
 type: article
+score: 80
 
 provider:
   name: ZDNet
-  id: zdnet
+  id: zdnet.com
 
 topics:
   - AI

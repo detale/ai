@@ -1,16 +1,17 @@
 ---
 category: news
 title: "BMW and Daimler to co-develop driverless technologies"
-abstract: "The partnership follows Waymo, Nissan, and Renault last month entering into ... Mercedes Benz, a brand under Daimler, partnered up with Nvidia in February for it to build out artificial intelligence architecture for its cars. Tmall Genie, the voice ..."
+abstract: "In May, GM's driverless car company Cruise raised $1.15 billion ... Mercedes Benz, a brand under Daimler, partnered up with Nvidia in February for it to build out artificial intelligence architecture for its cars. Tmall Genie, the voice assistant ..."
 publishedDateTime: 2019-07-05T00:41:00Z
 sourceUrl: https://www.zdnet.com/article/bmw-and-daimler-to-co-develop-driverless-technologies/
 ampUrl: https://www.zdnet.com/google-amp/article/bmw-and-daimler-to-co-develop-driverless-technologies/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bmw-and-daimler-to-co-develop-driverless-technologies/
 type: article
+score: 71
 
 provider:
   name: ZDNet
-  id: zdnet
+  id: zdnet.com
 
 topics:
   - AI

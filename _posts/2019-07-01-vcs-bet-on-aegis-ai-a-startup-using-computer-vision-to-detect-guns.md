@@ -7,10 +7,11 @@ sourceUrl: https://techcrunch.com/2019/07/01/aegis-ai/
 ampUrl: https://techcrunch.com/2019/07/01/aegis-ai/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/07/01/aegis-ai/amp/
 type: article
+score: 83
 
 provider:
   name: TechCrunch
-  id: techcrunch
+  id: techcrunch.com
 
 topics:
   - AI
