@@ -5,10 +5,11 @@ abstract: "It is the first and only FDA cleared 3D tomosynthesis technology usin
 publishedDateTime: 2019-07-10T13:21:00Z
 sourceUrl: https://finance.yahoo.com/news/simonmed-imaging-implements-first-fda-120000868.html
 type: article
-score: 52
+score: 41
+published: false
 
 provider:
-  name: YAHOO!
+  name: YAHOO! News
   id: yahoo.com
 
 topics:

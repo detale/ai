@@ -7,7 +7,7 @@ sourceUrl: https://www.techrepublic.com/article/developers-these-are-the-10-most
 ampUrl: https://www.techrepublic.com/google-amp/article/developers-these-are-the-10-most-in-demand-framework-technologies-at-top-companies/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/developers-these-are-the-10-most-in-demand-framework-technologies-at-top-companies/
 type: article
-score: 63
+score: 52
 
 provider:
   name: TechRepublic

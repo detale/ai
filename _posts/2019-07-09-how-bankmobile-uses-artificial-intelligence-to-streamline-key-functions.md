@@ -5,7 +5,8 @@ abstract: "And this has allowed us to explore new technologies, notably investin
 publishedDateTime: 2019-07-10T04:12:00Z
 sourceUrl: https://thefinancialbrand.com/85270/bank-credit-union-ai-artificial-intelligence-bankmobile/
 type: article
-score: 51
+score: 40
+published: false
 
 provider:
   name: The Financial Brand

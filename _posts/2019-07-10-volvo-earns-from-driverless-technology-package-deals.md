@@ -7,7 +7,8 @@ sourceUrl: https://www.businesslive.co.za/bd/companies/2019-07-10-volvo-earns-fr
 ampUrl: https://www.businesslive.co.za/amp/bd/companies/2019-07-10-volvo-earns-from-driverless-technology-package-deals/
 cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2019-07-10-volvo-earns-from-driverless-technology-package-deals/
 type: article
-score: 57
+score: 46
+published: false
 
 provider:
   name: businesslive.co.za

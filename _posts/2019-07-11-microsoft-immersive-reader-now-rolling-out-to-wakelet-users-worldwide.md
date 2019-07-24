@@ -7,7 +7,7 @@ sourceUrl: https://mspoweruser.com/microsoft-immersive-reader-now-rolling-out-to
 ampUrl: https://mspoweruser.com/microsoft-immersive-reader-now-rolling-out-to-wakelet-users-worldwide/amp/
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-immersive-reader-now-rolling-out-to-wakelet-users-worldwide/amp/
 type: article
-score: 38
+score: 47
 published: false
 
 provider:
@@ -17,4 +17,10 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://mspoweruser.com/wp-content/uploads/2019/07/Immersive-Reader-Wakelet.jpg
+    width: 1396
+    height: 842
+    title: "Microsoft Immersive Reader now rolling out to Wakelet users worldwide"
 ---

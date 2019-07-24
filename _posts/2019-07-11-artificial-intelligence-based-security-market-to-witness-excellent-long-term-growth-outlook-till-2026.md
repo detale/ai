@@ -5,7 +5,8 @@ abstract: "Artificial intelligence techniques can be used for security managemen
 publishedDateTime: 2019-07-11T10:37:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-to-witness-excellent-long-term-growth-outlook-till-2026-2019-07-11
 type: article
-score: 53
+score: 42
+published: false
 
 provider:
   name: MarketWatch

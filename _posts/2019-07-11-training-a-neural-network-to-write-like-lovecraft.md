@@ -5,7 +5,7 @@ abstract: "The output of a layer’s neurons, a new vector, is fed to the next l
 publishedDateTime: 2019-07-11T14:23:00Z
 sourceUrl: https://www.kdnuggets.com/2019/07/training-neural-network-write-like-lovecraft.html
 type: article
-score: 20
+score: 27
 published: false
 
 provider:
@@ -15,5 +15,10 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Google AI
+
+images:
+  - url: https://ars.els-cdn.com/content/image/1-s2.0-S2405656118301020-gr1.jpg
+    width: 535
+    height: 282
+    title: "Training a Neural Network to Write Like Lovecraft"
 ---

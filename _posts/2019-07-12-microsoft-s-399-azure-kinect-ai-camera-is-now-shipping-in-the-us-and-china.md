@@ -7,7 +7,7 @@ sourceUrl: https://techcrunch.com/2019/07/11/microsofts-399-azure-kinect-ai-came
 ampUrl: https://techcrunch.com/2019/07/11/microsofts-399-azure-kinect-ai-camera-is-now-shipping-in-the-u-s-and-china/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/07/11/microsofts-399-azure-kinect-ai-camera-is-now-shipping-in-the-u-s-and-china/amp/
 type: article
-score: 94
+score: 83
 
 provider:
   name: TechCrunch
@@ -18,8 +18,8 @@ topics:
   - Microsoft AI
 
 images:
-  - url: https://techcrunch.com/wp-content/uploads/2019/07/2019-07-11_1114.png?w=752
-    width: 752
-    height: 400
+  - url: https://techcrunch.com/wp-content/uploads/2019/07/kinect-developers.jpg
+    width: 1600
+    height: 900
     title: "Microsoft’s $399 Azure Kinect AI camera is now shipping in the US and China"
 ---

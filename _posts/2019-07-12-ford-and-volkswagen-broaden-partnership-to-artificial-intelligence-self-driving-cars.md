@@ -7,7 +7,7 @@ sourceUrl: https://www.barrons.com/articles/ford-volkswagen-broaden-partnership-
 ampUrl: https://www.barrons.com/amp/articles/ford-volkswagen-broaden-partnership-to-self-driving-cars-51562934807
 cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ford-volkswagen-broaden-partnership-to-self-driving-cars-51562934807
 type: article
-score: 104
+score: 93
 
 provider:
   name: Barron's

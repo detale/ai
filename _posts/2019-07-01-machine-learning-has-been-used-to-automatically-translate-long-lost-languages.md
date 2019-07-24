@@ -2,13 +2,12 @@
 category: news
 title: "Machine learning has been used to automatically translate long-lost languages"
 abstract: "It’s not hard to imagine that recent advances in machine translation might help. In just a few years, the study of linguistics has been revolutionized by the availability of huge annotated databases, and techniques for getting machines to learn from them."
-publishedDateTime: 2019-07-01T09:50:00Z
+publishedDateTime: 2019-07-01T09:48:00Z
 sourceUrl: https://www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/
 ampUrl: https://www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/amp/
 cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/amp/
 type: article
-score: 48
-published: false
+score: 52
 
 provider:
   name: MIT Technology Review

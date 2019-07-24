@@ -7,7 +7,7 @@ sourceUrl: https://www.zdnet.com/article/google-nvidia-tout-advances-in-ai-train
 ampUrl: https://www.zdnet.com/google-amp/article/google-nvidia-tout-advances-in-ai-training-with-mlperf-benchmark-results/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-nvidia-tout-advances-in-ai-training-with-mlperf-benchmark-results/
 type: article
-score: 44
+score: 31
 published: false
 
 provider:
@@ -17,5 +17,4 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Google AI
 ---

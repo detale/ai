@@ -5,7 +5,8 @@ abstract: "Artificial Intelligence (AI) is one such important ... agricultural d
 publishedDateTime: 2019-07-11T12:47:00Z
 sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-ai-agriculture-market-112645951.html
 type: article
-score: 55
+score: 42
+published: false
 
 provider:
   name: YAHOO! News
@@ -14,5 +15,4 @@ provider:
 topics:
   - AI
   - AI in Autos
-  - Robotics
 ---

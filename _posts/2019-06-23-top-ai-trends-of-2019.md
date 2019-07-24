@@ -2,10 +2,10 @@
 category: news
 title: "Top AI Trends of 2019"
 abstract: "According to the Allen Institute for Artificial Intelligence, China is likely to have more top ... self-driving truck startups working on this including Tesla, TuSimple, Waymo, Embark, Ike Daimler, Einride, and others. 7. Cashierless Brick-and-Mortar ..."
-publishedDateTime: 2019-06-23T16:56:00Z
+publishedDateTime: 2019-06-23T20:01:00Z
 sourceUrl: https://medium.com/artificial-intelligence-network/top-ai-trends-of-2019-727c263b7ac2
 type: article
-score: 25
+score: 14
 published: false
 
 provider:

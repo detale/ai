@@ -5,7 +5,8 @@ abstract: "Lately, with the boom of deep learning, machine learning, and artific
 publishedDateTime: 2019-07-11T00:03:00Z
 sourceUrl: https://technical.ly/baltimore/2019/07/10/5-questions-with-josh-budman-applying-neural-networks-in-medical-imaging-at-tissue-analytics/
 type: article
-score: 52
+score: 41
+published: false
 
 provider:
   name: Technical

@@ -7,7 +7,8 @@ sourceUrl: https://hothardware.com/news/deepmind-starcraft-ii-ai-human-players-i
 ampUrl: https://amp.hothardware.com/news/deepmind-starcraft-ii-ai-human-players-in-public-ranked-matches
 cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepmind-starcraft-ii-ai-human-players-in-public-ranked-matches
 type: article
-score: 58
+score: 47
+published: false
 
 provider:
   name: HotHardware

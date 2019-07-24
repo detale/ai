@@ -5,7 +5,7 @@ abstract: "And lastly, Google says it is now using Neural Machine Translation fo
 publishedDateTime: 2019-07-10T17:54:00Z
 sourceUrl: https://www.thurrott.com/google/210153/googles-translates-instant-camera-translation-gets-new-languages-improved-features
 type: article
-score: 37
+score: 26
 published: false
 
 provider:

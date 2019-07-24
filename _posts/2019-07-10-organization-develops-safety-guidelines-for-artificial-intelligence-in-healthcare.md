@@ -5,7 +5,7 @@ abstract: "The innovation and adoption of automation, robotics, and artificial i
 publishedDateTime: 2019-07-10T19:57:00Z
 sourceUrl: https://www.ehstoday.com/safety-technology/organization-develops-safety-guidelines-artificial-intelligence-healthcare
 type: article
-score: 69
+score: 56
 
 provider:
   name: EHS Today
@@ -14,11 +14,10 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - Robotics
 
 images:
-  - url: https://www.ehstoday.com/sites/ehstoday.com/files/heart_2.jpg
-    width: 2121
-    height: 1414
+  - url: https://www.ehstoday.com/sites/ehstoday.com/files/styles/article_featured_standard/public/heart_2.jpg?itok=eBcoLCbH
+    width: 770
+    height: 400
     title: "Organization Develops Safety Guidelines for Artificial Intelligence in Healthcare"
 ---

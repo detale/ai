@@ -7,7 +7,7 @@ sourceUrl: https://www.smartinsights.com/localization/how-best-to-grow-your-mark
 ampUrl: https://www.smartinsights.com/localization/how-best-to-grow-your-markets-by-translation-and-localization/amp/
 cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/localization/how-best-to-grow-your-markets-by-translation-and-localization/amp/
 type: article
-score: 37
+score: 26
 published: false
 
 provider:

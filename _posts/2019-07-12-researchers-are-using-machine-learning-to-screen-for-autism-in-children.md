@@ -7,7 +7,7 @@ sourceUrl: https://medicalxpress.com/news/2019-07-machine-screen-autism-children
 ampUrl: https://medicalxpress.com/news/2019-07-machine-screen-autism-children.amp
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-07-machine-screen-autism-children.amp
 type: article
-score: 78
+score: 63
 
 provider:
   name: Medical Xpress
@@ -16,8 +16,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Google AI
-  - Machine Learning
 
 images:
   - url: https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2019/2-autism.jpg

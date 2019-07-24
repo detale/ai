@@ -7,7 +7,8 @@ sourceUrl: https://phys.org/news/2019-07-road-driverless-mobility.html
 ampUrl: https://phys.org/news/2019-07-road-driverless-mobility.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-07-road-driverless-mobility.amp
 type: article
-score: 57
+score: 46
+published: false
 
 provider:
   name: Phys.org

@@ -2,23 +2,19 @@
 category: news
 title: "If You Still Need a Reason to Buy Google Stock, Take a Look at AI"
 abstract: "One of the catalysts is actually something that does not get enough attention: Artificial Intelligence ... most prominent AI investment at Google is Waymo, which is the company’s autonomous ..."
-publishedDateTime: 2019-07-05T16:35:00Z
-sourceUrl: https://finance.yahoo.com/news/still-reason-buy-google-stock-112637074.html
+publishedDateTime: 2019-07-05T09:26:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/reason-to-buy-google-stock-ai-1028331888
+ampUrl: https://markets.businessinsider.com/amp/news/reason-to-buy-google-stock-ai-1028331888
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reason-to-buy-google-stock-ai-1028331888
 type: article
-score: 37
+score: 26
 published: false
 
 provider:
-  name: YAHOO!
-  id: yahoo.com
+  name: Business Insider
+  id: businessinsider.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://s.yimg.com/uu/api/res/1.2/oiKfCRHjbD_fcWVt4eYw3w--~B/aD00MDA7dz03Mjg7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/investorplace_417/f6c7f2f6a0ed3fa7cb382aa33f2f69ca
-    width: 728
-    height: 400
-    title: "If You Still Need a Reason to Buy Google Stock, Take a Look at AI"
 ---

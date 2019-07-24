@@ -7,7 +7,7 @@ sourceUrl: https://www.nasdaq.com/article/5-artificial-intelligence-stocks-to-co
 ampUrl: https://www.nasdaq.com/article/5-artificial-intelligence-stocks-to-consider-cm1175265/amp
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/article/5-artificial-intelligence-stocks-to-consider-cm1175265/amp
 type: article
-score: 73
+score: 62
 
 provider:
   name: Nasdaq

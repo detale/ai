@@ -7,7 +7,7 @@ sourceUrl: https://9to5google.com/2019/07/10/google-translate-camera-revamp/
 ampUrl: https://9to5google.com/2019/07/10/google-translate-camera-revamp/amp/
 cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/07/10/google-translate-camera-revamp/amp/
 type: article
-score: 42
+score: 31
 published: false
 
 provider:

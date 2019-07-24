@@ -7,7 +7,8 @@ sourceUrl: https://www.business2community.com/infographics/programming-the-ethic
 ampUrl: https://www.business2community.com/infographics/programming-the-ethics-of-artificial-intelligence-infographic-02220073/amp
 cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/infographics/programming-the-ethics-of-artificial-intelligence-infographic-02220073/amp
 type: article
-score: 53
+score: 42
+published: false
 
 provider:
   name: Business 2 Community

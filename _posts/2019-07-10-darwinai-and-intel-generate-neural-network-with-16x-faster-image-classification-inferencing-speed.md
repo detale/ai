@@ -5,7 +5,7 @@ abstract: "Artificial intelligence startup DarwinAI has announced that its Gener
 publishedDateTime: 2019-07-10T16:26:00Z
 sourceUrl: https://www.biometricupdate.com/201907/darwinai-and-intel-generate-neural-network-with-16x-faster-image-classification-inferencing-speed
 type: article
-score: 17
+score: 26
 published: false
 
 provider:
@@ -15,4 +15,10 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://s0.wp.com/i/blank.jpg
+    width: 200
+    height: 200
+    title: "DarwinAI and Intel generate neural network with 16X faster image classification inferencing speed"
 ---

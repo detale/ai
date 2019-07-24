@@ -2,12 +2,12 @@
 category: news
 title: "Game of (rods and) cones: Will computer vision rule the enterprise?"
 abstract: "Download Forrester's guide to gain a pragmatic view of the future of work. Brace yourself: Computer vision is coming. \"The Long Night\" is finally over, and enterprises see the opportunity more clearly than ever. With AI replacing biological rods ..."
-publishedDateTime: 2019-07-08T13:14:00Z
+publishedDateTime: 2019-07-08T13:20:00Z
 sourceUrl: https://www.zdnet.com/article/game-of-rods-and-cones-will-computer-vision-rule-the-enterprise/
 ampUrl: https://www.zdnet.com/google-amp/article/game-of-rods-and-cones-will-computer-vision-rule-the-enterprise/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/game-of-rods-and-cones-will-computer-vision-rule-the-enterprise/
 type: article
-score: 90
+score: 79
 
 provider:
   name: ZDNet

@@ -5,7 +5,7 @@ abstract: "We've grown accustomed to hearing about Python being used for pretty 
 publishedDateTime: 2019-07-11T18:14:00Z
 sourceUrl: https://www.i-programmer.info/news/169-robotics/12922-pyrobot-python-for-robotics.html
 type: article
-score: 18
+score: 22
 published: false
 
 provider:

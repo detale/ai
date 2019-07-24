@@ -5,7 +5,7 @@ abstract: "By collaborating on next-generation experiences, Microsoft and Servic
 publishedDateTime: 2019-07-10T22:33:00Z
 sourceUrl: https://www.helpnetsecurity.com/2019/07/11/microsoft-servicenow/
 type: article
-score: 17
+score: 6
 published: false
 
 provider:

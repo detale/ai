@@ -7,7 +7,7 @@ sourceUrl: https://thenextweb.com/artificial-intelligence/2019/06/25/this-ibm-co
 ampUrl: https://thenextweb.com/artificial-intelligence/2019/06/25/this-ibm-code-pattern-makes-it-easy-to-create-your-own-object-recognition-ai/amp/
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/artificial-intelligence/2019/06/25/this-ibm-code-pattern-makes-it-easy-to-create-your-own-object-recognition-ai/amp/
 type: article
-score: 77
+score: 66
 
 provider:
   name: thenextweb.com
@@ -18,8 +18,8 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&#038;fit=1280%2C640&#038;url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F06%2Fibmcloudannotations.jpg&#038;signature=bb13418c2af599972add0753328a21ad
-    width: 800
-    height: 400
+  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/06/ibmcloudannotations-796x399.jpg
+    width: 796
+    height: 399
     title: "This IBM Code Pattern makes it easy to create your own object recognition AI"
 ---

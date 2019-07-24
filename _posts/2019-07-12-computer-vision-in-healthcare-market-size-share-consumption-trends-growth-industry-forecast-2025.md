@@ -5,7 +5,7 @@ abstract: "“Computer Vision in Healthcare - Market Demand, Growth, Opportuniti
 publishedDateTime: 2019-07-12T07:08:00Z
 sourceUrl: https://www.einpresswire.com/article/490524097/computer-vision-in-healthcare-market-size-share-consumption-trends-growth-industry-forecast-2025
 type: article
-score: 33
+score: 38
 published: false
 
 provider:

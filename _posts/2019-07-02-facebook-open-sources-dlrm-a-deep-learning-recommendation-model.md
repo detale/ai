@@ -7,7 +7,7 @@ sourceUrl: https://venturebeat.com/2019/07/02/facebook-open-sources-dlrm-a-deep-
 ampUrl: https://venturebeat.com/2019/07/02/facebook-open-sources-dlrm-a-deep-learning-recommendation-model/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/02/facebook-open-sources-dlrm-a-deep-learning-recommendation-model/amp/
 type: article
-score: 86
+score: 73
 
 provider:
   name: VentureBeat
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Machine Learning
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2018/08/download-19.jpeg?w=1200&#038;strip=all

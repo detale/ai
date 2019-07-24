@@ -1,13 +1,13 @@
 ---
 category: news
 title: "A look inside neural networks"
-abstract: "The progress is a result of using artificial neural networks based on connections between mathematical calculation units that in principle imitate the neural structure of the human brain."
-publishedDateTime: 2019-07-02T13:01:00Z
+abstract: "The progress is a result of using artificial neural networks based on connections between mathematical calculation units that in principle imitate the neural structure of the human brain. A subfield of machine learning, deep learning, covers a class of new ..."
+publishedDateTime: 2019-07-02T12:59:00Z
 sourceUrl: https://phys.org/news/2019-07-neural-networks.html
 ampUrl: https://phys.org/news/2019-07-neural-networks.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-07-neural-networks.amp
 type: article
-score: 64
+score: 53
 
 provider:
   name: Phys.org

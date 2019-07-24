@@ -5,7 +5,7 @@ abstract: "Jul 11, 2019 (Hitech News Daily via COMTEX) -- Machine translation (M
 publishedDateTime: 2019-07-11T12:19:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-analysis-focusing-on-top-key-players-microsoft-corporation-systran-lionbridge-technologies-2019-07-11
 type: article
-score: 73
+score: 57
 
 provider:
   name: MarketWatch
@@ -14,10 +14,4 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Machine Translation (MT) Market Analysis Focusing on Top Key Players | Microsoft Corporation, SYSTRAN, Lionbridge Technologies"
 ---

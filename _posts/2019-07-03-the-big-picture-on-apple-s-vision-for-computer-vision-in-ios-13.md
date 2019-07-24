@@ -7,7 +7,7 @@ sourceUrl: https://www.computerworld.com/article/3406760/the-big-picture-on-appl
 ampUrl: https://www.computerworld.com/article/3406760/the-big-picture-on-apples-vision-for-computer-vision-in-ios-13.amp.html
 cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3406760/the-big-picture-on-apples-vision-for-computer-vision-in-ios-13.amp.html
 type: article
-score: 65
+score: 54
 
 provider:
   name: Computerworld

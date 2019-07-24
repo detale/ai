@@ -5,7 +5,7 @@ abstract: "“Django, Flask, and PyTorch are all Python frameworks, which indica
 publishedDateTime: 2019-07-11T18:20:00Z
 sourceUrl: https://sdtimes.com/softwaredev/top-unicorns-herd-to-python/
 type: article
-score: 23
+score: 0
 published: false
 
 provider:
@@ -15,10 +15,4 @@ provider:
 topics:
   - AI
   - Facebook AI
-
-images:
-  - url: https://sdtimes.com/wp-content/uploads/2019/07/Unicorn-Blog-Header.png
-    width: 600
-    height: 400
-    title: "Top unicorns herd to Python"
 ---

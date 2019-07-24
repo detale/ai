@@ -5,7 +5,7 @@ abstract: "The award is part of DARPA’s Artificial Intelligence Exploration ..
 publishedDateTime: 2019-07-10T16:41:00Z
 sourceUrl: https://finance.yahoo.com/news/battelle-explore-artificial-intelligence-neural-120000677.html
 type: article
-score: 67
+score: 56
 
 provider:
   name: YAHOO! News

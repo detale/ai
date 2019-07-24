@@ -5,7 +5,8 @@ abstract: "Behind Xi, on a bookshelf, were two books on artificial intelligence 
 publishedDateTime: 2019-07-11T11:02:00Z
 sourceUrl: https://blogs.scientificamerican.com/observations/the-geopolitics-of-artificial-intelligence/
 type: article
-score: 55
+score: 42
+published: false
 
 provider:
   name: Scientific American
@@ -14,7 +15,6 @@ provider:
 topics:
   - AI
   - AI in Finance
-  - AI in Healthcare
 
 images:
   - url: https://static.scientificamerican.com/blogs/cache/file/07057D55-0EE3-49E7-BCDA2ADDD7B8FEBA.jpg

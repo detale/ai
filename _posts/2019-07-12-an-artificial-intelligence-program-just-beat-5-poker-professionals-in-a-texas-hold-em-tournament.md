@@ -5,7 +5,7 @@ abstract: "A new artificial intelligence program the company ... Many of the har
 publishedDateTime: 2019-07-12T14:53:00Z
 sourceUrl: https://time.com/5624968/facebook-ai-beats-professional-cardplayers/
 type: article
-score: 74
+score: 63
 
 provider:
   name: Time

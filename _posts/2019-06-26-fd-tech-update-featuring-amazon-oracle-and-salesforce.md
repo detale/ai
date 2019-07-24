@@ -7,7 +7,7 @@ sourceUrl: https://www.financialdirector.co.uk/2019/06/26/fd-tech-update-featuri
 ampUrl: https://www.financialdirector.co.uk/2019/06/26/fd-tech-update-featuring-amazon-oracle-and-salesforce/amp/
 cdnAmpUrl: https://www-financialdirector-co-uk.cdn.ampproject.org/c/s/www.financialdirector.co.uk/2019/06/26/fd-tech-update-featuring-amazon-oracle-and-salesforce/amp/
 type: article
-score: 8
+score: 0
 published: false
 
 provider:

@@ -5,7 +5,7 @@ abstract: "Stories like Juntunen’s are becoming common as robotics and artific
 publishedDateTime: 2019-07-08T21:17:00Z
 sourceUrl: https://japantoday.com/category/features/health/how-artificial-intelligence-is-transforming-medicine
 type: article
-score: 30
+score: 19
 published: false
 
 provider:

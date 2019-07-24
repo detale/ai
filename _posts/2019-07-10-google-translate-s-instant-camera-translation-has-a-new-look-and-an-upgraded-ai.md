@@ -7,7 +7,7 @@ sourceUrl: https://www.techspot.com/news/80890-google-translate-instant-camera-t
 ampUrl: https://www.techspot.com/amp/news/80890-google-translate-instant-camera-translation-has-upgraded-ai.html
 cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/80890-google-translate-instant-camera-translation-has-upgraded-ai.html
 type: article
-score: 77
+score: 66
 
 provider:
   name: TechSpot

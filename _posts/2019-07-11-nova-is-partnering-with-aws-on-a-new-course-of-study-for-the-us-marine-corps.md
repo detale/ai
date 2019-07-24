@@ -5,7 +5,7 @@ abstract: "NOVA and AWS Educate are working to form a set of courses in data int
 publishedDateTime: 2019-07-11T23:17:00Z
 sourceUrl: https://technical.ly/dc/2019/07/11/nova-is-partnering-with-aws-on-a-new-course-of-study-for-the-us-marine-corps/
 type: article
-score: 38
+score: 27
 published: false
 
 provider:
