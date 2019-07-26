@@ -5,7 +5,7 @@ abstract: "Natural Language Processing enables LG’s new televisions to work us
 publishedDateTime: 2019-07-22T21:37:00Z
 sourceUrl: https://www.gulf-times.com/story/637248/Qatar-says-Hala-to-first-AI-TVs-with-Arabic-langua
 type: article
-score: 38
+score: 36
 published: false
 
 provider:

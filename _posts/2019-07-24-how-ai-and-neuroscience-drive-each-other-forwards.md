@@ -1,11 +1,11 @@
 ---
 category: news
 title: "How AI and neuroscience drive each other forwards"
-abstract: "Object recognition in humans and monkeys is performed by a brain system called the ventral visual stream, which has two main architectural features. First, it is retinotopic, which means that the visual-processing pathways in the brain are organized in a ..."
+abstract: "It’s this kind of system that London-based AI research company DeepMind Technologies, which is owned by Google’s parent company, Alphabet, used to build the computer that beat a professional human player at the board game Go in 2015 — a victory ..."
 publishedDateTime: 2019-07-24T14:16:00Z
-sourceUrl: https://www.nature.com/articles/d41586-019-02212-4?bcmt=1
+sourceUrl: https://www.nature.com/articles/d41586-019-02212-4
 type: article
-score: 24
+score: 23
 published: false
 
 provider:
@@ -14,7 +14,7 @@ provider:
 
 topics:
   - AI
-  - Computer Vision
+  - Google AI
 
 images:
   - url: https://media.nature.com/lw1024/magazine-assets/d41586-019-02212-4/d41586-019-02212-4_16961158.jpg

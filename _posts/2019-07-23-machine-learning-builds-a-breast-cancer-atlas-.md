@@ -5,7 +5,7 @@ abstract: "Scientists at the University of Zurich have used artificial technolog
 publishedDateTime: 2019-07-23T11:07:00Z
 sourceUrl: https://www.reuters.com/video/2019/07/23/machine-learning-builds-a-breast-cancer?videoId=578196843
 type: article
-score: 74
+score: 72
 
 provider:
   name: Reuters

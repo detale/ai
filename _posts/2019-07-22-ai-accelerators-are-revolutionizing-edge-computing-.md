@@ -5,7 +5,7 @@ abstract: "The modern deep learning frameworks such as TensorFlow, PyTorch, Apac
 publishedDateTime: 2019-07-23T05:28:00Z
 sourceUrl: https://www.cioreview.com/news/ai-accelerators-are-revolutionizing-edge-computing-nid-29938-cid-175.html
 type: article
-score: 26
+score: 23
 published: false
 
 provider:
@@ -14,8 +14,8 @@ provider:
 
 topics:
   - AI
-  - Google AI
   - Facebook AI
+  - Google AI
 
 images:
   - url: https://cioreview.com/news_new/sliderimage/rfnxb.image300x35012356.jpg

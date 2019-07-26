@@ -1,18 +1,24 @@
 ---
 category: news
 title: "Blue Prism to Expand Delivery of Intelligent Automation Solutions on Microsoft Azure"
-abstract: "Blue Prism (AIM: PRSM), a leader in Robotic Process Automation (RPA), today announced plans to deliver leading-edge intelligent automation solutions and cognitive services on Microsoft Azure. Advanced AI and Machine Learning Capabilities Accelerate and ..."
-publishedDateTime: 2019-07-15T22:51:00Z
-sourceUrl: https://www.cmo.com.au/mediareleases/35081/blue-prism-to-expand-delivery-of-intelligent/
+abstract: "LONDON and AUSTIN, Texas, July 15, 2019 /PRNewswire/ -- Blue Prism (AIM: PRSM), a leader in Robotic Process Automation (RPA), today announced plans to deliver leading-edge intelligent automation solutions and cognitive services on Microsoft Azure."
+publishedDateTime: 2019-07-15T17:12:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/blue-prism-to-expand-delivery-of-intelligent-automation-solutions-on-microsoft-azure-813424934.html
 type: article
-score: 26
+score: 44
 published: false
 
 provider:
-  name: cmo.com.au
-  id: cmo.com.au
+  name: PR Newswire
+  id: prnewswire.co.uk
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://mma.prnewswire.com/media/663826/Blue_Prism_Logo.jpg?p=facebook
+    width: 1166
+    height: 610
+    title: "Blue Prism to Expand Delivery of Intelligent Automation Solutions on Microsoft Azure"
 ---

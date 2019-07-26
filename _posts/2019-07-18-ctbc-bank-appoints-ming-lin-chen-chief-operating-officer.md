@@ -5,7 +5,7 @@ abstract: "“She will play an integral role in building our robust digital bank
 publishedDateTime: 2019-07-18T13:02:00Z
 sourceUrl: https://finance.yahoo.com/news/ctbc-bank-appoints-ming-lin-125800239.html
 type: article
-score: 34
+score: 32
 published: false
 
 provider:

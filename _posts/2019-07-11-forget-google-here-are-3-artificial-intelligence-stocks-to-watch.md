@@ -5,7 +5,7 @@ abstract: "Or that Waymo, formerly Google's self-driving ... The important thing
 publishedDateTime: 2019-07-11T12:19:00Z
 sourceUrl: https://finance.yahoo.com/news/forget-google-3-artificial-intelligence-120000658.html
 type: article
-score: 64
+score: 60
 
 provider:
   name: YAHOO! News
@@ -14,7 +14,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-  - AWS AI
 
 images:
   - url: https://s.yimg.com/uu/api/res/1.2/lfi9DL7E0M.V0ikMEseIjg--~B/dz0wO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/homerun/motleyfool.com/03fed12b2187518ff6a3ec9c4f756ca5

@@ -5,7 +5,8 @@ abstract: "Artificial intelligence and machine learning are undoubtedly the majo
 publishedDateTime: 2019-07-19T16:04:00Z
 sourceUrl: https://techstory.in/artificial-intelligence-google/
 type: article
-score: 50
+score: 48
+published: false
 
 provider:
   name: tech

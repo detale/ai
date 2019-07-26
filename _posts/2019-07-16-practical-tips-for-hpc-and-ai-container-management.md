@@ -5,7 +5,7 @@ abstract: "NVIDIA Docker is your friend: For users running GPU workloads (Tensor
 publishedDateTime: 2019-07-16T18:31:00Z
 sourceUrl: https://www.hpcwire.com/solution_content/ibm/cross-industry/practical-tips-for-hpc-and-ai-container-management/
 type: article
-score: 17
+score: 15
 published: false
 
 provider:

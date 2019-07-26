@@ -5,7 +5,7 @@ abstract: "Last week, a slew of people fell for another viral trend without givi
 publishedDateTime: 2019-07-23T21:03:00Z
 sourceUrl: https://sdtimes.com/ai/facial-recognition-technology-persists-remains-unregulated/
 type: article
-score: 39
+score: 37
 published: false
 
 provider:

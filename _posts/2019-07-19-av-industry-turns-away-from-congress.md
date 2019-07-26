@@ -5,7 +5,7 @@ abstract: "Frustrated by a lack of progress, the driverless car industry is turn
 publishedDateTime: 2019-07-19T14:07:00Z
 sourceUrl: https://www.politico.com/newsletters/morning-transportation/2019/07/19/av-industry-turns-away-from-congress-460171
 type: article
-score: 20
+score: 18
 published: false
 
 provider:

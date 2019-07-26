@@ -5,7 +5,7 @@ abstract: "Deep learning is a specialized type of machine learning that uses lar
 publishedDateTime: 2019-07-23T17:27:00Z
 sourceUrl: https://eurekalert.org/features/doe/2019-07/drnl-aia072319.php
 type: article
-score: 34
+score: 32
 published: false
 
 provider:

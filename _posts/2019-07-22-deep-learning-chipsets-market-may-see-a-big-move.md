@@ -5,7 +5,7 @@ abstract: "Jul 22, 2019 (HTF Market Intelligence via COMTEX) -- Global Deep Lear
 publishedDateTime: 2019-07-22T09:52:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-may-see-a-big-move-2019-07-22
 type: article
-score: 53
+score: 51
 
 provider:
   name: MarketWatch

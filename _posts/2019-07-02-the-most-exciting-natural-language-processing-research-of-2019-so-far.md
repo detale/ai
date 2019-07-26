@@ -5,7 +5,7 @@ abstract: "The data revolution isn’t just about numbers, as researchers are te
 publishedDateTime: 2019-07-02T17:01:00Z
 sourceUrl: https://medium.com/@ODSC/the-most-exciting-natural-language-processing-research-of-2019-so-far-94f929c4c3c7
 type: article
-score: 48
+score: 46
 published: false
 
 provider:

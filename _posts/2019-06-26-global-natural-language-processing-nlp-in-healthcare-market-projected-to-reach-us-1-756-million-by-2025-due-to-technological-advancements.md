@@ -5,7 +5,7 @@ abstract: "LOS ANGELES, June 26, 2019 /PRNewswire/ -- QY Research has recently p
 publishedDateTime: 2019-06-26T14:05:00Z
 sourceUrl: https://www.prnewswire.co.uk/news-releases/global-natural-language-processing-nlp-in-healthcare-market-projected-to-reach-us-1-756-million-by-2025-due-to-technological-advancements-890987824.html
 type: article
-score: 57
+score: 55
 
 provider:
   name: PR Newswire

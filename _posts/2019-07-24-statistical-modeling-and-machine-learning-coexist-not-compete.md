@@ -7,7 +7,7 @@ sourceUrl: https://www.cmswire.com/digital-experience/statistical-modeling-and-m
 ampUrl: https://www.cmswire.com/digital-experience/statistical-modeling-and-machine-learning-coexist-not-compete/amp/
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/statistical-modeling-and-machine-learning-coexist-not-compete/amp/
 type: article
-score: 74
+score: 73
 
 provider:
   name: CMS Wire

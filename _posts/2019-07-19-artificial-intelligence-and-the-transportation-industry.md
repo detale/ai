@@ -5,7 +5,8 @@ abstract: "Artificial intelligence (AI ... Fully automated transportation techno
 publishedDateTime: 2019-07-20T03:16:00Z
 sourceUrl: https://www.nortonrosefulbright.com/en/knowledge/publications/b4dd0c52/artificial-intelligence-and-the-transportation-industry
 type: article
-score: 50
+score: 48
+published: false
 
 provider:
   name: Norton Rose Fulbright

@@ -2,12 +2,12 @@
 category: news
 title: "The state of AI in 2019: Breakthroughs in machine learning, natural language processing, games, and knowledge graphs"
 abstract: "AI is one of the most rapidly growing domains today. Keeping track and taking stock of AI requires not just constant attention, but also the ability to dissect and evaluate across a number of dimensions. This is exactly what Air Street Capital and RAAIS ..."
-publishedDateTime: 2019-07-08T13:41:00Z
+publishedDateTime: 2019-07-08T13:44:00Z
 sourceUrl: https://www.zdnet.com/article/the-state-of-ai-in-2019-breakthroughs-in-machine-learning-natural-language-processing-games-and-knowledge-graphs/
 ampUrl: https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2019-breakthroughs-in-machine-learning-natural-language-processing-games-and-knowledge-graphs/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2019-breakthroughs-in-machine-learning-natural-language-processing-games-and-knowledge-graphs/
 type: article
-score: 124
+score: 122
 
 provider:
   name: ZDNet

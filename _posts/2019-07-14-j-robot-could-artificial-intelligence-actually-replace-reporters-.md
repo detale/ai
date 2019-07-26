@@ -7,7 +7,7 @@ sourceUrl: https://observer.com/2019/07/journalism-robots-reporters-jobs-artific
 ampUrl: https://observer.com/2019/07/journalism-robots-reporters-jobs-artificial-intelligence/amp/
 cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2019/07/journalism-robots-reporters-jobs-artificial-intelligence/amp/
 type: article
-score: 45
+score: 43
 published: false
 
 provider:

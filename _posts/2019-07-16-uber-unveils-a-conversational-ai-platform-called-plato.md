@@ -5,7 +5,7 @@ abstract: "Those models can be trained using either datasets or via interactions
 publishedDateTime: 2019-07-17T01:47:00Z
 sourceUrl: https://siliconangle.com/2019/07/16/uber-unveils-conversational-ai-platform-called-plato/
 type: article
-score: 19
+score: 17
 published: false
 
 provider:

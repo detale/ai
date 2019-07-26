@@ -5,7 +5,7 @@ abstract: "As businesses work to localize their marketing strategies, advances i
 publishedDateTime: 2019-07-04T04:14:00Z
 sourceUrl: https://www.emarketer.com/content/how-ai-and-machine-translation-are-changing-the-language-services-industry
 type: article
-score: 44
+score: 42
 published: false
 
 provider:

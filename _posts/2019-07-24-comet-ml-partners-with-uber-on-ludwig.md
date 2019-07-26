@@ -5,7 +5,7 @@ abstract: "Ludwig is a TensorFlow-based toolbox developed by Uber that allows us
 publishedDateTime: 2019-07-24T12:16:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-cometml-partners-with-uber-ludwig-/2019/07/24/8991514.htm
 type: article
-score: 4
+score: 3
 published: false
 
 provider:

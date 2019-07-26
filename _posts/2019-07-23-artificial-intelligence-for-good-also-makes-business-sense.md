@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/07/23/artificial-intell
 ampUrl: https://www.forbes.com/sites/bernardmarr/2019/07/23/artificial-intelligence-for-goodalso-makes-business-sense/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/07/23/artificial-intelligence-for-goodalso-makes-business-sense/amp/
 type: article
-score: 94
+score: 92
 
 provider:
   name: Forbes

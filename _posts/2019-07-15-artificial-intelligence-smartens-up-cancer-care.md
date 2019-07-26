@@ -5,7 +5,7 @@ abstract: "Artificial intelligence is emerging as a vital tool to tackle this ..
 publishedDateTime: 2019-07-15T13:08:00Z
 sourceUrl: https://physicsworld.com/a/artificial-intelligence-smartens-up-cancer-care/
 type: article
-score: 46
+score: 44
 published: false
 
 provider:

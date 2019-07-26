@@ -7,7 +7,7 @@ sourceUrl: https://tech.economictimes.indiatimes.com/news/internet/the-struggle-
 ampUrl: https://tech.economictimes.indiatimes.com/amp/news/internet/the-struggle-to-regulate-online-giants-like-facebook-google-amazon/70361712
 cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/internet/the-struggle-to-regulate-online-giants-like-facebook-google-amazon/70361712
 type: article
-score: 44
+score: 43
 published: false
 
 provider:

@@ -5,7 +5,8 @@ abstract: "Two basic options are available for getting the content translation. 
 publishedDateTime: 2019-07-19T15:47:00Z
 sourceUrl: https://techaeris.com/2019/07/19/how-professional-translation-services-can-boost-your-business-globally/
 type: article
-score: 50
+score: 48
+published: false
 
 provider:
   name: Techaeris

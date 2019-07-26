@@ -5,7 +5,7 @@ abstract: "In order for the technology to function, the computer must also under
 publishedDateTime: 2019-06-28T10:12:00Z
 sourceUrl: https://www.cioreview.com/news/computer-vision-complements-ar-nid-29504-cid-135.html
 type: article
-score: 29
+score: 27
 published: false
 
 provider:

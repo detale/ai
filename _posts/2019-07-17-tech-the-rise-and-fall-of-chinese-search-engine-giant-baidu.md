@@ -5,7 +5,7 @@ abstract: "Now, as technology is shifting from the mobile era to the artificial 
 publishedDateTime: 2019-07-17T10:00:00Z
 sourceUrl: https://www.msn.com/en-sg/money/topstories/tech-the-rise-and-fall-of-chinese-search-engine-giant-baidu/ar-AAEsfvP?li=BBr8YXL
 type: article
-score: 18
+score: 0
 published: false
 
 provider:

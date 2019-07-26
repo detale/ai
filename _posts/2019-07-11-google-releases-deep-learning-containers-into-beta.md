@@ -5,7 +5,7 @@ abstract: "PyTorch, and Scikit-learn. Furthermore, the initial release of Deep L
 publishedDateTime: 2019-07-11T09:40:00Z
 sourceUrl: https://www.infoq.com/news/2019/07/google-dlc-beta-release/
 type: article
-score: 21
+score: 20
 published: false
 
 provider:

@@ -5,7 +5,7 @@ abstract: "With seemingly little effort, humans can both identify an object acro
 publishedDateTime: 2019-06-27T09:09:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-45268-y
 type: article
-score: 8
+score: 6
 published: false
 
 provider:

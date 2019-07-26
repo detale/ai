@@ -7,7 +7,7 @@ sourceUrl: https://mashable.com/article/microsoft-openai/
 ampUrl: https://mashable.com/article/microsoft-openai.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-openai.amp
 type: article
-score: 108
+score: 106
 
 provider:
   name: Mashable

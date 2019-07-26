@@ -7,7 +7,7 @@ sourceUrl: https://venturebeat.com/2019/07/22/microsoft-invests-1-billion-in-ope
 ampUrl: https://venturebeat.com/2019/07/22/microsoft-invests-1-billion-in-openai-to-develop-ai-technologies-on-azure/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/22/microsoft-invests-1-billion-in-openai-to-develop-ai-technologies-on-azure/amp/
 type: article
-score: 73
+score: 71
 
 provider:
   name: VentureBeat

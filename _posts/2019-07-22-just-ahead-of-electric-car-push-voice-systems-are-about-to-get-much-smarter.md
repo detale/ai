@@ -5,7 +5,7 @@ abstract: "The speech recognition would still be used from a secondary vendor li
 publishedDateTime: 2019-07-22T12:00:00Z
 sourceUrl: https://www.greencarreports.com/news/1123995_just-ahead-of-electric-car-push-voice-systems-are-about-to-get-much-smarter
 type: article
-score: 23
+score: 21
 published: false
 
 provider:

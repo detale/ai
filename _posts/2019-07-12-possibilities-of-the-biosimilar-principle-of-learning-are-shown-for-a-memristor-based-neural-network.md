@@ -5,7 +5,7 @@ abstract: "According to Vyacheslav Demin, this opens up prospects for the applic
 publishedDateTime: 2019-07-12T15:57:00Z
 sourceUrl: https://www.nanowerk.com/nanotechnology-news2/newsid=53178.php
 type: article
-score: 23
+score: 21
 published: false
 
 provider:

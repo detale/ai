@@ -7,7 +7,7 @@ sourceUrl: https://searchengineland.com/study-48-of-consumers-use-voice-assistan
 ampUrl: https://searchengineland.com/study-48-of-consumers-use-voice-assistants-for-general-web-search-319729/amp
 cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/study-48-of-consumers-use-voice-assistants-for-general-web-search-319729/amp
 type: article
-score: 44
+score: 42
 published: false
 
 provider:

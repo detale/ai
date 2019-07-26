@@ -7,7 +7,7 @@ sourceUrl: https://www.nasdaq.com/article/bmw-tencent-to-open-computing-center-i
 ampUrl: https://www.nasdaq.com/article/bmw-tencent-to-open-computing-center-in-china-for-selfdriving-cars-20190718-01300/amp
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/article/bmw-tencent-to-open-computing-center-in-china-for-selfdriving-cars-20190718-01300/amp
 type: article
-score: 69
+score: 67
 
 provider:
   name: Nasdaq

@@ -7,7 +7,7 @@ sourceUrl: https://mspoweruser.com/microsoft-immersive-reader-now-rolling-out-to
 ampUrl: https://mspoweruser.com/microsoft-immersive-reader-now-rolling-out-to-wakelet-users-worldwide/amp/
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-immersive-reader-now-rolling-out-to-wakelet-users-worldwide/amp/
 type: article
-score: 47
+score: 45
 published: false
 
 provider:

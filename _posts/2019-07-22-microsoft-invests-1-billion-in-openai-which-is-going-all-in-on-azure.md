@@ -7,7 +7,7 @@ sourceUrl: https://www.zdnet.com/article/microsoft-invests-1-billion-in-openai-w
 ampUrl: https://www.zdnet.com/google-amp/article/microsoft-invests-1-billion-in-openai-which-is-going-all-in-on-azure/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-invests-1-billion-in-openai-which-is-going-all-in-on-azure/
 type: article
-score: 73
+score: 71
 
 provider:
   name: ZDNet

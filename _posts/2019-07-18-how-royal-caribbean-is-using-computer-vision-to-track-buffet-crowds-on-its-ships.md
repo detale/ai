@@ -7,7 +7,7 @@ sourceUrl: https://venturebeat.com/2019/07/18/how-royal-caribbean-is-using-compu
 ampUrl: https://venturebeat.com/2019/07/18/how-royal-caribbean-is-using-computer-vision-to-track-crowds-at-dining-destinations/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/18/how-royal-caribbean-is-using-computer-vision-to-track-crowds-at-dining-destinations/amp/
 type: article
-score: 89
+score: 87
 
 provider:
   name: VentureBeat

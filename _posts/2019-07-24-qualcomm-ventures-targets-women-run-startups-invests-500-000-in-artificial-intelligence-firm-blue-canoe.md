@@ -7,7 +7,7 @@ sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2019-0
 ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2019-07-23/qualcomm-ventures-targets-women-run-startups-invests-500-000-in-artificial-intelligence-firm-blue-canoe?_amp=true
 cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2019-07-23/qualcomm-ventures-targets-women-run-startups-invests-500-000-in-artificial-intelligence-firm-blue-canoe?_amp=true
 type: article
-score: 74
+score: 73
 
 provider:
   name: San Diego Union-Tribune

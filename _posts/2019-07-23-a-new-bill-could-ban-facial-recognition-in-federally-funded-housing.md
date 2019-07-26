@@ -7,7 +7,7 @@ sourceUrl: https://www.engadget.com/2019/07/23/proposed-bill-bans-facial-recogni
 ampUrl: https://www.engadget.com/amp/2019/07/23/proposed-bill-bans-facial-recognition-hud-housing/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/07/23/proposed-bill-bans-facial-recognition-hud-housing/
 type: article
-score: 79
+score: 77
 
 provider:
   name: Engadget

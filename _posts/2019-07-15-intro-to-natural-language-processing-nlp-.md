@@ -5,7 +5,8 @@ abstract: "Text classification is one of the most important tasks in Natural Lan
 publishedDateTime: 2019-07-15T17:18:00Z
 sourceUrl: https://skillsmatter.com/skillscasts/14237-intro-to-natural-language-processing-nlp
 type: article
-score: 61
+score: 39
+published: false
 
 provider:
   name: Skills Matter
@@ -14,10 +15,4 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1560338140/lvuwhhlwqyxyyncfnzd3.jpg
-    width: 200
-    height: 200
-    title: "Intro to Natural Language Processing (NLP)"
 ---

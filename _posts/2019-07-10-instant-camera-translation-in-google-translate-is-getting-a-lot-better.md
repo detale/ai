@@ -5,7 +5,7 @@ abstract: "The app can also now automatically detect languages for you, so you d
 publishedDateTime: 2019-07-10T19:34:00Z
 sourceUrl: https://www.androidpolice.com/2019/07/10/instant-camera-translation-in-google-translate-is-getting-a-lot-better/
 type: article
-score: 6
+score: 4
 published: false
 
 provider:

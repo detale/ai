@@ -5,7 +5,7 @@ abstract: "Jul 23, 2019 (AB Digital via COMTEX) -- the global AI in healthcare m
 publishedDateTime: 2019-07-23T15:08:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-by-top-key-players-and-application-with-trend-and-growth-by-2023-forecasts-2019-07-23
 type: article
-score: 69
+score: 67
 
 provider:
   name: MarketWatch

@@ -5,7 +5,7 @@ abstract: "This report helps to analyze competitive developments such as Joint V
 publishedDateTime: 2019-07-23T10:46:00Z
 sourceUrl: https://marketersmedia.com/global-natural-language-processing-market-size-share-trends-statistics-technology-outlook-with-industry-analysis-and-forecast-to-2024/88899978
 type: article
-score: 48
+score: 47
 published: false
 
 provider:

@@ -7,7 +7,7 @@ sourceUrl: https://www.theregister.co.uk/2019/07/18/aws_cloud_event/
 ampUrl: https://www.theregister.co.uk/AMP/2019/07/18/aws_cloud_event/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/07/18/aws_cloud_event/
 type: article
-score: 54
+score: 51
 
 provider:
   name: The Register

@@ -5,7 +5,7 @@ abstract: "Developers, electronic enthusiasts and students wishing to know more 
 publishedDateTime: 2019-07-23T12:44:00Z
 sourceUrl: https://www.geeky-gadgets.com/tensorflow-lite-23-07-2019/
 type: article
-score: 39
+score: 37
 published: false
 
 provider:
@@ -21,4 +21,12 @@ images:
     width: 700
     height: 500
     title: "Adafruit makes available a TensorFlow Lite Kit tutorial"
+
+related:
+  - url: https://www.geeky-gadgets.com/tensorflow-lite-for-microcontrollers-kit-18-07-2019/
+    title: "TensorFlow Lite for Microcontrollers Kit available soon"
+    images:
+      - url: https://www.geeky-gadgets.com/wp-content/uploads/2019/07/TensorFlow-Lite-for-Microcontrollers-Kit.jpg
+        width: 700
+        height: 500
 ---

@@ -5,7 +5,7 @@ abstract: "What I used to love. After breakup with my first love. Before I start
 publishedDateTime: 2019-07-06T11:00:00Z
 sourceUrl: https://medium.com/@mouryarishik/pytorch-vs-mxnet-981578138308
 type: article
-score: 22
+score: 20
 published: false
 
 provider:

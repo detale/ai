@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/janakirammsv/2019/07/15/how-ai-accelerat
 ampUrl: https://www.forbes.com/sites/janakirammsv/2019/07/15/how-ai-accelerators-are-changing-the-face-of-edge-computing/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/07/15/how-ai-accelerators-are-changing-the-face-of-edge-computing/amp/
 type: article
-score: 73
+score: 69
 
 provider:
   name: Forbes
@@ -16,11 +16,18 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Google AI
 
 images:
   - url: https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d2c084c4c687b00085cab39%2F960x0.jpg
     width: 600
     height: 315
     title: "How AI Accelerators Are Changing The Face Of Edge Computing"
+
+related:
+  - url: https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-ai-is-enabling-edge-computing/70244043
+    title: "How AI is enabling Edge Computing"
+    images:
+      - url: https://etimg.etb2bimg.com/thumb/msid-70244043,imgsize-90783,width-800,height-434,overlay-etcio/how-ai-is-enabling-edge-computing.jpg
+        width: 800
+        height: 434
 ---

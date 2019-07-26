@@ -5,7 +5,7 @@ abstract: "ASC will additionally harness Microsoft's cognitive services to analy
 publishedDateTime: 2019-07-16T11:37:00Z
 sourceUrl: https://menafn.com/1098763356/ASC-announces-Agreements-for-Recording-and-Analytics-for-Microsoft-Teams
 type: article
-score: 12
+score: 10
 published: false
 
 provider:

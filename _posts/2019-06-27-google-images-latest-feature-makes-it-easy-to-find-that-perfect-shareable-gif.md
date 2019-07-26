@@ -7,7 +7,7 @@ sourceUrl: https://www.digitaltrends.com/mobile/google-images-shareable-gifs/
 ampUrl: https://www.digitaltrends.com/mobile/google-images-shareable-gifs/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/google-images-shareable-gifs/?amp
 type: article
-score: 38
+score: 36
 published: false
 
 provider:

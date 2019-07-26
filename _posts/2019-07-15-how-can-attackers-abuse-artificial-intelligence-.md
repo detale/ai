@@ -5,7 +5,7 @@ abstract: "Artificial intelligence (AI) is rapidly finding applications in nearl
 publishedDateTime: 2019-07-16T04:54:00Z
 sourceUrl: https://www.helpnetsecurity.com/2019/07/16/abuse-artificial-intelligence/
 type: article
-score: 46
+score: 44
 published: false
 
 provider:

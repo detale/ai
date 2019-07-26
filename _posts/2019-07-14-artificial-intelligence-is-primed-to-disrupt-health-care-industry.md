@@ -5,7 +5,7 @@ abstract: "This article was originally published on ETFTrends.com. Artificial in
 publishedDateTime: 2019-07-14T14:58:00Z
 sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-primed-disrupt-health-144723831.html
 type: article
-score: 44
+score: 43
 published: false
 
 provider:

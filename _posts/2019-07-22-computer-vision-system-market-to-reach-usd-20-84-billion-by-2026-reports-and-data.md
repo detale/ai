@@ -7,7 +7,7 @@ sourceUrl: https://www.benzinga.com/pressreleases/19/07/g14110411/computer-visio
 ampUrl: https://amp.benzinga.com/amp/content/14110411
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14110411
 type: article
-score: 53
+score: 51
 
 provider:
   name: Benzinga.com

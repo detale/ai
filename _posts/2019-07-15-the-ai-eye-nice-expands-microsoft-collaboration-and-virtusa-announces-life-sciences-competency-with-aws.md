@@ -5,7 +5,7 @@ abstract: "Achieving AWS Life Sciences Competency status will help more Virtusa 
 publishedDateTime: 2019-07-15T17:29:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-nice-expands-microsoft-collaboration-and-virtusa-announces-life-sciences-competency-with-aws-2019-07-15
 type: article
-score: 46
+score: 44
 published: false
 
 provider:

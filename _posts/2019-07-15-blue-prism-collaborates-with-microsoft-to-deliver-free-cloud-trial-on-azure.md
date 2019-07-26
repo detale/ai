@@ -5,7 +5,7 @@ abstract: "plus integration with Microsoft Cognitive Services. “This trial is 
 publishedDateTime: 2019-07-15T22:53:00Z
 sourceUrl: https://www.cmo.com.au/mediareleases/35082/blue-prism-collaborates-with-microsoft-to-deliver/
 type: article
-score: 26
+score: 24
 published: false
 
 provider:

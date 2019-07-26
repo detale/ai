@@ -5,7 +5,8 @@ abstract: "On the same day, BOND.AI will host a breakout session geared toward b
 publishedDateTime: 2019-07-19T13:00:00Z
 sourceUrl: https://www.nasdaq.com/press-release/more-than-150-voice-technology-companies-to-showcase-latest-innovations-in-artificial-intelligence-20190719-00263
 type: article
-score: 50
+score: 48
+published: false
 
 provider:
   name: Nasdaq

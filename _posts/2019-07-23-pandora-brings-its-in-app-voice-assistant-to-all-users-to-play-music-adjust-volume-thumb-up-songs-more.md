@@ -7,7 +7,7 @@ sourceUrl: https://9to5mac.com/2019/07/23/pandora-voice-assistant/
 ampUrl: https://9to5mac.com/2019/07/23/pandora-voice-assistant/amp/
 cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2019/07/23/pandora-voice-assistant/amp/
 type: article
-score: 44
+score: 42
 published: false
 
 provider:

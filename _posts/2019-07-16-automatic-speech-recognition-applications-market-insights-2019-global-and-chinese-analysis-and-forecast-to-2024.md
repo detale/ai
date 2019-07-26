@@ -5,7 +5,7 @@ abstract: "Delivery of the Report will take 2-3 working days once order is place
 publishedDateTime: 2019-07-17T05:03:00Z
 sourceUrl: https://www.reportsnreports.com/reports/2401677-automatic-speech-recognition-applications-market-insights-2019-global-and-chinese-analysis-and-forecast-to-2024.html
 type: article
-score: 27
+score: 25
 published: false
 
 provider:

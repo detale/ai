@@ -5,7 +5,7 @@ abstract: "The major technologies being used to identify the content include fin
 publishedDateTime: 2019-07-22T11:29:00Z
 sourceUrl: https://www.marketwatch.com/press-release/automatic-content-recognition-market-market-drivers-restraints-and-opportunities-2018-to-2023-2019-07-22
 type: article
-score: 38
+score: 36
 published: false
 
 provider:

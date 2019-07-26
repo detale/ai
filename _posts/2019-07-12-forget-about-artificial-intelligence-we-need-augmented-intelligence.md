@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/07/12/forget-abou
 ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/07/12/forget-about-artificial-intelligence-we-need-augmented-intelligence/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/07/12/forget-about-artificial-intelligence-we-need-augmented-intelligence/amp/
 type: article
-score: 83
+score: 81
 
 provider:
   name: Forbes

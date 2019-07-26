@@ -5,7 +5,7 @@ abstract: "Developed in partnership with AWS Educate, the course focuses on clou
 publishedDateTime: 2019-07-15T17:47:00Z
 sourceUrl: https://siliconangle.com/2019/07/15/aws-educate-brings-schooling-into-the-digital-era-awsimagine/
 type: article
-score: 31
+score: 29
 published: false
 
 provider:

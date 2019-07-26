@@ -5,7 +5,7 @@ abstract: "Wiseguyreports.Com Adds “Computer Vision in Healthcare - Market Dem
 publishedDateTime: 2019-07-12T14:47:00Z
 sourceUrl: https://marketersmedia.com/global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-industry-key-events-2019-2025/88895685
 type: article
-score: 37
+score: 36
 published: false
 
 provider:

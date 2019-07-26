@@ -5,7 +5,7 @@ abstract: "Transfer Learning is a technique where a model trained for a certain 
 publishedDateTime: 2019-07-06T13:46:00Z
 sourceUrl: https://medium.com/towards-artificial-intelligence/transfer-learning-in-pytorch-f7736598b1ed
 type: article
-score: 57
+score: 55
 
 provider:
   name: Medium

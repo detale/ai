@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/07/24/the-future-
 ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/07/24/the-future-of-machine-learning-is-adversarial/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/07/24/the-future-of-machine-learning-is-adversarial/amp/
 type: article
-score: 94
+score: 93
 
 provider:
   name: Forbes

@@ -7,7 +7,7 @@ sourceUrl: https://diginomica.com/microsoft-uses-symbiotic-relationship-partners
 ampUrl: https://diginomica.com/microsoft-uses-symbiotic-relationship-partners-bootstrap-cloud-ai-collaboration-services?amp
 cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoft-uses-symbiotic-relationship-partners-bootstrap-cloud-ai-collaboration-services?amp
 type: article
-score: 47
+score: 45
 published: false
 
 provider:

@@ -7,7 +7,7 @@ sourceUrl: https://techcrunch.com/2019/07/23/google-updates-its-speech-tech-for-
 ampUrl: https://techcrunch.com/2019/07/23/google-updates-its-speech-tech-for-contact-centers/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/07/23/google-updates-its-speech-tech-for-contact-centers/amp/
 type: article
-score: 79
+score: 77
 
 provider:
   name: TechCrunch

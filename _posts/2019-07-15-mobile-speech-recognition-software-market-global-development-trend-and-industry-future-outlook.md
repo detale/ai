@@ -5,7 +5,7 @@ abstract: "This report focuses on the global Mobile Speech Recognition Software 
 publishedDateTime: 2019-07-15T23:13:00Z
 sourceUrl: https://marketersmedia.com/mobile-speech-recognition-software-market-global-development-trend-and-industry-future-outlook/88896579
 type: article
-score: 26
+score: 24
 published: false
 
 provider:

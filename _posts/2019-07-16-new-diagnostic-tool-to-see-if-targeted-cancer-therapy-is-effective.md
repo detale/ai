@@ -7,7 +7,7 @@ sourceUrl: https://www.medindia.net/news/new-diagnostic-tool-to-see-if-targeted-
 ampUrl: https://www.medindia.net/amp/news/new-diagnostic-tool-to-see-if-targeted-cancer-therapy-is-effective-188957-1.htm
 cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-diagnostic-tool-to-see-if-targeted-cancer-therapy-is-effective-188957-1.htm
 type: article
-score: 33
+score: 30
 published: false
 
 provider:

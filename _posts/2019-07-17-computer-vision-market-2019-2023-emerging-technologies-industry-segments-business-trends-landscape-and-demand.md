@@ -5,7 +5,7 @@ abstract: "Computer vision is a scientific stream that deals with the technology
 publishedDateTime: 2019-07-17T12:16:00Z
 sourceUrl: https://marketersmedia.com/computer-vision-market-2019-2023-emerging-technologies-industry-segments-business-trends-landscape-and-demand/88897539
 type: article
-score: 47
+score: 46
 published: false
 
 provider:

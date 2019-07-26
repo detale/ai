@@ -5,7 +5,7 @@ abstract: "Humans live in a three-dimensional world, where objects are seen from
 publishedDateTime: 2019-07-01T16:39:00Z
 sourceUrl: https://www.quantamagazine.org/where-we-see-shapes-ai-sees-textures-20190701/
 type: article
-score: 2
+score: 0
 published: false
 
 provider:

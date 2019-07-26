@@ -7,7 +7,7 @@ sourceUrl: https://www.engadget.com/2019/07/23/ftc-facebook-mishandled-phone-num
 ampUrl: https://www.engadget.com/amp/2019/07/23/ftc-facebook-mishandled-phone-numbers-facial-recognition/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/07/23/ftc-facebook-mishandled-phone-numbers-facial-recognition/
 type: article
-score: 79
+score: 77
 
 provider:
   name: Engadget
@@ -22,4 +22,12 @@ images:
     width: 1200
     height: 630
     title: "FTC to accuse Facebook of misusing phone numbers and facial recognition"
+
+related:
+  - url: https://gizmodo.com/report-ftc-to-accuse-facebook-of-using-2fa-numbers-for-1836650815
+    title: "Report: FTC to Accuse Facebook of Using 2FA Numbers for Ads, Hiding Facial Recognition Settings"
+    images:
+      - url: https://i.kinja-img.com/gawker-media/image/upload/s--Ep0pGtgd--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/fr2gs9en7ryqgics6fb8.jpg
+        width: 1600
+        height: 900
 ---

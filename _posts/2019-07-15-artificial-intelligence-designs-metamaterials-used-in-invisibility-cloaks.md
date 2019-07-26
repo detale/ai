@@ -5,7 +5,7 @@ abstract: "This is a schematic diagram of an artificial neural network that can 
 publishedDateTime: 2019-07-15T13:20:00Z
 sourceUrl: https://www.nanowerk.com/nanotechnology-news2/newsid=53187.php
 type: article
-score: 46
+score: 24
 published: false
 
 provider:
@@ -15,10 +15,4 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://www.nanowerk.com/nanotechnology-news2/id53187.jpg
-    width: 200
-    height: 200
-    title: "Artificial intelligence designs metamaterials used in invisibility cloaks"
 ---

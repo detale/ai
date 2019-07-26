@@ -7,7 +7,7 @@ sourceUrl: https://readwrite.com/2019/07/23/for-self-driving-systems-infrastruct
 ampUrl: https://readwrite.com/2019/07/23/for-self-driving-systems-infrastructure-and-industry-efficiency-are-everything/amp/
 cdnAmpUrl: https://readwrite-com.cdn.ampproject.org/c/s/readwrite.com/2019/07/23/for-self-driving-systems-infrastructure-and-industry-efficiency-are-everything/amp/
 type: article
-score: 94
+score: 92
 
 provider:
   name: ReadWrite

@@ -7,7 +7,7 @@ sourceUrl: https://www.usatoday.com/story/tech/2019/07/22/microsoft-invests-bill
 ampUrl: https://amp.usatoday.com/amp/1794348001
 cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/1794348001
 type: article
-score: 88
+score: 86
 
 provider:
   name: USA Today

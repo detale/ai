@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/monicamelton/2019/07/23/hud-bill-blockin
 ampUrl: https://www.forbes.com/sites/monicamelton/2019/07/23/hud-bill-blocking-facial-recognition-wont-stop-landlords-plans-to-install-in-majority-black-building/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/monicamelton/2019/07/23/hud-bill-blocking-facial-recognition-wont-stop-landlords-plans-to-install-in-majority-black-building/amp/
 type: article
-score: 59
+score: 57
 
 provider:
   name: Forbes

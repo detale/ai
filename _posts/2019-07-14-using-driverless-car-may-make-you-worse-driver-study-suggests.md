@@ -7,7 +7,8 @@ sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7247855/Using-driverl
 ampUrl: https://www.dailymail.co.uk/sciencetech/article-7247855/amp/Using-driverless-car-make-worse-driver-study-suggests.html
 cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7247855/amp/Using-driverless-car-make-worse-driver-study-suggests.html
 type: article
-score: 50
+score: 48
+published: false
 
 provider:
   name: Mail Online

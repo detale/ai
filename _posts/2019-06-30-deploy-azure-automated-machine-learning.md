@@ -5,7 +5,7 @@ abstract: "My previous story was about how to create model with ease. Automated 
 publishedDateTime: 2019-06-30T12:50:00Z
 sourceUrl: https://medium.com/@balabala76/deploy-azure-automated-machine-learning-61501b43b080
 type: article
-score: 46
+score: 44
 published: false
 
 provider:

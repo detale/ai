@@ -5,7 +5,7 @@ abstract: "We allow third-party companies to serve ads and/or collect anonymous 
 publishedDateTime: 2019-06-27T00:00:00Z
 sourceUrl: https://www.sciencecodex.com/using-artificial-intelligence-deliver-personalized-radiation-therapy-628504
 type: article
-score: 22
+score: 20
 published: false
 
 provider:

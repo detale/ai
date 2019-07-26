@@ -5,7 +5,7 @@ abstract: "iCAD (Nashua, N.H.). iCAD is a global medical technology leader that 
 publishedDateTime: 2019-07-19T20:21:00Z
 sourceUrl: https://www.beckershospitalreview.com/lists/100-artificial-intelligence-companies-to-know-in-healthcare-2019.html
 type: article
-score: 45
+score: 43
 published: false
 
 provider:

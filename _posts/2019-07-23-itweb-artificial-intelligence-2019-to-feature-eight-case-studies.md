@@ -7,7 +7,7 @@ sourceUrl: https://www.itweb.co.za/content/nWJadMb89KjvbjO1
 ampUrl: https://amp.itweb.co.za/content/nWJadMb89KjvbjO1
 cdnAmpUrl: https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/nWJadMb89KjvbjO1
 type: article
-score: 54
+score: 51
 
 provider:
   name: ITWeb

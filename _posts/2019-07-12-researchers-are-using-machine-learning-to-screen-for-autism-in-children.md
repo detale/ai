@@ -7,7 +7,7 @@ sourceUrl: https://medicalxpress.com/news/2019-07-machine-screen-autism-children
 ampUrl: https://medicalxpress.com/news/2019-07-machine-screen-autism-children.amp
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-07-machine-screen-autism-children.amp
 type: article
-score: 63
+score: 61
 
 provider:
   name: Medical Xpress

@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/06/26/the-present-an
 ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/06/26/the-present-and-future-of-computer-vision/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/06/26/the-present-and-future-of-computer-vision/amp/
 type: article
-score: 67
+score: 65
 
 provider:
   name: Forbes

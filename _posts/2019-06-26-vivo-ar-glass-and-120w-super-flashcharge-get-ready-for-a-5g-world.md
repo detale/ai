@@ -7,7 +7,7 @@ sourceUrl: https://www.slashgear.com/vivo-ar-glass-and-120w-super-flashcharge-ge
 ampUrl: https://www.slashgear.com/vivo-ar-glass-and-120w-super-flashcharge-get-ready-for-a-5g-world-26581776/amp/
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vivo-ar-glass-and-120w-super-flashcharge-get-ready-for-a-5g-world-26581776/amp/
 type: article
-score: 37
+score: 35
 published: false
 
 provider:

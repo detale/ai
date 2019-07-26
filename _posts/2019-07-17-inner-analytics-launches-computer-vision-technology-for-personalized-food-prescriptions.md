@@ -5,7 +5,7 @@ abstract: "TORONTO, July 17, 2019 /CNW/ -- Inner Analytics announced today the l
 publishedDateTime: 2019-07-17T12:15:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-inner-analytics-launches-computer-vision-technology-personalized-food-/2019/07/17/8987781.htm
 type: article
-score: 28
+score: 26
 published: false
 
 provider:

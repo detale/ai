@@ -7,7 +7,7 @@ sourceUrl: https://qz.com/1673837/artificial-intelligence-is-changing-the-way-we
 ampUrl: https://qz.com/1673837/artificial-intelligence-is-changing-the-way-we-farm/amp/
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1673837/artificial-intelligence-is-changing-the-way-we-farm/amp/
 type: article
-score: 92
+score: 91
 
 provider:
   name: Quartz

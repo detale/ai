@@ -5,7 +5,7 @@ abstract: "This in conjunction with modern deep learning frameworks such as Tens
 publishedDateTime: 2019-07-16T10:55:00Z
 sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-ai-is-enabling-edge-computing/70244043
 type: article
-score: 17
+score: 15
 published: false
 
 provider:

@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/andriacheng/2019/07/14/amazon-and-rival-
 ampUrl: https://www.forbes.com/sites/andriacheng/2019/07/14/amazon-and-rival-retailers-are-much-tighter-than-you-think/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andriacheng/2019/07/14/amazon-and-rival-retailers-are-much-tighter-than-you-think/amp/
 type: article
-score: 71
+score: 69
 
 provider:
   name: Forbes

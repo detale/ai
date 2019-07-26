@@ -5,7 +5,7 @@ abstract: "such PyTorch as TensorFlow, and more And if you want to get deep, and
 publishedDateTime: 2019-07-16T06:08:00Z
 sourceUrl: https://www.theregister.co.uk/2019/07/16/mcubed_ai_machine_learning_conference/
 type: article
-score: 49
+score: 46
 published: false
 
 provider:

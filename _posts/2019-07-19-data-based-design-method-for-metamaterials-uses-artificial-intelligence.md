@@ -7,7 +7,7 @@ sourceUrl: https://www.photonics.com/Articles/Data-Based_Design_Method_for_Metam
 ampUrl: https://www.photonics.com/AMP/AMP_Article.aspx?AID=64925
 cdnAmpUrl: https://www-photonics-com.cdn.ampproject.org/c/s/www.photonics.com/AMP/AMP_Article.aspx?AID=64925
 type: article
-score: 70
+score: 68
 
 provider:
   name: Photonics Spectra

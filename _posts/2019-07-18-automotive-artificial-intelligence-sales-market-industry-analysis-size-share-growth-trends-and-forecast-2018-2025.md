@@ -5,7 +5,7 @@ abstract: "Artificial intelligence has several applications for these vehicles .
 publishedDateTime: 2019-07-18T08:35:00Z
 sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-sales-market-industry-analysis-size-share-growth-trends-and-forecast-2018---2025-2019-07-18
 type: article
-score: 49
+score: 47
 published: false
 
 provider:

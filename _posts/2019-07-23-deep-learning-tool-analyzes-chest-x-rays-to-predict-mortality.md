@@ -5,7 +5,7 @@ abstract: "July 23, 2019 - A deep learning tool was able to analyze chest x-rays
 publishedDateTime: 2019-07-23T17:16:00Z
 sourceUrl: https://healthitanalytics.com/news/deep-learning-tool-analyzes-chest-x-rays-to-predict-mortality
 type: article
-score: 54
+score: 52
 
 provider:
   name: Analytics

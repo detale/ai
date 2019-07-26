@@ -5,7 +5,7 @@ abstract: "Key players profiled in the report include Soft Bank, Hanson Robotics
 publishedDateTime: 2019-07-24T12:01:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2019top-key-players-analysis-trends-global-size-forecast-to-2024-2019-07-24
 type: article
-score: 56
+score: 55
 
 provider:
   name: MarketWatch

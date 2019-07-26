@@ -5,7 +5,7 @@ abstract: "Whether that is stealing large amounts of data (data breaches) or try
 publishedDateTime: 2019-07-18T18:22:00Z
 sourceUrl: https://www.finextra.com/blogposting/17522/how-artificial-intelligence-is-changing-the-way-smes-make-and-receive-payments
 type: article
-score: 49
+score: 47
 published: false
 
 provider:

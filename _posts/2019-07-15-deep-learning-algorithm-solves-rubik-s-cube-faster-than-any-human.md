@@ -5,7 +5,7 @@ abstract: "A deep reinforcement learning algorithm can solve the Rubik's Cube pu
 publishedDateTime: 2019-07-15T21:45:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/07/190715161647.htm
 type: article
-score: 46
+score: 44
 published: false
 
 provider:
@@ -15,4 +15,8 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+related:
+  - url: https://www.idtechex.com/en/research-article/deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/17722?donotredirect=true
+    title: "Deep learning algorithm solves Rubik's Cube faster than any human | IDTechEx Research Article"
 ---

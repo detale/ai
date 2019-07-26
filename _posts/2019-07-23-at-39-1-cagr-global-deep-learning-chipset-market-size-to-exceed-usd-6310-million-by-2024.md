@@ -5,7 +5,7 @@ abstract: "Jul 23, 2019 (Heraldkeepers) -- Market Study Report LLC adds \"Global
 publishedDateTime: 2019-07-23T17:53:00Z
 sourceUrl: https://www.marketwatch.com/press-release/at-391-cagr-global-deep-learning-chipset-market-size-to-exceed-usd-6310-million-by-2024-2019-07-23
 type: article
-score: 54
+score: 52
 
 provider:
   name: MarketWatch

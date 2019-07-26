@@ -7,7 +7,7 @@ sourceUrl: https://www.androidauthority.com/machine-learning-data-science-bundle
 ampUrl: https://www.androidauthority.com/machine-learning-data-science-bundle-1011444/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/machine-learning-data-science-bundle-1011444/amp/
 type: article
-score: 96
+score: 94
 
 provider:
   name: Android Authority
@@ -23,4 +23,14 @@ images:
     width: 920
     height: 470
     title: "Get certified in machine learning and data science for $35"
+
+related:
+  - url: https://insidebigdata.com/2019/07/18/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-june-2019/
+    title: "Best of arXiv.org for AI, Machine Learning, and Deep Learning – June 2019"
+    images:
+      - url: https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg
+        width: 450
+        height: 380
+  - url: https://blog.revolutionanalytics.com/2019/06/airoundup-june-2019.html
+    title: "AI, Machine Learning and Data Science Roundup: June 2019"
 ---

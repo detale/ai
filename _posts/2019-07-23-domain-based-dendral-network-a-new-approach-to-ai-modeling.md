@@ -5,7 +5,7 @@ abstract: "Nowadays, most AI models use a variety of free-roaming algorithms to 
 publishedDateTime: 2019-07-23T13:00:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-domain-based-dendral-network-new-approach-ai-modeling-/2019/07/23/8990732.htm
 type: article
-score: 4
+score: 2
 published: false
 
 provider:

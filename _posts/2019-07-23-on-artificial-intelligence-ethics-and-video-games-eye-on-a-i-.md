@@ -1,13 +1,13 @@
 ---
 category: news
 title: "On Artificial Intelligence, Ethics, And Video Games: Eye on A.I."
-abstract: "Autonomous cars should come with \"morality\" settings that let car owners control whether their vehicles speed and pass others or follow the speed limit. Omoju Miller, a machine learning engineer ..."
+abstract: "Omoju Miller, a machine learning engineer at business software firm GitHub, recommended a morality setting last week during a discussion about the ethics of artificial intelligence at Fortune's ..."
 publishedDateTime: 2019-07-23T15:15:00Z
 sourceUrl: https://fortune.com/2019/07/23/artificial-intelligence-ethics-video-games/
 ampUrl: https://fortune.com/2019/07/23/artificial-intelligence-ethics-video-games/amp/
 cdnAmpUrl: https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2019/07/23/artificial-intelligence-ethics-video-games/amp/
 type: article
-score: 94
+score: 92
 
 provider:
   name: Fortune

@@ -5,7 +5,7 @@ abstract: "Jul 23, 2019 (HTF Market Intelligence via COMTEX) -- AMA recently pub
 publishedDateTime: 2019-07-23T14:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-insights-global-briefing-and-forecast-to-2024-2019-07-23
 type: article
-score: 54
+score: 52
 
 provider:
   name: MarketWatch

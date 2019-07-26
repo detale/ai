@@ -7,7 +7,7 @@ sourceUrl: https://www.fool.com/investing/2019/07/18/top-ai-stock-buy-hold-for-d
 ampUrl: https://www.fool.com/amp/investing/2019/07/18/top-ai-stock-buy-hold-for-decades-alphabet.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/07/18/top-ai-stock-buy-hold-for-decades-alphabet.aspx
 type: article
-score: 59
+score: 57
 
 provider:
   name: The Motley Fool

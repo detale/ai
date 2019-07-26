@@ -7,7 +7,7 @@ sourceUrl: https://www.zdnet.com/article/microsoft-and-the-learnings-from-its-fa
 ampUrl: https://www.zdnet.com/google-amp/article/microsoft-and-the-learnings-from-its-failed-tay-artificial-intelligence-bot/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-the-learnings-from-its-failed-tay-artificial-intelligence-bot/
 type: article
-score: 107
+score: 105
 
 provider:
   name: ZDNet

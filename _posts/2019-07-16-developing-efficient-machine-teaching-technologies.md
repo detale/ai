@@ -5,7 +5,7 @@ abstract: "“We succeeded in surpassing the human benchmark in speech recogniti
 publishedDateTime: 2019-07-17T03:00:00Z
 sourceUrl: https://www.japantimes.co.jp/2019/07/17/special-supplements/developing-efficient-machine-teaching-technologies/
 type: article
-score: 32
+score: 30
 published: false
 
 provider:

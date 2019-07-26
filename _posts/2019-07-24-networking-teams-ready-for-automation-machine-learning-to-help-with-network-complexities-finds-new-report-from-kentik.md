@@ -1,16 +1,15 @@
 ---
 category: news
 title: "Networking Teams Ready for Automation & Machine Learning to Help with Network Complexities, Finds New Report from Kentik"
-abstract: "SAN FRANCISCO, July 24, 2019 /PRNewswire/ -- Kentik®, provider of the only AIOps platform specifically for network professionals, today announced the results of research it conducted on networking professionals' progress with and readiness for automation ..."
-publishedDateTime: 2019-07-24T15:13:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-networking-teams-ready-automation-machine-learning-help-with-/2019/07/24/8991817.htm
+abstract: "\"The State of Automation, Artificial Intelligence, and Machine Learning in Network Management\" Report Details the Industry's Progress SAN FRANCISCO, July 24, 2019 /PRNewswire/ -- Kentik ..."
+publishedDateTime: 2019-07-24T23:42:00Z
+sourceUrl: https://finance.yahoo.com/news/networking-teams-ready-automation-machine-150000262.html
 type: article
-score: 34
-published: false
+score: 53
 
 provider:
-  name: TMCnet
-  id: tmcnet.com
+  name: YAHOO! News
+  id: yahoo.com
 
 topics:
   - AI

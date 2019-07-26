@@ -7,7 +7,7 @@ sourceUrl: https://phys.org/news/2019-07-neural-networks.html
 ampUrl: https://phys.org/news/2019-07-neural-networks.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-07-neural-networks.amp
 type: article
-score: 53
+score: 51
 
 provider:
   name: Phys.org

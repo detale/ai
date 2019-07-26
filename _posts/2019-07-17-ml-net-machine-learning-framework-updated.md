@@ -5,7 +5,8 @@ abstract: "General availability of ML.NET packages to use TensorFlow and ONNX mo
 publishedDateTime: 2019-07-17T22:10:00Z
 sourceUrl: https://visualstudiomagazine.com/articles/2019/07/17/mlnet-1-2.aspx
 type: article
-score: 50
+score: 48
+published: false
 
 provider:
   name: Visual Studio Magazine

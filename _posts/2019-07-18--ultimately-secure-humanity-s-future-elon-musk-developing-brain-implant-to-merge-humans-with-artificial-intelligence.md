@@ -7,7 +7,7 @@ sourceUrl: https://philadelphia.cbslocal.com/2019/07/18/elon-musk-brain-implant-
 ampUrl: https://philadelphia.cbslocal.com/2019/07/18/elon-musk-brain-implant-artificial-intelligence-connects-computer-smartphone/amp/
 cdnAmpUrl: https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2019/07/18/elon-musk-brain-implant-artificial-intelligence-connects-computer-smartphone/amp/
 type: article
-score: 69
+score: 67
 
 provider:
   name: CBS Boston / WBZ

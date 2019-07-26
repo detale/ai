@@ -7,7 +7,7 @@ sourceUrl: https://www.technologyreview.com/s/613899/machine-learning-has-been-u
 ampUrl: https://www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/amp/
 cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/amp/
 type: article
-score: 52
+score: 50
 
 provider:
   name: MIT Technology Review

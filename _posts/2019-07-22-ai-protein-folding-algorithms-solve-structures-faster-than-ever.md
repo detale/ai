@@ -5,7 +5,7 @@ abstract: "At the end of last year, Google’s AI firm DeepMind debuted an algor
 publishedDateTime: 2019-07-22T11:33:00Z
 sourceUrl: https://www.nature.com/articles/d41586-019-01357-6?sf216086186=1
 type: article
-score: 23
+score: 21
 published: false
 
 provider:

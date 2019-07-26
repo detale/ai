@@ -5,7 +5,7 @@ abstract: "According to Coherent Market Insights, the global natural language pr
 publishedDateTime: 2019-07-08T00:00:00Z
 sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-healthcare-133100696.html
 type: article
-score: 68
+score: 66
 
 provider:
   name: Yahoo Finance

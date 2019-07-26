@@ -7,7 +7,7 @@ sourceUrl: https://www.washingtonpost.com/technology/2019/07/23/facebook-deceive
 ampUrl: https://beta.washingtonpost.com/technology/2019/07/23/facebook-deceived-users-about-way-it-used-phone-numbers-facial-recognition-ftc-allege-complaint/?outputType=amp
 cdnAmpUrl: https://beta-washingtonpost-com.cdn.ampproject.org/c/s/beta.washingtonpost.com/technology/2019/07/23/facebook-deceived-users-about-way-it-used-phone-numbers-facial-recognition-ftc-allege-complaint/?outputType=amp
 type: article
-score: 59
+score: 57
 
 provider:
   name: Washington Post

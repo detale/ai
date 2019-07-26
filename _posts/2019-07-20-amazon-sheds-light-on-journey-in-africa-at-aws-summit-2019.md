@@ -7,7 +7,7 @@ sourceUrl: https://www.itnewsafrica.com/2019/07/amazon-sheds-light-on-journey-in
 ampUrl: https://www.itnewsafrica.com/amp/2019/07/amazon-sheds-light-on-journey-in-africa-at-aws-summit-2019/
 cdnAmpUrl: https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/amp/2019/07/amazon-sheds-light-on-journey-in-africa-at-aws-summit-2019/
 type: article
-score: 36
+score: 34
 published: false
 
 provider:

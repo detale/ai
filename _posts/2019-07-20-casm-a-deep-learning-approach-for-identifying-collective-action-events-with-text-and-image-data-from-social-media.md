@@ -5,7 +5,7 @@ abstract: "Zhang, Han; Pan, Jennifer (2019): CASM: A Deep-Learning Approach for 
 publishedDateTime: 2019-07-20T11:08:00Z
 sourceUrl: https://figshare.com/collections/CASM_A_Deep-Learning_Approach_for_Identifying_Collective_Action_Events_with_Text_and_Image_Data_from_Social_Media/4583846
 type: article
-score: 31
+score: 29
 published: false
 
 provider:

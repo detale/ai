@@ -7,7 +7,7 @@ sourceUrl: https://medicalxpress.com/news/2019-06-artificial-intelligence-person
 ampUrl: https://medicalxpress.com/news/2019-06-artificial-intelligence-personalized-therapy.amp
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-06-artificial-intelligence-personalized-therapy.amp
 type: article
-score: 63
+score: 61
 
 provider:
   name: Medical Xpress
@@ -24,9 +24,11 @@ images:
     title: "Using artificial intelligence to deliver personalized radiation therapy"
 
 related:
+  - url: https://www.sciencecodex.com/using-artificial-intelligence-deliver-personalized-radiation-therapy-628504
+    title: "Using artificial intelligence to deliver personalized radiation therapy"
   - url: https://www.news-medical.net/news/20190628/Using-artificial-intelligence-to-personalize-the-dose-of-radiation-therapy-for-cancer-patients.aspx
     title: "Using artificial intelligence to personalize the dose of radiation therapy for cancer patients"
-    image:
+    images:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480

@@ -7,7 +7,7 @@ sourceUrl: https://www.news-medical.net/news/20190628/Using-artificial-intellige
 ampUrl: https://www.news-medical.net/amp/news/20190628/Using-artificial-intelligence-to-personalize-the-dose-of-radiation-therapy-for-cancer-patients.aspx
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20190628/Using-artificial-intelligence-to-personalize-the-dose-of-radiation-therapy-for-cancer-patients.aspx
 type: article
-score: 63
+score: 61
 
 provider:
   name: News Medical

@@ -7,7 +7,7 @@ sourceUrl: https://www.thestreet.com/technology/get-ready-for-big-tech-s-robot-s
 ampUrl: https://www.thestreet.com/amp/technology/get-ready-for-big-tech-s-robot-stampede-15010869
 cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/amp/technology/get-ready-for-big-tech-s-robot-stampede-15010869
 type: article
-score: 31
+score: 29
 published: false
 
 provider:

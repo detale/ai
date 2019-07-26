@@ -5,7 +5,7 @@ abstract: "Google’s DeepMind division has been hard at work applying artificia
 publishedDateTime: 2019-07-12T12:17:00Z
 sourceUrl: https://www.extremetech.com/extreme/294867-deepminds-starcraft-ii-ai-will-play-public-matches-on-battle-net
 type: article
-score: 27
+score: 26
 published: false
 
 provider:

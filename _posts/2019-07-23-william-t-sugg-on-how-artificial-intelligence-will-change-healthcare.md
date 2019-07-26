@@ -5,7 +5,8 @@ abstract: "Investors have been pouring billions of dollars into research and dev
 publishedDateTime: 2019-07-23T19:21:00Z
 sourceUrl: https://www.einpresswire.com/article/491486157/william-t-sugg-on-how-artificial-intelligence-will-change-healthcare
 type: article
-score: 51
+score: 47
+published: false
 
 provider:
   name: EIN Presswire
@@ -14,5 +15,4 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - Robotics
 ---

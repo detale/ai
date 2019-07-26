@@ -1,16 +1,16 @@
 ---
 category: news
 title: "WANdisco and Enable Data Join Forces to Quickly Migrate Hadoop Analytical Workloads to Databricks in the Azure Cloud"
-abstract: "The integration between Azure Databricks ... and multi-cloud to be purpose built Machine learning and analytics availability for extracting insights from data as well as approaches to automating ..."
-publishedDateTime: 2019-07-23T12:17:00Z
-sourceUrl: https://finance.yahoo.com/news/wandisco-enable-data-join-forces-110000226.html
+abstract: "The integration between Azure Databricks, WANdisco and Enable Data provides ... and multi-cloud to be purpose built Machine learning and analytics availability for extracting insights from data as well as approaches to automating decision making ..."
+publishedDateTime: 2019-07-23T11:00:00Z
+sourceUrl: https://virtual-strategy.com/2019/07/23/wandisco-and-enable-data-join-forces-to-quickly-migrate-hadoop-analytical-workloads-to-databricks-in-the-azure-cloud/
 type: article
-score: 38
+score: 17
 published: false
 
 provider:
-  name: YAHOO! News
-  id: yahoo.com
+  name: Virtual-Strategy
+  id: virtual-strategy.com
 
 topics:
   - AI

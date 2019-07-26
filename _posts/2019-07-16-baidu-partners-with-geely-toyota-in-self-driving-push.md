@@ -5,7 +5,7 @@ abstract: "BEIJING -- Baidu Inc. is joining hands with Zhejiang Geely Holding Gr
 publishedDateTime: 2019-07-16T16:33:00Z
 sourceUrl: https://www.autonews.com/china/baidu-partners-geely-toyota-self-driving-push
 type: article
-score: 46
+score: 45
 published: false
 
 provider:

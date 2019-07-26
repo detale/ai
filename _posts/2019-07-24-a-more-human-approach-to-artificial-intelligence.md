@@ -1,11 +1,11 @@
 ---
 category: news
 title: "A more human approach to artificial intelligence"
-abstract: "Where does the mind stop and the rest of the world begin? When Andy Clark, a philosopher at the University of Edinburgh, UK, asked this question in the 1990s, it was a world without deep learning or smartphones. As technology has developed, his argument ..."
+abstract: "The first is the development of artificial neural networks, which are computer systems inspired by the way that neurons interconnect in the brain. Then, in the past decade, a particular theory of how the brain works has emerged that is consistent with that ..."
 publishedDateTime: 2019-07-24T14:19:00Z
 sourceUrl: https://www.nature.com/articles/d41586-019-02213-3
 type: article
-score: 54
+score: 53
 
 provider:
   name: Nature

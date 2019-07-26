@@ -7,7 +7,7 @@ sourceUrl: https://www.denofgeek.com/us/tv/hbo/282392/westworld-creators-think-d
 ampUrl: http://amp.denofgeek.com/us/tv/hbo/282392/westworld-creators-think-dystopia-is-humanity-best-chance
 cdnAmpUrl: https://amp-denofgeek-com.cdn.ampproject.org/c/amp.denofgeek.com/us/tv/hbo/282392/westworld-creators-think-dystopia-is-humanity-best-chance
 type: article
-score: 42
+score: 40
 published: false
 
 provider:

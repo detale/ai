@@ -5,7 +5,7 @@ abstract: "LONDON — Alan Turing, a founding father of computer science and art
 publishedDateTime: 2019-07-15T19:57:00Z
 sourceUrl: https://www.pressherald.com/2019/07/15/alan-turing-a-founding-father-of-computer-science-revealed-as-new-face-of-british-50-pound-note/
 type: article
-score: 61
+score: 59
 
 provider:
   name: Portland Press Herald

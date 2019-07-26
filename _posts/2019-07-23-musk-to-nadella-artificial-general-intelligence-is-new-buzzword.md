@@ -5,7 +5,7 @@ abstract: "Move over Artificial Intelligence (AI) as San Francisco-based ... Ama
 publishedDateTime: 2019-07-23T15:11:00Z
 sourceUrl: https://news.webindia123.com/news/articles/Science/20190723/3573040.html
 type: article
-score: 34
+score: 32
 published: false
 
 provider:

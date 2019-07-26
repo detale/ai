@@ -7,7 +7,7 @@ sourceUrl: https://jalopnik.com/ford-faces-big-1-2-billion-lawsuit-over-f-150-fu
 ampUrl: https://jalopnik.com/ford-faces-big-1-2-billion-lawsuit-over-f-150-fuel-eco-1836628712/amp
 cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/ford-faces-big-1-2-billion-lawsuit-over-f-150-fuel-eco-1836628712/amp
 type: article
-score: 44
+score: 42
 published: false
 
 provider:

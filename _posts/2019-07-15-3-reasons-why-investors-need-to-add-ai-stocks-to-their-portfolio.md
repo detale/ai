@@ -7,7 +7,7 @@ sourceUrl: https://www.fool.com/investing/2019/07/15/3-reasons-why-investors-nee
 ampUrl: https://www.fool.com/amp/investing/2019/07/15/3-reasons-why-investors-need-to-add-ai-stocks-to-t.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/07/15/3-reasons-why-investors-need-to-add-ai-stocks-to-t.aspx
 type: article
-score: 56
+score: 54
 
 provider:
   name: The Motley Fool

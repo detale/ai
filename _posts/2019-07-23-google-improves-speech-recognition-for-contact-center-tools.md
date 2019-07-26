@@ -7,7 +7,7 @@ sourceUrl: https://www.zdnet.com/article/google-improves-speech-recognition-for-
 ampUrl: https://www.zdnet.com/google-amp/article/google-improves-speech-recognition-for-contact-center-tools/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-improves-speech-recognition-for-contact-center-tools/
 type: article
-score: 94
+score: 92
 
 provider:
   name: ZDNet

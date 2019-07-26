@@ -5,7 +5,7 @@ abstract: "OpenAI will run its services on Microsoft Azure, which will be its pr
 publishedDateTime: 2019-07-22T16:54:00Z
 sourceUrl: https://www.crn.com/news/cloud/microsoft-investing-1b-in-openai-to-advance-ai-in-azure-cloud
 type: article
-score: 53
+score: 51
 
 provider:
   name: CRN

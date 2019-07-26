@@ -5,7 +5,7 @@ abstract: "For decades retail technology basically meant cash registers slowly b
 publishedDateTime: 2019-07-05T04:11:00Z
 sourceUrl: https://www.ibtimes.com/how-do-consumers-feel-about-changing-retail-technology-2804822
 type: article
-score: 5
+score: 3
 published: false
 
 provider:

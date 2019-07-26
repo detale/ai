@@ -5,7 +5,7 @@ abstract: "Artificial intelligence (AI) is more than just a buzzword. From drive
 publishedDateTime: 2019-07-20T19:39:00Z
 sourceUrl: https://www.abc6.com/story/40814409/how-will-ai-help-good-managers-be-great
 type: article
-score: 1
+score: 0
 published: false
 
 provider:

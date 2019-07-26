@@ -5,7 +5,7 @@ abstract: "Artificial neural networks can be trained on complex data sets to det
 publishedDateTime: 2019-07-23T15:57:00Z
 sourceUrl: https://www.biorxiv.org/content/10.1101/711309v1
 type: article
-score: 34
+score: 32
 published: false
 
 provider:

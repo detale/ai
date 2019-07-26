@@ -5,7 +5,7 @@ abstract: "Have you ever wanted to try out a speech recognition project but foun
 publishedDateTime: 2019-07-09T14:11:00Z
 sourceUrl: https://www.kdnuggets.com/2019/07/practical-speech-recognition-python-basics.html
 type: article
-score: 20
+score: 18
 published: false
 
 provider:

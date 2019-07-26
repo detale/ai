@@ -7,7 +7,7 @@ sourceUrl: https://www.martechadvisor.com/news/interactive-marketing/nielsen-col
 ampUrl: https://www.martechadvisor.com/news/interactive-marketing/nielsen-collaborates-with-aws-moves-its-tv-ratings-platform-to-a-cloud-based-infrastructure/
 cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/interactive-marketing/nielsen-collaborates-with-aws-moves-its-tv-ratings-platform-to-a-cloud-based-infrastructure/
 type: article
-score: 55
+score: 53
 
 provider:
   name: MarTech Advisor

@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/panosmourdoukoutas/2019/07/20/ibm-is-cat
 ampUrl: https://www.forbes.com/sites/panosmourdoukoutas/2019/07/20/ibm-is-catching-up-with-microsoft-and-amazon/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/panosmourdoukoutas/2019/07/20/ibm-is-catching-up-with-microsoft-and-amazon/amp/
 type: article
-score: 76
+score: 74
 
 provider:
   name: Forbes

@@ -5,7 +5,7 @@ abstract: "Microsoft is keeping its innovation engine roaring and ... It takes a
 publishedDateTime: 2019-07-17T19:22:00Z
 sourceUrl: https://www.crn.com/news/cloud/microsoft-ceo-satya-nadella-s-6-key-statements-at-inspire-2019
 type: article
-score: 33
+score: 31
 published: false
 
 provider:

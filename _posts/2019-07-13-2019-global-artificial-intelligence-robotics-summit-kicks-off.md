@@ -5,7 +5,7 @@ abstract: "The 2019 Global Artificial Intelligence (AI) and Robotics Summit kick
 publishedDateTime: 2019-07-13T09:42:00Z
 sourceUrl: https://www.presstv.com/Detail/2019/07/13/600818/2019-Global-Artificial-Intelligence-AI-and-Robotics-Summit-kicks-off
 type: article
-score: 59
+score: 57
 
 provider:
   name: Press TV

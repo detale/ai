@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/forbesmarketplace/2019/07/23/how-one-exe
 ampUrl: https://www.forbes.com/sites/forbesmarketplace/2019/07/23/how-one-executive-is-using-machine-learning-to-diversify-human-storytelling/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2019/07/23/how-one-executive-is-using-machine-learning-to-diversify-human-storytelling/amp/
 type: article
-score: 94
+score: 92
 
 provider:
   name: Forbes

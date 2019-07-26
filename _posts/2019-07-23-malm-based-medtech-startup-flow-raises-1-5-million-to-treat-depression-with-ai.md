@@ -5,7 +5,7 @@ abstract: "Flow’s first product, a medication-free treatment for depression, l
 publishedDateTime: 2019-07-23T08:01:00Z
 sourceUrl: https://tech.eu/brief/malmo-based-medtech-startup-flow-raises-1-5-million-to-treat-depression-with-ai/
 type: article
-score: 24
+score: 22
 published: false
 
 provider:

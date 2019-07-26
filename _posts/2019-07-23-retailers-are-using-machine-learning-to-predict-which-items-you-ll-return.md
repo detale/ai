@@ -5,7 +5,7 @@ abstract: "ZDNet's Tiernan Ray explains that Indian e-commerce startup Myntra, p
 publishedDateTime: 2019-07-23T15:07:00Z
 sourceUrl: https://www.zdnet.com/video/retailers-are-using-machine-learning-to-predict-which-items-youll-return/
 type: article
-score: 74
+score: 72
 
 provider:
   name: ZDNet

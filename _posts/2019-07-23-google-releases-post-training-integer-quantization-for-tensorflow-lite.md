@@ -5,7 +5,7 @@ abstract: "Facebook's PyTorch, another major deep-learning framework, has a simi
 publishedDateTime: 2019-07-23T13:29:00Z
 sourceUrl: https://www.infoq.com/news/2019/07/tensorflow-lite-quantization/
 type: article
-score: 41
+score: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Google AI
 
 images:
   - url: https://res.infoq.com/news/2019/07/tensorflow-lite-quantization/en/headerimage/tensorflow-lite-quantization-1563891656969.jpg

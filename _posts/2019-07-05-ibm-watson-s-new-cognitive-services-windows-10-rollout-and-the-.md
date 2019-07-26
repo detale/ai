@@ -5,7 +5,7 @@ abstract: "IBM is introducing new cognitive services for IBM Watson ... patents 
 publishedDateTime: 2019-07-06T00:00:00Z
 sourceUrl: https://sdtimes.com/ai/ibm-watsons-new-cognitive-services-windows-10-rollout-and-the-hacking-teams-hack-attack-sd-times-news-digest-july-6-2015/
 type: article
-score: 16
+score: 34
 published: false
 
 provider:
@@ -15,4 +15,10 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://sdtimes.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-06-at-12.56.13-PM.png
+    width: 888
+    height: 674
+    title: "IBM Watson’s new cognitive services, Windows 10 rollout, and the…"
 ---

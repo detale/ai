@@ -5,7 +5,7 @@ abstract: "Computer Vision is one of the hottest topics in artificial intelligen
 publishedDateTime: 2019-07-17T12:02:00Z
 sourceUrl: https://www.kdnuggets.com/2019/07/computer-vision-beginners.html
 type: article
-score: 48
+score: 46
 published: false
 
 provider:

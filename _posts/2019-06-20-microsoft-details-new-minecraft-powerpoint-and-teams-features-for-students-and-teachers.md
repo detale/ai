@@ -7,7 +7,7 @@ sourceUrl: https://www.windowscentral.com/microsoft-edu-iste-2019-minecraft-imme
 ampUrl: https://www.windowscentral.com/microsoft-edu-iste-2019-minecraft-immersive-reader?amp
 cdnAmpUrl: https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-edu-iste-2019-minecraft-immersive-reader?amp
 type: article
-score: 26
+score: 24
 published: false
 
 provider:

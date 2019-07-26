@@ -5,7 +5,7 @@ abstract: "Suffice it to say, the technological revolution continues to evolve, 
 publishedDateTime: 2019-07-15T06:17:00Z
 sourceUrl: https://www.aspentimes.com/news/local/business-monday-fortune-brainstorm-tech-invades-aspen/
 type: article
-score: 16
+score: 13
 published: false
 
 provider:

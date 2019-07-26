@@ -7,7 +7,8 @@ sourceUrl: https://www.govtech.com/products/New-York-School-District-Rethinks-Fa
 ampUrl: https://www.govtech.com/products/New-York-School-District-Rethinks-Facial-Recognition-Rules.html?AMP
 cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/New-York-School-District-Rethinks-Facial-Recognition-Rules.html?AMP
 type: article
-score: 51
+score: 49
+published: false
 
 provider:
   name: Government Technology

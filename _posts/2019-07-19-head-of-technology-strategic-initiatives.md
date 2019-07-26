@@ -5,7 +5,7 @@ abstract: "Keras and PyTorch Indigo Books & Music is committed to treating all p
 publishedDateTime: 2019-07-19T15:29:00Z
 sourceUrl: https://jobs.smartrecruiters.com/IndigoBooksMusic/743999692029343-head-of-technology-strategic-initiatives
 type: article
-score: 2
+score: 0
 published: false
 
 provider:
@@ -15,5 +15,4 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Google AI
 ---

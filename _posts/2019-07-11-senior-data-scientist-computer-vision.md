@@ -5,7 +5,7 @@ abstract: "Traveloka is a Southeast Asian internet unicorn focused on travel and
 publishedDateTime: 2019-07-11T07:01:00Z
 sourceUrl: https://jobs.smartrecruiters.com/Traveloka/743999691852175-senior-data-scientist-computer-vision
 type: article
-score: 22
+score: 19
 published: false
 
 provider:

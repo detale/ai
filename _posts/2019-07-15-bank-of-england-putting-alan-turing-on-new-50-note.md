@@ -7,7 +7,8 @@ sourceUrl: https://thehill.com/policy/international/453067-britain-putting-alan-
 ampUrl: https://thehill.com/policy/international/453067-britain-putting-alan-turing-on-new-ps50-note?amp
 cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/453067-britain-putting-alan-turing-on-new-ps50-note?amp
 type: article
-score: 51
+score: 49
+published: false
 
 provider:
   name: The Hill

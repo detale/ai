@@ -5,7 +5,7 @@ abstract: "This week on KDnuggets: Learn how DeepMind dominated the last CASP co
 publishedDateTime: 2019-07-24T11:29:00Z
 sourceUrl: https://www.kdnuggets.com/2019/n27.html
 type: article
-score: 49
+score: 48
 published: false
 
 provider:

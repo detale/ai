@@ -7,7 +7,7 @@ sourceUrl: https://phys.org/news/2019-07-deep-cee-ai-deep-tool-astronomers.html
 ampUrl: https://phys.org/news/2019-07-deep-cee-ai-deep-tool-astronomers.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-07-deep-cee-ai-deep-tool-astronomers.amp
 type: article
-score: 54
+score: 52
 
 provider:
   name: Phys.org

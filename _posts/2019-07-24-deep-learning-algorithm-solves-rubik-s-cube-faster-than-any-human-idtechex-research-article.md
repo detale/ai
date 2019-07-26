@@ -5,7 +5,7 @@ abstract: "Since its invention by a Hungarian architect in 1974, the Rubik's Cub
 publishedDateTime: 2019-07-24T07:25:00Z
 sourceUrl: https://www.idtechex.com/en/research-article/deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/17722?donotredirect=true
 type: article
-score: 34
+score: 32
 published: false
 
 provider:

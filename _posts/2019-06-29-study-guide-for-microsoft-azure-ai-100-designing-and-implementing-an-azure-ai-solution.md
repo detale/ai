@@ -5,7 +5,7 @@ abstract: "Similarly, the scope of exam 70–774: Perform Cloud Data Science wit
 publishedDateTime: 2019-06-30T00:00:00Z
 sourceUrl: https://medium.com/deep-ai/study-guide-for-microsoft-azure-ai-100-designing-and-implementing-an-azure-ai-solution-beta-b0b01effd2c6
 type: article
-score: 30
+score: 28
 published: false
 
 provider:

@@ -7,7 +7,7 @@ sourceUrl: https://www.techrepublic.com/article/azure-data-box-edge-a-little-bit
 ampUrl: https://www.techrepublic.com/google-amp/article/azure-data-box-edge-a-little-bit-of-azure-in-your-data-center/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/azure-data-box-edge-a-little-bit-of-azure-in-your-data-center/
 type: article
-score: 79
+score: 77
 
 provider:
   name: TechRepublic

@@ -5,7 +5,7 @@ abstract: "Jul 18, 2019 (marketresearchupdates.com via COMTEX) -- Industrial Gro
 publishedDateTime: 2019-07-18T12:06:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-speech-recognition-market-2019-by-segment-forecasts-2025-nuance-microsoft-agnitio-etc-2019-07-18
 type: article
-score: 64
+score: 82
 
 provider:
   name: MarketWatch
@@ -14,4 +14,10 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Global Speech Recognition Market 2019 By Segment Forecasts 2025 | Nuance, Microsoft, Agnitio, etc."
 ---

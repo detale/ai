@@ -7,7 +7,7 @@ sourceUrl: https://www.military.com/daily-news/2019/07/19/driverless-army-combat
 ampUrl: https://www.military.com/daily-news/2019/07/19/driverless-army-combat-vehicles-face-uncertain-future-general-says.html/amp
 cdnAmpUrl: https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2019/07/19/driverless-army-combat-vehicles-face-uncertain-future-general-says.html/amp
 type: article
-score: 70
+score: 68
 
 provider:
   name: Military.com

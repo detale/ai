@@ -5,7 +5,7 @@ abstract: "Marketing scientist Kevin Gray asks Dr. Anna Farzindar of the Univers
 publishedDateTime: 2019-07-16T14:39:00Z
 sourceUrl: https://www.kdnuggets.com/2019/02/natural-language-processing-social-media.html
 type: article
-score: 42
+score: 40
 published: false
 
 provider:

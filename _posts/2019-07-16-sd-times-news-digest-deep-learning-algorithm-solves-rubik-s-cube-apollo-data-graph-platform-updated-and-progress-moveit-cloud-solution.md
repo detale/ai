@@ -5,7 +5,7 @@ abstract: "A deep learning algorithm created by researchers at the University of
 publishedDateTime: 2019-07-16T15:26:00Z
 sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-deep-learning-algorithm-solves-rubiks-cube-apollo-data-graph-platform-updated-and-progress-moveit-cloud-solution/
 type: article
-score: 47
+score: 45
 published: false
 
 provider:

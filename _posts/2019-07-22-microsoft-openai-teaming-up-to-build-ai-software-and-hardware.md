@@ -5,7 +5,7 @@ abstract: "The deal raises Microsoft’s profile in an area known as “artifici
 publishedDateTime: 2019-07-22T19:44:00Z
 sourceUrl: https://www.theinformation.com/briefings/e25f52
 type: article
-score: 18
+score: 16
 published: false
 
 provider:

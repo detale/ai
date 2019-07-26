@@ -5,7 +5,7 @@ abstract: "Jul 17, 2019 (marketresearchupdates.com via COMTEX) -- “Info-graphi
 publishedDateTime: 2019-07-17T10:34:00Z
 sourceUrl: https://www.marketwatch.com/press-release/new-research-study-on-machine-translation-market-predicts-steady-growth-till-2024-2019-07-17
 type: article
-score: 48
+score: 46
 published: false
 
 provider:

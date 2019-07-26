@@ -5,7 +5,7 @@ abstract: "Table Rule-Based CAGR by Revenue and Volume, 2012-2018 Table Statisti
 publishedDateTime: 2019-07-23T00:14:00Z
 sourceUrl: https://www.reportsnreports.com/reports/2414924-global-natural-language-processing-market-research-report-2012-2024.html
 type: article
-score: 48
+score: 46
 published: false
 
 provider:

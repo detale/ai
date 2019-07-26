@@ -5,7 +5,7 @@ abstract: "The supplier is currently developing artificial intelligence software
 publishedDateTime: 2019-07-23T11:44:00Z
 sourceUrl: https://www.msn.com/en-gb/cars/news/mercedes-benz-reveals-%E2%80%9Cworlds-first%E2%80%9D-autonomous-valet-parking-system/ar-AAEJNjo
 type: article
-score: 24
+score: 2
 published: false
 
 provider:

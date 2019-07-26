@@ -7,7 +7,7 @@ sourceUrl: https://www.ft.com/content/ce0a7828-97bd-11e9-8cfb-30c211dcd229
 ampUrl: https://amp.ft.com/content/ce0a7828-97bd-11e9-8cfb-30c211dcd229
 cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ce0a7828-97bd-11e9-8cfb-30c211dcd229
 type: article
-score: 32
+score: 30
 published: false
 
 provider:

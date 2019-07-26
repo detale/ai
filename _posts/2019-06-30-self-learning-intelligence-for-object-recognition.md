@@ -5,7 +5,7 @@ abstract: "Machine vision is a key technology for highly automated and seamlessl
 publishedDateTime: 2019-07-01T04:28:00Z
 sourceUrl: https://www.qualitymag.com/articles/95548-self-learning-intelligence-for-object-recognition
 type: article
-score: 76
+score: 74
 
 provider:
   name: Quality

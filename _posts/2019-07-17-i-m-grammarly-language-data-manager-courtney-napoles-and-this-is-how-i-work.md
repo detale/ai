@@ -7,7 +7,7 @@ sourceUrl: https://lifehacker.com/im-grammarly-language-data-manager-courtney-na
 ampUrl: https://lifehacker.com/im-grammarly-language-data-manager-courtney-napoles-an-1836421539/amp
 cdnAmpUrl: https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/im-grammarly-language-data-manager-courtney-napoles-an-1836421539/amp
 type: article
-score: 53
+score: 51
 
 provider:
   name: Lifehacker

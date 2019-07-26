@@ -7,7 +7,7 @@ sourceUrl: https://fortune.com/2019/07/16/artificial-intelligence-brainstorm-tec
 ampUrl: https://fortune.com/2019/07/16/artificial-intelligence-brainstorm-tech-eye-on-a-i/amp/
 cdnAmpUrl: https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2019/07/16/artificial-intelligence-brainstorm-tech-eye-on-a-i/amp/
 type: article
-score: 87
+score: 85
 
 provider:
   name: Fortune

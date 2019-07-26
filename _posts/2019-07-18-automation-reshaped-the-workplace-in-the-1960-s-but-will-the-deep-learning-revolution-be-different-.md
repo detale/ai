@@ -5,7 +5,7 @@ abstract: "Millions of jobs lost to automation. Pundits decrying that machines a
 publishedDateTime: 2019-07-18T17:00:00Z
 sourceUrl: https://www.forbes.com/sites/kalevleetaru/2019/07/18/automation-reshaped-the-workplace-in-the-1960s-but-will-the-deep-learning-revolution-be-different/
 type: article
-score: 69
+score: 67
 
 provider:
   name: Forbes

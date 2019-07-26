@@ -5,7 +5,7 @@ abstract: "Children’s National Health System in Washington, D.C., is collabora
 publishedDateTime: 2019-07-23T13:59:00Z
 sourceUrl: https://www.fiercehealthcare.com/tech/children-s-national-health-system-washington-d-c-collaborating-technology-company-kensci-to
 type: article
-score: 24
+score: 22
 published: false
 
 provider:
@@ -17,8 +17,8 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: https://qtxasset.com/field/image/Heather%20%28web%29.jpg?6VTethyg9ZjOmaKcwLqdcGsO.kHYj_Wj
-    width: 2852
-    height: 4023
+  - url: https://qtxasset.com/field/image/Heather_3.jpg?lI5Htj6JZ3kHnovfLtsOlA3wcywsMMiT
+    width: 5600
+    height: 3733
     title: "Children's National, KenSci studying the use of AI to improve pediatric critical care"
 ---

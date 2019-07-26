@@ -5,7 +5,7 @@ abstract: "360factors is an industry thought leader involving GRC solutions, pio
 publishedDateTime: 2019-07-23T15:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/360factors-selected-by-first-hawaiian-bank-to-provide-compliance-and-risk-management-solutions-1028377018
 type: article
-score: 39
+score: 37
 published: false
 
 provider:

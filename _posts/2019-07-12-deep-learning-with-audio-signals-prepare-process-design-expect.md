@@ -5,7 +5,7 @@ abstract: "Keunwoo Choi introduces what the audio/music research societies have 
 publishedDateTime: 2019-07-13T01:12:00Z
 sourceUrl: https://www.infoq.com/presentations/dl-audio-signal/
 type: article
-score: 23
+score: 21
 published: false
 
 provider:

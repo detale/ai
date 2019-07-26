@@ -7,7 +7,7 @@ sourceUrl: https://www.entrepreneur.com/article/337164
 ampUrl: https://www.entrepreneur.com/amphtml/337164
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/337164
 type: article
-score: 92
+score: 90
 
 provider:
   name: Entrepreneur

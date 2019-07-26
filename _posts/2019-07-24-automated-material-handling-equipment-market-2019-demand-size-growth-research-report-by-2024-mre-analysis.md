@@ -5,7 +5,7 @@ abstract: "With the appearance of technologies adore artificial intelligence, wi
 publishedDateTime: 2019-07-24T10:05:00Z
 sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-demand-size-growth-research-report-by-2024---mre-analysis-2019-07-24
 type: article
-score: 24
+score: 23
 published: false
 
 provider:

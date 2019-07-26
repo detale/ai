@@ -5,7 +5,7 @@ abstract: "We hear Machine Learning and Artificial Intelligence (AI) all over th
 publishedDateTime: 2019-06-28T21:00:00Z
 sourceUrl: https://msdynamicsworld.com/event/how-any-d365-finance-and-operations-customer-can-leverage-azure-machine-learning-and-ai
 type: article
-score: 24
+score: 22
 published: false
 
 provider:

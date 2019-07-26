@@ -5,7 +5,7 @@ abstract: "The importance of machine learning and deep learning is no longer in 
 publishedDateTime: 2019-07-01T10:03:00Z
 sourceUrl: https://www.infoworld.com/article/3405641/tensorflow-2-review-easier-end-to-end-machine-learning.html
 type: article
-score: 67
+score: 65
 
 provider:
   name: InfoWorld

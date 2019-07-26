@@ -5,7 +5,7 @@ abstract: "Artificial Intelligence is one of the emerging technologies which ...
 publishedDateTime: 2019-07-22T14:59:00Z
 sourceUrl: https://www.edureka.co/blog/what-are-the-advantages-and-disadvantages-of-artificial-intelligence/
 type: article
-score: 53
+score: 51
 
 provider:
   name: Edureka

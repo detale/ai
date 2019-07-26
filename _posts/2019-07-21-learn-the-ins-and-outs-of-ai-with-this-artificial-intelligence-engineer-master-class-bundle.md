@@ -5,7 +5,7 @@ abstract: "And luckily, that’s actually easier than it sounds thanks to The Ar
 publishedDateTime: 2019-07-21T16:32:00Z
 sourceUrl: https://futurism.com/learn-the-ins-and-outs-of-ai-with-this-artificial-intelligence-engineer-master-class-bundle
 type: article
-score: 38
+score: 34
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-  - AI in Healthcare
-  - Google AI
   - Robotics
+  - AI in Healthcare
 ---

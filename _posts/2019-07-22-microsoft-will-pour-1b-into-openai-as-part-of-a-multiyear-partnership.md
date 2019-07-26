@@ -7,7 +7,7 @@ sourceUrl: https://www.techspot.com/news/81067-microsoft-pour-1b-openai-part-mul
 ampUrl: https://www.techspot.com/amp/news/81067-microsoft-pour-1b-openai-part-multiyear-partnership.html
 cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/81067-microsoft-pour-1b-openai-part-multiyear-partnership.html
 type: article
-score: 78
+score: 76
 
 provider:
   name: TechSpot

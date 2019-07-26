@@ -7,7 +7,7 @@ sourceUrl: https://appleinsider.com/articles/19/07/24/apples-siri-is-the-first-o
 ampUrl: https://appleinsider.com/articles/19/07/24/apples-siri-is-the-first-of-four-targets-over-voice-recognition-technology/amp/
 cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/19/07/24/apples-siri-is-the-first-of-four-targets-over-voice-recognition-technology/amp/
 type: article
-score: 59
+score: 58
 
 provider:
   name: AppleInsider

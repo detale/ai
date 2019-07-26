@@ -7,7 +7,7 @@ sourceUrl: https://venturebeat.com/2019/07/07/the-computer-vision-nominees-for-t
 ampUrl: https://venturebeat.com/2019/07/07/the-computer-vision-nominees-for-the-transform-ai-innovation-awards/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/07/the-computer-vision-nominees-for-the-transform-ai-innovation-awards/amp/
 type: article
-score: 78
+score: 76
 
 provider:
   name: VentureBeat

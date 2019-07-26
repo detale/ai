@@ -5,7 +5,7 @@ abstract: "Earlier this month, Oakland, California, became the third city in the
 publishedDateTime: 2019-07-23T14:00:00Z
 sourceUrl: https://www.fastcompany.com/90379969/youre-already-being-watched-by-facial-recognition-tech-this-map-shows-where?partner=feedburner
 type: article
-score: 39
+score: 37
 published: false
 
 provider:

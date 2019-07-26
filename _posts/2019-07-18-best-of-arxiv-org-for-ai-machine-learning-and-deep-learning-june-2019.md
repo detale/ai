@@ -5,7 +5,7 @@ abstract: "In this recurring monthly feature, we filter recent research papers a
 publishedDateTime: 2019-07-18T19:58:00Z
 sourceUrl: https://insidebigdata.com/2019/07/18/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-june-2019/
 type: article
-score: 64
+score: 62
 
 provider:
   name: insidebigdata.com

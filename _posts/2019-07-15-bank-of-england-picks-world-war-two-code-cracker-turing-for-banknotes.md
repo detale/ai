@@ -5,7 +5,7 @@ abstract: "will appear on the Bank of England's next 50-pound banknote, the BoE 
 publishedDateTime: 2019-07-15T19:45:00Z
 sourceUrl: https://www.unionleader.com/news/history/bank-of-england-picks-world-war-two-code-cracker-turing/article_b439dde7-9c0f-53e8-8d86-9fbc96b45c8b.html
 type: article
-score: 31
+score: 29
 published: false
 
 provider:

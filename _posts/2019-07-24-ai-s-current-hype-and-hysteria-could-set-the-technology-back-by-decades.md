@@ -7,7 +7,7 @@ sourceUrl: https://phys.org/news/2019-07-ai-current-hype-hysteria-technology.htm
 ampUrl: https://phys.org/news/2019-07-ai-current-hype-hysteria-technology.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-07-ai-current-hype-hysteria-technology.amp
 type: article
-score: 44
+score: 43
 published: false
 
 provider:

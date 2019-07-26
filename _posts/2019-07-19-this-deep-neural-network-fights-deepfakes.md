@@ -5,7 +5,8 @@ abstract: "A deep neural network is what artificial intelligence researchers cal
 publishedDateTime: 2019-07-19T19:11:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/07/190719102114.htm
 type: article
-score: 50
+score: 48
+published: false
 
 provider:
   name: Science Daily

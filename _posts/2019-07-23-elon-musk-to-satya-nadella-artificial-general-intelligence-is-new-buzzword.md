@@ -5,7 +5,7 @@ abstract: "New Delhi: Move over Artificial Intelligence (AI ... Amazon Web Servi
 publishedDateTime: 2019-07-23T11:12:00Z
 sourceUrl: https://in.finance.yahoo.com/news/elon-musk-satya-nadella-artificial-104138932.html
 type: article
-score: 54
+score: 52
 
 provider:
   name: YAHOO! News
@@ -14,4 +14,8 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - url: https://news.webindia123.com/news/articles/Science/20190723/3573040.html
+    title: "Musk to Nadella, Artificial General Intelligence is new buzzword"
 ---

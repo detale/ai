@@ -5,7 +5,7 @@ abstract: "Understanding how biological visual systems recognize objects is one 
 publishedDateTime: 2019-07-03T20:17:00Z
 sourceUrl: https://www.nature.com/articles/nn1100_1199
 type: article
-score: 34
+score: 12
 published: false
 
 provider:
@@ -15,10 +15,4 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F81479/MediaObjects/41593_2000_Article_BFnn1100_1199_Fig1_HTML.gif
-    width: 395
-    height: 412
-    title: "Models of object recognition"
 ---

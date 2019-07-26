@@ -7,7 +7,7 @@ sourceUrl: https://www.computerweekly.com/news/252467184/Microsoft-talks-up-bene
 ampUrl: https://www.computerweekly.com/news/252467184/Microsoft-talks-up-benefits-and-pitfalls-of-machine-learning-in-security?amp=1
 cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252467184/Microsoft-talks-up-benefits-and-pitfalls-of-machine-learning-in-security?amp=1
 type: article
-score: 69
+score: 66
 
 provider:
   name: Computer Weekly

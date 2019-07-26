@@ -5,7 +5,7 @@ abstract: "Many of these new applications, such as driverless cars, telemedicine
 publishedDateTime: 2019-07-17T07:33:00Z
 sourceUrl: https://www.cfr.org/report/securing-5g-networks
 type: article
-score: 33
+score: 30
 published: false
 
 provider:

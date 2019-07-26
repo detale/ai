@@ -7,7 +7,7 @@ sourceUrl: https://venturebeat.com/2019/07/22/ubers-evograd-is-a-dev-library-for
 ampUrl: https://venturebeat.com/2019/07/22/ubers-evograd-is-a-dev-library-for-evolutionary-algorithms/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/22/ubers-evograd-is-a-dev-library-for-evolutionary-algorithms/amp/
 type: article
-score: 43
+score: 41
 published: false
 
 provider:

@@ -7,7 +7,7 @@ sourceUrl: https://venturebeat.com/2019/07/18/aquasight-uses-computer-vision-to-
 ampUrl: https://venturebeat.com/2019/07/18/aquasight-uses-computer-vision-to-tell-you-if-water-is-safe-to-drink/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/18/aquasight-uses-computer-vision-to-tell-you-if-water-is-safe-to-drink/amp/
 type: article
-score: 89
+score: 87
 
 provider:
   name: VentureBeat

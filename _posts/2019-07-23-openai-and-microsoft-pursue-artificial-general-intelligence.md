@@ -7,7 +7,7 @@ sourceUrl: https://www.psychologytoday.com/us/blog/the-future-brain/201907/opena
 ampUrl: https://www.psychologytoday.com/us/blog/the-future-brain/201907/openai-and-microsoft-pursue-artificial-general-intelligence?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/201907/openai-and-microsoft-pursue-artificial-general-intelligence?amp
 type: article
-score: 91
+score: 89
 
 provider:
   name: Psychology Today

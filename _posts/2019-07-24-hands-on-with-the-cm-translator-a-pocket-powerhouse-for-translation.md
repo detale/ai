@@ -7,7 +7,7 @@ sourceUrl: https://www.digitaltrends.com/cool-tech/cm-translator-review/
 ampUrl: https://www.digitaltrends.com/cool-tech/cm-translator-review/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/cm-translator-review/?amp
 type: article
-score: 59
+score: 78
 
 provider:
   name: Digital Trends
@@ -16,4 +16,10 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://icdn2.digitaltrends.com/image/cm-translator-review-04331-1200x630-c-ar1.91.jpg
+    width: 1200
+    height: 628
+    title: "Hands on with the CM Translator, a pocket powerhouse for translation"
 ---

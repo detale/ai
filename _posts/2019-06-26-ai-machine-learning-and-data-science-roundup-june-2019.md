@@ -5,7 +5,7 @@ abstract: "Facebook open sources PyRobot, a framework that enables AI researcher
 publishedDateTime: 2019-06-27T00:00:00Z
 sourceUrl: https://blog.revolutionanalytics.com/2019/06/airoundup-june-2019.html
 type: article
-score: 7
+score: 5
 published: false
 
 provider:

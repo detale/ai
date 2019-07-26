@@ -5,7 +5,7 @@ abstract: "The new courses will cover cloud computing, data analytics, machine l
 publishedDateTime: 2019-07-17T21:52:00Z
 sourceUrl: https://campustechnology.com/articles/2019/07/17/nova-program-taps-aws-to-train-marines-in-data-intelligence.aspx
 type: article
-score: 28
+score: 26
 published: false
 
 provider:

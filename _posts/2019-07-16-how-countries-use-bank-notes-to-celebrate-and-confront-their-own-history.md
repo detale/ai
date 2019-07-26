@@ -7,7 +7,7 @@ sourceUrl: https://www.washingtonpost.com/world/2019/07/16/how-countries-use-ban
 ampUrl: https://beta.washingtonpost.com/world/2019/07/16/how-countries-use-bank-notes-celebrate-confront-their-own-history/?outputType=amp
 cdnAmpUrl: https://beta-washingtonpost-com.cdn.ampproject.org/c/s/beta.washingtonpost.com/world/2019/07/16/how-countries-use-bank-notes-celebrate-confront-their-own-history/?outputType=amp
 type: article
-score: 52
+score: 50
 
 provider:
   name: Washington Post

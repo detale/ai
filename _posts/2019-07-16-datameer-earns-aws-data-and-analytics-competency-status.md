@@ -5,7 +5,7 @@ abstract: "The AWS Big Data Competency distinction is given ... machine learning
 publishedDateTime: 2019-07-16T08:20:00Z
 sourceUrl: https://finance.yahoo.com/news/datameer-earns-aws-data-analytics-080000638.html
 type: article
-score: 32
+score: 30
 published: false
 
 provider:

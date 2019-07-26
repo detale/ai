@@ -5,7 +5,7 @@ abstract: "The two organisations will jointly build \"Azure AI supercomputing te
 publishedDateTime: 2019-07-23T10:11:00Z
 sourceUrl: https://www.cloudpro.co.uk/it-infrastructure/8166/microsofts-1bn-openai-partnership-underpinned-with-closer-azure-ties
 type: article
-score: 54
+score: 52
 
 provider:
   name: Cloud Pro

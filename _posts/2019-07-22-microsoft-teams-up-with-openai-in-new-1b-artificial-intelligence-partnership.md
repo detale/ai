@@ -5,7 +5,7 @@ abstract: "Google’s DeepMind machine learning research unit, which has a simil
 publishedDateTime: 2019-07-22T17:01:00Z
 sourceUrl: https://siliconangle.com/2019/07/22/microsoft-teams-openai-new-1b-artificial-intelligence-partnership/
 type: article
-score: 70
+score: 68
 
 provider:
   name: SiliconANGLE

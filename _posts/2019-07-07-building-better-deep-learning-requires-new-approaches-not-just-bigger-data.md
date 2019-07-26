@@ -7,7 +7,7 @@ sourceUrl: https://www.forbes.com/sites/kalevleetaru/2019/07/07/building-better-
 ampUrl: https://www.forbes.com/sites/kalevleetaru/2019/07/07/building-better-deep-learning-requires-new-approaches-not-just-bigger-data/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalevleetaru/2019/07/07/building-better-deep-learning-requires-new-approaches-not-just-bigger-data/amp/
 type: article
-score: 78
+score: 76
 
 provider:
   name: Forbes

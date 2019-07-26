@@ -5,7 +5,7 @@ abstract: "The self-driving car market has high growth prospects owing to increa
 publishedDateTime: 2019-07-23T14:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-nextgen-technological-advancements-professional-survey-and-future-industry-trends-2024-2019-07-23
 type: article
-score: 54
+score: 52
 
 provider:
   name: MarketWatch

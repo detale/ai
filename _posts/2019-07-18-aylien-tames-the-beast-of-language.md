@@ -7,7 +7,7 @@ sourceUrl: https://www.rte.ie/news/business/2019/0717/1063650-aylien/
 ampUrl: https://www.rte.ie/amp/1063650/
 cdnAmpUrl: https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1063650/
 type: article
-score: 54
+score: 52
 
 provider:
   name: RTE Online

@@ -7,7 +7,7 @@ sourceUrl: https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-c
 ampUrl: https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.amp.html
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.amp.html
 type: article
-score: 88
+score: 86
 
 provider:
   name: New York Times

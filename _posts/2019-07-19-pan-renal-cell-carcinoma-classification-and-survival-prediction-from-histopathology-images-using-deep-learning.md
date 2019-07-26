@@ -5,7 +5,7 @@ abstract: "The training was terminated when the validation accuracy did not vary
 publishedDateTime: 2019-07-19T09:23:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-46718-3
 type: article
-score: 32
+score: 48
 published: false
 
 provider:
@@ -15,5 +15,10 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Machine Learning
+
+images:
+  - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-46718-3/MediaObjects/41598_2019_46718_Fig1_HTML.png
+    width: 685
+    height: 327
+    title: "Pan-Renal Cell Carcinoma classification and survival prediction from histopathology images using deep learning"
 ---
