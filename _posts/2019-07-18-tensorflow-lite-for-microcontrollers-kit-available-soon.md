@@ -5,7 +5,8 @@ abstract: "Adafruit has announced the imminent availability of its new TensorFlo
 publishedDateTime: 2019-07-18T10:07:00Z
 sourceUrl: https://www.geeky-gadgets.com/tensorflow-lite-for-microcontrollers-kit-18-07-2019/
 type: article
-score: 32
+quality: 19
+score: 19
 published: false
 
 provider:

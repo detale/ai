@@ -5,7 +5,9 @@ abstract: "Jul 23, 2019 (AmericaNewsHour) -- The Global Natural Language Process
 publishedDateTime: 2019-07-23T09:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-natural-language-processing-market-was-valued-at-usd-786-billion-in-2016-and-is-projected-to-reach-usd-3048-billion-by-2025-2019-07-23
 type: article
-score: 67
+quality: 54
+score: 59
+published: true
 
 provider:
   name: MarketWatch
@@ -14,4 +16,8 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+related:
+  - url: https://www.einpresswire.com/article/492328126/global-statistical-natural-language-processing-market-2025-dynamics-innovations-emerging-technology-and-applications
+    title: "Global Statistical Natural Language Processing market 2025 Dynamics,Innovations,Emerging Technology and Applications"
 ---

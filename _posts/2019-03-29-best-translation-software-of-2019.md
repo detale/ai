@@ -5,6 +5,7 @@ abstract: "While translation software previously suffered from limitations in ho
 publishedDateTime: 2019-03-30T00:34:00Z
 sourceUrl: https://www.msn.com/en-gb/money/technology/best-translation-software-of-2019/ar-AAEuYPj
 type: article
+quality: 0
 score: 0
 published: false
 

@@ -7,7 +7,9 @@ sourceUrl: https://www.ft.com/content/8233a7ee-aed3-11e9-8030-530adfa879c2
 ampUrl: https://amp.ft.com/content/8233a7ee-aed3-11e9-8030-530adfa879c2
 cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8233a7ee-aed3-11e9-8030-530adfa879c2
 type: article
-score: 86
+quality: 71
+score: 71
+published: false
 
 provider:
   name: The Financial Times
@@ -16,5 +18,4 @@ provider:
 topics:
   - AI
   - AI in Autos
-  - Google AI
 ---

@@ -5,7 +5,9 @@ abstract: "Manufacturers, such as automakers, have to deal with increasing deman
 publishedDateTime: 2019-07-24T15:42:00Z
 sourceUrl: https://www.tmcnet.com/topics/articles/2019/07/24/442770-artificial-intelligence-make-every-robot-safe-efficient.htm
 type: article
-score: 53
+quality: 40
+score: 40
+published: false
 
 provider:
   name: TMCnet
@@ -16,8 +18,8 @@ topics:
   - Robotics
 
 images:
-  - url: https://images.tmcnet.com/tmc/misc/articles/image/2019-jul/2118659081-bigstock-artificial-intelligence-future-SUPERSIZE.jpg
-    width: 1000
-    height: 600
+  - url: https://images.tmcnet.com/tmc/world.jpg
+    width: 280
+    height: 150
     title: "Can artificial intelligence make every robot safe and efficient?"
 ---

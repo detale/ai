@@ -5,7 +5,9 @@ abstract: "Jul 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI recently 
 publishedDateTime: 2019-07-24T15:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-to-set-remarkable-growth-by-2025-nokia-expert-system-verbio-inbenta-2019-07-24
 type: article
-score: 53
+quality: 40
+score: 40
+published: false
 
 provider:
   name: MarketWatch

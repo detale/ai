@@ -5,7 +5,8 @@ abstract: "In Q2, AWS saw a notable rise in adoption of its machine learning ser
 publishedDateTime: 2019-07-25T23:38:00Z
 sourceUrl: https://www.crn.com/news/cloud/aws-expansion-slightly-slows-as-investment-ramps
 type: article
-score: 39
+quality: 26
+score: 26
 published: false
 
 provider:
@@ -17,7 +18,7 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.crn.com/resources/0253-0d1960f0dbff-84fa339626e7-1000/aws-navigate-logo.jpg
+  - url: https://www.crn.com/resources/0253-0d1acee45d27-ac6fc4c94c22-1000/aws-booth.jpg
     width: 610
     height: 457
     title: "AWS Expansion Slows Slightly As Investment Ramps"

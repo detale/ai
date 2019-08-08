@@ -7,7 +7,8 @@ sourceUrl: https://www.thejakartapost.com/news/2019/07/26/google-parent-alphabet
 ampUrl: https://www.thejakartapost.com/amp/news/2019/07/26/google-parent-alphabet-q2-profit-triples-to-99-billion.html
 cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2019/07/26/google-parent-alphabet-q2-profit-triples-to-99-billion.html
 type: article
-score: 44
+quality: 31
+score: 31
 published: false
 
 provider:

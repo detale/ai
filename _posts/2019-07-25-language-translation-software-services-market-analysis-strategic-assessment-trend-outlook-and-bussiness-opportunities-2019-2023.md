@@ -7,7 +7,9 @@ sourceUrl: https://www.benzinga.com/pressreleases/19/07/ab14132326/language-tran
 ampUrl: https://amp.benzinga.com/amp/content/14132326
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14132326
 type: article
-score: 89
+quality: 76
+score: 76
+published: true
 
 provider:
   name: Benzinga.com
@@ -18,8 +20,8 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: http://www.abnewswire.com/uploads/1564054746.jpeg
-    width: 278
-    height: 333
+  - url: /sites/all/themes/bz2/images/benzinga-logo.png
+    width: 1861
+    height: 646
     title: "Language Translation Software & Services Market Analysis, Strategic Assessment, Trend Outlook and Bussiness Opportunities 2019-2023"
 ---

@@ -2,15 +2,16 @@
 category: news
 title: "Blue Prism to Expand Delivery of Intelligent Automation Solutions on Microsoft Azure"
 abstract: "LONDON and AUSTIN, Texas, July 15, 2019 /PRNewswire/ -- Blue Prism (AIM: PRSM), a leader in Robotic Process Automation (RPA), today announced plans to deliver leading-edge intelligent automation solutions and cognitive services on Microsoft Azure."
-publishedDateTime: 2019-07-15T17:12:00Z
-sourceUrl: https://www.prnewswire.co.uk/news-releases/blue-prism-to-expand-delivery-of-intelligent-automation-solutions-on-microsoft-azure-813424934.html
+publishedDateTime: 2019-07-15T17:06:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/blue-prism-to-expand-delivery-of-intelligent-automation-solutions-on-microsoft-azure-300884781.html
 type: article
-score: 44
+quality: 31
+score: 31
 published: false
 
 provider:
   name: PR Newswire
-  id: prnewswire.co.uk
+  id: prnewswire.com
 
 topics:
   - AI

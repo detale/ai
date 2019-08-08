@@ -1,11 +1,12 @@
 ---
 category: news
 title: "Microsoft CEO Satya Nadella’s 6 Key Statements At Inspire 2019"
-abstract: "Microsoft is keeping its innovation engine roaring and ... It takes all those magical AI cognitive services capabilities, and brings it to any application that you may want to build.\" \"With Dynamics 365, you now have these modular, modern modules for ..."
-publishedDateTime: 2019-07-17T19:22:00Z
+abstract: "[Related: The 9 Biggest Microsoft Announcements At Inspire 2019] Among other ... It takes all those magical AI cognitive services capabilities, and brings it to any application that you may want to build.\" \"With Dynamics 365, you now have these modular ..."
+publishedDateTime: 2019-07-18T01:37:00Z
 sourceUrl: https://www.crn.com/news/cloud/microsoft-ceo-satya-nadella-s-6-key-statements-at-inspire-2019
 type: article
-score: 31
+quality: 18
+score: 18
 published: false
 
 provider:

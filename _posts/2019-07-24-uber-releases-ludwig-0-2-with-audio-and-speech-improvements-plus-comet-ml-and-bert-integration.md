@@ -7,7 +7,9 @@ sourceUrl: https://venturebeat.com/2019/07/24/uber-releases-ludwig-0-2-with-audi
 ampUrl: https://venturebeat.com/2019/07/24/uber-releases-ludwig-0-2-with-audio-and-speech-improvements-plus-comet-ml-and-bert-integration/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/24/uber-releases-ludwig-0-2-with-audio-and-speech-improvements-plus-comet-ml-and-bert-integration/amp/
 type: article
-score: 80
+quality: 65
+score: 65
+published: true
 
 provider:
   name: VentureBeat
@@ -16,7 +18,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Natural Language Processing
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2018/10/Uber-Clean-Air-Plan-2018_2-©Uber_CPG-Photography.jpg?w=1200&#038;strip=all

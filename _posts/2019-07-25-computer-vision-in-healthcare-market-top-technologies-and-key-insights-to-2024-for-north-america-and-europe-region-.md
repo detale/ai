@@ -5,7 +5,9 @@ abstract: "Jul 25, 2019 (The Expresswire) -- New report added on Computer Vision
 publishedDateTime: 2019-07-25T13:04:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market---top-technologies-and-key-insights-to-2024-for-north-america-and-europe-region-2019-07-25
 type: article
-score: 69
+quality: 56
+score: 56
+published: true
 
 provider:
   name: MarketWatch

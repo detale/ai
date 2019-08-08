@@ -5,7 +5,9 @@ abstract: "Google LLC today announced some updates to the artificial intelligenc
 publishedDateTime: 2019-07-23T16:06:00Z
 sourceUrl: https://siliconangle.com/2019/07/23/google-refines-ai-chatbot-tools-improve-speech-recognition/
 type: article
-score: 52
+quality: 39
+score: 39
+published: false
 
 provider:
   name: SiliconANGLE

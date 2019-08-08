@@ -1,13 +1,15 @@
 ---
 category: news
 title: "How Royal Caribbean is using computer vision to track buffet crowds on its ships"
-abstract: "Royal Carribean’s Spectrum of the Seas — the third-largest class of cruise ship in the world by gross tonnage — can accommodate over 6,000 people and 2,500 crewmembers during its nine-night ..."
-publishedDateTime: 2019-07-18T20:07:00Z
+abstract: "Royal Carribean’s Spectrum of the Seas — the third-largest class of cruise ship in the world by gross tonnage — can accommodate over 6,000 people and 2,500 crewmembers during its nine-night Asia voyages. That’s a lot of mouths to feed, particularly ..."
+publishedDateTime: 2019-07-18T19:16:00Z
 sourceUrl: https://venturebeat.com/2019/07/18/how-royal-caribbean-is-using-computer-vision-to-track-crowds-at-dining-destinations/
 ampUrl: https://venturebeat.com/2019/07/18/how-royal-caribbean-is-using-computer-vision-to-track-crowds-at-dining-destinations/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/18/how-royal-caribbean-is-using-computer-vision-to-track-crowds-at-dining-destinations/amp/
 type: article
-score: 87
+quality: 74
+score: 74
+published: true
 
 provider:
   name: VentureBeat

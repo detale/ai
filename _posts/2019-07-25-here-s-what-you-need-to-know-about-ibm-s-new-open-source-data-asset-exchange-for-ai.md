@@ -7,7 +7,9 @@ sourceUrl: https://thenextweb.com/artificial-intelligence/2019/07/25/heres-what-
 ampUrl: https://thenextweb.com/artificial-intelligence/2019/07/25/heres-what-you-need-to-know-about-ibms-new-open-source-data-asset-exchange-for-ai/amp/
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/artificial-intelligence/2019/07/25/heres-what-you-need-to-know-about-ibms-new-open-source-data-asset-exchange-for-ai/amp/
 type: article
-score: 66
+quality: 31
+score: 31
+published: false
 
 provider:
   name: The Next Web
@@ -16,11 +18,4 @@ provider:
 topics:
   - AI
   - Facebook AI
-  - Google AI
-
-images:
-  - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/07/data-796x399.jpg
-    width: 796
-    height: 399
-    title: "Here’s what you need to know about IBM’s new open-source Data Asset Exchange for AI"
 ---

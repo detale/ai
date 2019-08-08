@@ -7,7 +7,9 @@ sourceUrl: https://www.entrepreneur.com/article/337223
 ampUrl: https://www.entrepreneur.com/amphtml/337223
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/337223
 type: article
-score: 95
+quality: 60
+score: 60
+published: true
 
 provider:
   name: Entrepreneur
@@ -16,11 +18,4 @@ provider:
 topics:
   - AI
   - AI in Finance
-  - AI in Healthcare
-
-images:
-  - url: https://assets.entrepreneur.com/content/3x2/2000/20190724165638-Artificial-Intelligence-Is-Filling-The-Gaps-In-Developing-Africa-Bigstock-4000pxW-X-2670pxH-copy.jpeg
-    width: 2000
-    height: 1333
-    title: "Artificial Intelligence Is Filling The Gaps In Developing Africa"
 ---
