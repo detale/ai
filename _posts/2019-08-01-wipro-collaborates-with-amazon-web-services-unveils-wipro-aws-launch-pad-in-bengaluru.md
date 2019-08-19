@@ -7,8 +7,8 @@ sourceUrl: https://www.indiainfoline.com/article/news-sector-information-technol
 ampUrl: https://www.indiainfoline.com/article-amp/news-sector-information-technology/wipro-collaborates-with-amazon-web-services-unveils-wipro-aws-launch-pad-in-bengaluru-119080100683_1.html
 cdnAmpUrl: https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/wipro-collaborates-with-amazon-web-services-unveils-wipro-aws-launch-pad-in-bengaluru-119080100683_1.html
 type: article
-quality: 48
-score: 48
+quality: 37
+score: 37
 published: false
 
 provider:

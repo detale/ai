@@ -7,9 +7,9 @@ sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7306319/Uber-plans-se
 ampUrl: https://www.dailymail.co.uk/sciencetech/article-7306319/amp/Uber-plans-self-driving-cars-monitor-passenger-vitals-ensure-satisfying-trip.html
 cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7306319/amp/Uber-plans-self-driving-cars-monitor-passenger-vitals-ensure-satisfying-trip.html
 type: article
-quality: 52
-score: 52
-published: true
+quality: 41
+score: 41
+published: false
 
 provider:
   name: Mail Online

@@ -5,9 +5,9 @@ abstract: "The repetitive style of ML is essential for interactive models such a
 publishedDateTime: 2019-07-09T09:57:00Z
 sourceUrl: https://www.cioreview.com/news/future-of-image-and-speech-recognition-with-machine-learning-nid-29708-cid-175.html
 type: article
-quality: 55
-score: 55
-published: true
+quality: 44
+score: 44
+published: false
 
 provider:
   name: CIOReview

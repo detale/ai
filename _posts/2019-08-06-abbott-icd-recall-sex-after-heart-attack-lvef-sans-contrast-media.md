@@ -5,8 +5,8 @@ abstract: "Thanks to artificial intelligence, the VMS+ system may allow clinicia
 publishedDateTime: 2019-08-06T15:11:00Z
 sourceUrl: https://www.medpagetoday.com/cardiology/prevention/81440
 type: article
-quality: 23
-score: 23
+quality: 12
+score: 12
 published: false
 
 provider:

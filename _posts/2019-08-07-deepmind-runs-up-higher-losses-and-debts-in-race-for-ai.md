@@ -7,8 +7,8 @@ sourceUrl: https://www.ft.com/content/d4280856-b92d-11e9-8a88-aa6628ac896c
 ampUrl: https://amp.ft.com/content/d4280856-b92d-11e9-8a88-aa6628ac896c
 cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/d4280856-b92d-11e9-8a88-aa6628ac896c
 type: article
-quality: 41
-score: 41
+quality: 30
+score: 30
 published: false
 
 provider:

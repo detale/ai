@@ -7,8 +7,8 @@ sourceUrl: https://qz.com/1680098/ai-could-dramatically-improve-health-care-unle
 ampUrl: https://qz.com/1680098/ai-could-dramatically-improve-health-care-unless-it-destroys-it/amp/
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1680098/ai-could-dramatically-improve-health-care-unless-it-destroys-it/amp/
 type: article
-quality: 89
-score: 89
+quality: 78
+score: 78
 published: true
 
 provider:

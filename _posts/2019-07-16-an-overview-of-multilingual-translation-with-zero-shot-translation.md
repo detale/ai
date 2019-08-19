@@ -5,8 +5,8 @@ abstract: "In my previous blog we learnt the core to what constitutes a Machine 
 publishedDateTime: 2019-07-16T10:25:00Z
 sourceUrl: https://medium.com/saarthi-ai/multilingual-machine-translation-a-brief-overview-c4c255677446
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

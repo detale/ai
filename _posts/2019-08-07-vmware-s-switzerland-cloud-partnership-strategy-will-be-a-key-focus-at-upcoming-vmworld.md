@@ -5,8 +5,8 @@ abstract: "Microsoft Azure: closing its VMware integration parity ... which can 
 publishedDateTime: 2019-08-07T19:55:00Z
 sourceUrl: https://siliconangle.com/2019/08/07/vmwares-switzerland-cloud-partnership-strategy-will-key-focus-upcoming-vmworld/
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

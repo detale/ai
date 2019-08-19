@@ -7,8 +7,8 @@ sourceUrl: https://www.techrepublic.com/article/samsung-unveils-industrys-first-
 ampUrl: https://www.techrepublic.com/google-amp/article/samsung-unveils-industrys-first-7nm-processor-the-exynos-9825/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/samsung-unveils-industrys-first-7nm-processor-the-exynos-9825/
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

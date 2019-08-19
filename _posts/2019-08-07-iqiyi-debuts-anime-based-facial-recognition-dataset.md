@@ -5,8 +5,8 @@ abstract: "A research team at Baidu’s video platform iQiyi has released a new 
 publishedDateTime: 2019-08-08T02:58:00Z
 sourceUrl: https://technode.com/2019/08/08/iqiyi-debuts-anime-based-facial-recognition-dataset/
 type: article
-quality: 39
-score: 39
+quality: 29
+score: 29
 published: false
 
 provider:

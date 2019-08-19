@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/07/31/deepminds-ai-predicts-kidney-injur
 ampUrl: https://venturebeat.com/2019/07/31/deepminds-ai-predicts-kidney-injury-up-to-48-hours-before-it-happens/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/31/deepminds-ai-predicts-kidney-injury-up-to-48-hours-before-it-happens/amp/
 type: article
-quality: 72
-score: 77
+quality: 61
+score: 66
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "This report focuses on the global Mobile Speech Recognition Software 
 publishedDateTime: 2019-07-15T17:00:00Z
 sourceUrl: https://www.reuters.com/brandfeatures/venture-capital/article?id=132442
 type: article
-quality: 31
-score: 31
+quality: 20
+score: 20
 published: false
 
 provider:

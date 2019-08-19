@@ -7,8 +7,8 @@ sourceUrl: https://www.cnbc.com/2019/07/31/googles-deepmind-says-its-ai-sees-acu
 ampUrl: https://www.cnbc.com/amp/2019/07/31/googles-deepmind-says-its-ai-sees-acute-kidney-disease-48-hours-early.html
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/07/31/googles-deepmind-says-its-ai-sees-acute-kidney-disease-48-hours-early.html
 type: article
-quality: 72
-score: 72
+quality: 62
+score: 62
 published: false
 
 provider:

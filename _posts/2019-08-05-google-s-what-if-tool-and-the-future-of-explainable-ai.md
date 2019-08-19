@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/kalevleetaru/2019/08/05/googles-what-if-
 ampUrl: https://www.forbes.com/sites/kalevleetaru/2019/08/05/googles-what-if-tool-and-the-future-of-explainable-ai/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalevleetaru/2019/08/05/googles-what-if-tool-and-the-future-of-explainable-ai/amp/
 type: article
-quality: 62
-score: 62
+quality: 51
+score: 56
 published: true
 
 provider:
@@ -24,4 +24,8 @@ images:
     width: 600
     height: 315
     title: "Google's What-If Tool And The Future Of Explainable AI"
+
+related:
+  - url: https://www.bloomberg.com/professional/blog/googles-tool-future-explainable-ai/
+    title: "Google's What-If Tool and the future of explainable AI"
 ---

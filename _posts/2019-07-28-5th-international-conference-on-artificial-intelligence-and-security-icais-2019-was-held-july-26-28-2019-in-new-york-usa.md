@@ -5,8 +5,8 @@ abstract: "Once found only in science fiction novels, the rapid acceleration of 
 publishedDateTime: 2019-07-29T03:38:00Z
 sourceUrl: https://finance.yahoo.com/news/5th-international-conference-artificial-intelligence-031000297.html
 type: article
-quality: 44
-score: 44
+quality: 34
+score: 34
 published: false
 
 provider:

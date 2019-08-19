@@ -5,8 +5,8 @@ abstract: "Deep learning algorithms have achieved human-equivalent performance i
 publishedDateTime: 2019-07-31T19:44:00Z
 sourceUrl: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0220640
 type: article
-quality: 27
-score: 27
+quality: 16
+score: 16
 published: false
 
 provider:

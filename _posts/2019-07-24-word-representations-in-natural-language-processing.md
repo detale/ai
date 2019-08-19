@@ -5,8 +5,8 @@ abstract: "Whilst mastering natural language is easy for humans, it is something
 publishedDateTime: 2019-07-25T04:48:00Z
 sourceUrl: https://medium.com/tech-sauce/word-representations-in-natural-language-processing-73f0cad0a02
 type: article
-quality: 75
-score: 75
+quality: 65
+score: 65
 published: true
 
 provider:

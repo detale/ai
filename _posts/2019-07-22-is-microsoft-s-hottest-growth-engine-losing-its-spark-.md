@@ -5,8 +5,8 @@ abstract: "Azure Cognitive Services, a suite of tools for developing AI-powered 
 publishedDateTime: 2019-07-22T13:50:00Z
 sourceUrl: https://finance.yahoo.com/news/microsoft-apos-hottest-growth-engine-134150491.html
 type: article
-quality: 43
-score: 43
+quality: 32
+score: 32
 published: false
 
 provider:

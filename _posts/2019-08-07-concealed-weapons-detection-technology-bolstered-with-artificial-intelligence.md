@@ -5,8 +5,8 @@ abstract: "Using everything from microwave radar to targeted magnetic resonance 
 publishedDateTime: 2019-08-07T12:48:00Z
 sourceUrl: https://www.benzinga.com/pressreleases/19/08/b14218965/concealed-weapons-detection-technology-bolstered-with-artificial-intelligence
 type: article
-quality: 34
-score: 34
+quality: 23
+score: 23
 published: false
 
 provider:

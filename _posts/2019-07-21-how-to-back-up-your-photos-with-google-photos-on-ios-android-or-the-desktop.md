@@ -7,8 +7,8 @@ sourceUrl: https://www.digitaltrends.com/mobile/how-to-use-google-photos/
 ampUrl: https://www.digitaltrends.com/mobile/how-to-use-google-photos/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-use-google-photos/?amp
 type: article
-quality: 47
-score: 47
+quality: 36
+score: 36
 published: false
 
 provider:

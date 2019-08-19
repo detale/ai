@@ -5,8 +5,8 @@ abstract: "A new market study, titled “Global Deep Learning Software Market Re
 publishedDateTime: 2019-08-07T02:21:00Z
 sourceUrl: https://www.einpresswire.com/article/492759466/global-deep-learning-software-market-report-2019-by-technology-future-trends-opportunities-top-key-players-and-more
 type: article
-quality: 33
-score: 33
+quality: 23
+score: 23
 published: false
 
 provider:

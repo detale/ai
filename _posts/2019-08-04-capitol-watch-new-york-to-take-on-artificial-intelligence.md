@@ -7,8 +7,8 @@ sourceUrl: https://www.chicagotribune.com/sns-bc-ny--capitol-watch-20190727-stor
 ampUrl: https://www.chicagotribune.com/sns-bc-ny--capitol-watch-20190727-story.html?outputType=amp
 cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/sns-bc-ny--capitol-watch-20190727-story.html?outputType=amp
 type: article
-quality: 71
-score: 71
+quality: 60
+score: 60
 published: true
 
 provider:

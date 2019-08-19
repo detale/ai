@@ -5,8 +5,8 @@ abstract: "Convolutional Neural Networks are a part of what made Deep Learning r
 publishedDateTime: 2019-07-26T16:11:00Z
 sourceUrl: https://www.kdnuggets.com/2019/07/convolutional-neural-networks-python-tutorial-tensorflow-keras.html
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

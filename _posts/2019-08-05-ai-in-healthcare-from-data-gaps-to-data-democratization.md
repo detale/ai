@@ -5,8 +5,8 @@ abstract: "In the panel, â€œThe Data Problem in Scaling Artificial Intelligenceâ
 publishedDateTime: 2019-08-05T13:59:00Z
 sourceUrl: https://medcitynews.com/2019/08/ai-in-healthcare/
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

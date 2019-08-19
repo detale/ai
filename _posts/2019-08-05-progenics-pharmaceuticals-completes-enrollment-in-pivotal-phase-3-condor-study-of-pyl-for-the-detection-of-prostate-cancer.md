@@ -5,8 +5,8 @@ abstract: "About PROGENICSProgenics is an oncology company focused on the develo
 publishedDateTime: 2019-08-05T16:29:00Z
 sourceUrl: https://www.bakersfield.com/ap/news/progenics-pharmaceuticals-completes-enrollment-in-pivotal-phase-condor-study-of/article_40f855b0-48e4-5990-be86-24fffebe0d03.html
 type: article
-quality: 22
-score: 22
+quality: 11
+score: 11
 published: false
 
 provider:

@@ -7,9 +7,9 @@ sourceUrl: https://www.techrepublic.com/article/is-homomorphic-encryption-ready-
 ampUrl: https://www.techrepublic.com/google-amp/article/is-homomorphic-encryption-ready-to-deliver-confidential-cloud-computing-to-enterprises/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-homomorphic-encryption-ready-to-deliver-confidential-cloud-computing-to-enterprises/
 type: article
-quality: 59
-score: 59
-published: true
+quality: 48
+score: 48
+published: false
 
 provider:
   name: TechRepublic

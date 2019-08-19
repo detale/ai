@@ -5,8 +5,8 @@ abstract: "Here, we present a data-driven model that uses artificial neural netw
 publishedDateTime: 2019-08-02T10:56:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-47747-8
 type: article
-quality: 66
-score: 66
+quality: 55
+score: 55
 published: true
 
 provider:

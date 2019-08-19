@@ -5,8 +5,8 @@ abstract: "COLUMBUS, Ohio—Ohio’s facial-recognition database has been in ope
 publishedDateTime: 2019-08-02T16:00:00Z
 sourceUrl: https://www.cleveland.com/open/2019/08/ohios-controversial-facial-recognition-database-some-questions-and-answers.html
 type: article
-quality: 34
-score: 34
+quality: 23
+score: 23
 published: false
 
 provider:

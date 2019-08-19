@@ -5,8 +5,8 @@ abstract: "[Related: The 9 Biggest Microsoft Announcements At Inspire 2019] Amon
 publishedDateTime: 2019-07-18T01:37:00Z
 sourceUrl: https://www.crn.com/news/cloud/microsoft-ceo-satya-nadella-s-6-key-statements-at-inspire-2019
 type: article
-quality: 18
-score: 18
+quality: 8
+score: 8
 published: false
 
 provider:

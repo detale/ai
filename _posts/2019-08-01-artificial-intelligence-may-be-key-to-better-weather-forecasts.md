@@ -5,8 +5,8 @@ abstract: "Fan, Y., C.-Y. Wu, J. Gottschalck, and V. Krasnopolsky (2019), Using 
 publishedDateTime: 2019-08-01T12:44:00Z
 sourceUrl: https://eos.org/opinions/artificial-intelligence-may-be-key-to-better-weather-forecasts
 type: article
-quality: 48
-score: 48
+quality: 37
+score: 37
 published: false
 
 provider:

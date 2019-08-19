@@ -5,8 +5,8 @@ abstract: "Sense Vision processes and enriches live video data with existing or 
 publishedDateTime: 2019-07-28T22:58:00Z
 sourceUrl: https://insidebigdata.com/2019/07/28/using-camera-data-effectively-without-facial-recognition/
 type: article
-quality: 29
-score: 29
+quality: 18
+score: 18
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.businessinsider.com/tech-trending-newsletter-storm-gather
 ampUrl: https://amp.businessinsider.com/tech-trending-newsletter-storm-gathering-on-the-cloud-business-2019-8
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/tech-trending-newsletter-storm-gathering-on-the-cloud-business-2019-8
 type: article
-quality: 63
-score: 63
+quality: 52
+score: 52
 published: true
 
 provider:

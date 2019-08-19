@@ -5,8 +5,8 @@ abstract: "Most discussions of developers making use of machine learning revolve
 publishedDateTime: 2019-07-24T10:03:00Z
 sourceUrl: https://www.infoworld.com/article/3410559/5-machine-learning-tools-to-ease-software-development.html
 type: article
-quality: 40
-score: 40
+quality: 29
+score: 29
 published: false
 
 provider:

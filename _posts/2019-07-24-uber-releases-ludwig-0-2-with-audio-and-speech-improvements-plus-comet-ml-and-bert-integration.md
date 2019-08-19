@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/07/24/uber-releases-ludwig-0-2-with-audi
 ampUrl: https://venturebeat.com/2019/07/24/uber-releases-ludwig-0-2-with-audio-and-speech-improvements-plus-comet-ml-and-bert-integration/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/24/uber-releases-ludwig-0-2-with-audio-and-speech-improvements-plus-comet-ml-and-bert-integration/amp/
 type: article
-quality: 65
-score: 65
+quality: 54
+score: 54
 published: true
 
 provider:

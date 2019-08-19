@@ -5,8 +5,8 @@ abstract: "Artificial Neural networks (ANNs) are powerful computing systems empl
 publishedDateTime: 2019-08-04T21:24:00Z
 sourceUrl: https://hgpu.org/?p=19031
 type: article
-quality: 46
-score: 46
+quality: 35
+score: 35
 published: false
 
 provider:

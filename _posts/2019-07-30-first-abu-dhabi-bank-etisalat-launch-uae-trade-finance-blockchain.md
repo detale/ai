@@ -5,8 +5,8 @@ abstract: "The project won’t just leverage blockchain, but also artificial int
 publishedDateTime: 2019-07-30T12:12:00Z
 sourceUrl: https://www.thepaypers.com/e-invoicing-scf-e-procurement/first-abu-dhabi-bank-etisalat-launch-uae-trade-finance-blockchain/779962-24
 type: article
-quality: 11
-score: 11
+quality: 0
+score: 0
 published: false
 
 provider:

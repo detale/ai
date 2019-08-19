@@ -5,8 +5,8 @@ abstract: "The development in the field of technology has enhanced over the year
 publishedDateTime: 2019-08-02T16:11:00Z
 sourceUrl: https://hackernoon.com/difference-between-artificial-intelligence-machine-learning-and-deep-learning-1pcv3zeg
 type: article
-quality: 94
-score: 94
+quality: 83
+score: 83
 published: true
 
 provider:

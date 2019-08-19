@@ -7,8 +7,8 @@ sourceUrl: https://www.bizjournals.com/philadelphia/news/2019/08/05/creating-a-f
 ampUrl: https://www.bizjournals.com/philadelphia/news/2019/08/05/creating-a-future-of-work-that-is-inclusive-an.amp.html
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2019/08/05/creating-a-future-of-work-that-is-inclusive-an.amp.html
 type: article
-quality: 21
-score: 21
+quality: 11
+score: 11
 published: false
 
 provider:

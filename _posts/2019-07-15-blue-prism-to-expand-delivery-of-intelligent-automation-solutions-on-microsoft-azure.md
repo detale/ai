@@ -5,8 +5,8 @@ abstract: "LONDON and AUSTIN, Texas, July 15, 2019 /PRNewswire/ -- Blue Prism (A
 publishedDateTime: 2019-07-15T17:06:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/blue-prism-to-expand-delivery-of-intelligent-automation-solutions-on-microsoft-azure-300884781.html
 type: article
-quality: 31
-score: 31
+quality: 20
+score: 20
 published: false
 
 provider:

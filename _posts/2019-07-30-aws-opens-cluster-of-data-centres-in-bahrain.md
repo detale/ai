@@ -7,9 +7,9 @@ sourceUrl: https://www.techradar.com/news/aws-opens-cluster-of-data-centres-in-b
 ampUrl: https://www.techradar.com/amp/news/aws-opens-cluster-of-data-centres-in-bahrain
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-opens-cluster-of-data-centres-in-bahrain
 type: article
-quality: 51
-score: 51
-published: true
+quality: 40
+score: 40
+published: false
 
 provider:
   name: TechRadar

@@ -5,8 +5,8 @@ abstract: "and AutoNation is developing a customized digital platform for Waymo 
 publishedDateTime: 2019-08-05T04:00:00Z
 sourceUrl: https://www.autonews.com/mobility-report/under-hood-waymos-fleet-project
 type: article
-quality: 36
-score: 36
+quality: 26
+score: 26
 published: false
 
 provider:

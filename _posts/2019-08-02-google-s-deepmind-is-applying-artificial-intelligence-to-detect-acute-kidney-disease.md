@@ -5,8 +5,8 @@ abstract: "Google's London-based AI powerhouse DeepMind published research that 
 publishedDateTime: 2019-08-02T14:00:00Z
 sourceUrl: https://www.businessinsider.com/googles-deepmind-brings-artificial-intelligence-insights-to-kidney-disease-2019-8
 type: article
-quality: 84
-score: 89
+quality: 73
+score: 78
 published: true
 
 provider:

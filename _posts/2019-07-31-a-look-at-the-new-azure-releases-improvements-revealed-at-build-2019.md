@@ -5,8 +5,8 @@ abstract: "Azure SQL Database now comes in an Edge flavor that runs on both ARM 
 publishedDateTime: 2019-07-31T23:39:00Z
 sourceUrl: https://virtualizationreview.com/articles/2019/07/31/azure-at-build-2019.aspx
 type: article
-quality: 32
-score: 32
+quality: 22
+score: 22
 published: false
 
 provider:

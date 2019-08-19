@@ -5,8 +5,8 @@ abstract: "In April, Google decided to disband its Artificial Intelligence ethic
 publishedDateTime: 2019-07-25T18:13:00Z
 sourceUrl: https://www.mediamatters.org/blog/2019/07/25/The-Heritage-Foundation-unabashedly-promotes-discredited-and-harmful-conversion-therapy---/224329
 type: article
-quality: 26
-score: 26
+quality: 15
+score: 15
 published: false
 
 provider:

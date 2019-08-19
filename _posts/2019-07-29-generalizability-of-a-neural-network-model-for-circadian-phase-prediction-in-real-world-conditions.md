@@ -5,8 +5,8 @@ abstract: "Artificial neural network models were trained to predict the circadia
 publishedDateTime: 2019-07-29T09:16:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-47311-4
 type: article
-quality: 10
-score: 10
+quality: 0
+score: 0
 published: false
 
 provider:

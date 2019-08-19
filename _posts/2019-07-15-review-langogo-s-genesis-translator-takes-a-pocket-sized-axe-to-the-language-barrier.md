@@ -7,9 +7,9 @@ sourceUrl: https://newatlas.com/langogo-genesis-review-translator/60583/
 ampUrl: https://newatlas.com/langogo-genesis-review-translator/60583/?amp=true
 cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/langogo-genesis-review-translator/60583/?amp=true
 type: article
-quality: 56
-score: 56
-published: true
+quality: 46
+score: 46
+published: false
 
 provider:
   name: New Atlas

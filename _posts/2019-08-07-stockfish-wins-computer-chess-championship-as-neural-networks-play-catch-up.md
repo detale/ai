@@ -7,8 +7,8 @@ sourceUrl: https://www.chess.com/news/view/computer-chess-championship-9-stockfi
 ampUrl: https://www.chess.com/amp/news/computer-chess-championship-9-stockfish-10-lc0
 cdnAmpUrl: https://www-chess-com.cdn.ampproject.org/c/s/www.chess.com/amp/news/computer-chess-championship-9-stockfish-10-lc0
 type: article
-quality: 88
-score: 88
+quality: 78
+score: 78
 published: true
 
 provider:

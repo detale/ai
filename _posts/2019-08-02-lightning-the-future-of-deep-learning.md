@@ -5,8 +5,8 @@ abstract: "Some fascinating breakthroughs could make AI technology accessible to
 publishedDateTime: 2019-08-02T10:24:00Z
 sourceUrl: https://www.cioreview.com/news/lightning-the-future-of-deep-learning-nid-30115-cid-175.html
 type: article
-quality: 29
-score: 29
+quality: 18
+score: 18
 published: false
 
 provider:

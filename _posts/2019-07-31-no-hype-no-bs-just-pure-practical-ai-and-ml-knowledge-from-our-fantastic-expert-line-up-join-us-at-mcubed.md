@@ -7,8 +7,8 @@ sourceUrl: https://www.theregister.co.uk/2019/07/31/mcubed_early_bird_ending/
 ampUrl: https://www.theregister.co.uk/AMP/2019/07/31/mcubed_early_bird_ending/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/07/31/mcubed_early_bird_ending/
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Story continues Emirates NBD is a United Arab Emirates (UAE) based en
 publishedDateTime: 2019-07-30T09:47:00Z
 sourceUrl: https://finance.yahoo.com/news/aws-launches-region-middle-east-080800338.html
 type: article
-quality: 31
-score: 31
+quality: 20
+score: 20
 published: false
 
 provider:

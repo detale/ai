@@ -5,8 +5,8 @@ abstract: "Raiffeisen Bank International has joined a funding round in business 
 publishedDateTime: 2019-08-07T10:26:00Z
 sourceUrl: https://www.finextra.com/newsarticle/34226/raiffeisen-bank-international-invests-in-regtech-startup-kompany
 type: article
-quality: 39
-score: 39
+quality: 28
+score: 28
 published: false
 
 provider:

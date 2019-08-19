@@ -7,8 +7,8 @@ sourceUrl: https://www.digitaltrends.com/computing/google-deepmind-waymo-starcra
 ampUrl: https://www.digitaltrends.com/computing/google-deepmind-waymo-starcraft-ii/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/google-deepmind-waymo-starcraft-ii/?amp
 type: article
-quality: 115
-score: 115
+quality: 104
+score: 109
 published: true
 
 provider:
@@ -25,4 +25,12 @@ images:
     width: 1200
     height: 628
     title: "Google’s DeepMind is training Waymo’s self-driving cars like StarCraft II bots"
+
+related:
+  - url: https://finance.yahoo.com/news/google-deepmind-training-waymo-self-230155567.html
+    title: "Google’s DeepMind is training Waymo’s self-driving cars like StarCraft II bots"
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/oq98ifNmy9g.WZKBVf36Sw--~B/aD0xMDAwO3c9MTUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/digital_trends_973/33fc3c824d5b68da5cdd779011222b93
+        width: 1500
+        height: 1000
 ---

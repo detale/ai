@@ -5,8 +5,8 @@ abstract: "A consortium of three Pittsburgh institutions, focused on turning big
 publishedDateTime: 2019-08-08T04:32:00Z
 sourceUrl: https://www.healthdatamanagement.com/news/pittsburgh-health-data-alliance-aws-join-on-machine-learning-effort
 type: article
-quality: 69
-score: 69
+quality: 59
+score: 59
 published: false
 
 provider:

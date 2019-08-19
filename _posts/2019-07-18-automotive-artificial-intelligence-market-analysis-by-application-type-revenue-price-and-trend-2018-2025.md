@@ -5,8 +5,8 @@ abstract: "Artificial intelligence has several applications for these vehicles .
 publishedDateTime: 2019-07-18T08:36:00Z
 sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-by-application-type-revenue-price-and-trend-2018---2025-2019-07-18
 type: article
-quality: 34
-score: 34
+quality: 23
+score: 23
 published: false
 
 provider:

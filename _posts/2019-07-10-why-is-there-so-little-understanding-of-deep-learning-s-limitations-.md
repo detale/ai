@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/kalevleetaru/2019/07/10/why-is-there-so-
 ampUrl: https://www.forbes.com/sites/kalevleetaru/2019/07/10/why-is-there-so-little-understanding-of-deep-learnings-limitations/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kalevleetaru/2019/07/10/why-is-there-so-little-understanding-of-deep-learnings-limitations/amp/
 type: article
-quality: 66
-score: 66
+quality: 55
+score: 55
 published: true
 
 provider:

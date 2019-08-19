@@ -5,8 +5,8 @@ abstract: "Consequently, this was implemented using PyTorch 99 multiprocessing i
 publishedDateTime: 2019-07-29T11:05:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-47335-w
 type: article
-quality: 25
-score: 25
+quality: 14
+score: 14
 published: false
 
 provider:

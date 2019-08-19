@@ -5,8 +5,8 @@ abstract: "Solution segment is further segmented into rule-based machine transla
 publishedDateTime: 2019-08-07T09:08:00Z
 sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market-2018-business-opportunities-size-share-trends-competitive-analysis-and-forecast-to-2023-2019-08-07
 type: article
-quality: 74
-score: 74
+quality: 63
+score: 63
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Jul 23, 2019 (HTF Market Intelligence via COMTEX) -- AMA recently pub
 publishedDateTime: 2019-07-23T14:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technical-breakthrough-and-a-competitive-outlook-to-stay-abreast-on-the-key-trends-impacting-this-market-by-2024-2019-07-23
 type: article
-quality: 39
-score: 39
+quality: 28
+score: 28
 published: false
 
 provider:

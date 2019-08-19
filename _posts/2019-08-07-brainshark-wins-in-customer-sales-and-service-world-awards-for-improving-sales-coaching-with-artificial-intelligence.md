@@ -5,9 +5,9 @@ abstract: "Brainshark's AI-Powered Machine Analysis Engine Helps Companies Creat
 publishedDateTime: 2019-08-07T16:49:00Z
 sourceUrl: https://finance.yahoo.com/news/brainshark-wins-customer-sales-world-130000593.html
 type: article
-quality: 52
-score: 52
-published: true
+quality: 41
+score: 41
+published: false
 
 provider:
   name: YAHOO! News

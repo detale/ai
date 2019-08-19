@@ -5,8 +5,8 @@ abstract: "(Photo by Toby Melville - WPA Pool/Getty Images) The government has a
 publishedDateTime: 2019-08-08T02:26:00Z
 sourceUrl: https://www.msn.com/en-gb/news/uknews/boris-johnson-pledges-%C2%A3250m-for-nhs-artificial-intelligence/ar-AAFucj3?li=BBoPWjQ
 type: article
-quality: 32
-score: 32
+quality: 22
+score: 22
 published: false
 
 provider:

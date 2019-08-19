@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/tomtaulli/2019/08/06/twilio-harnessing-t
 ampUrl: https://www.forbes.com/sites/tomtaulli/2019/08/06/twilio-harnessing-the-power-of-ai-artificial-intelligence/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2019/08/06/twilio-harnessing-the-power-of-ai-artificial-intelligence/amp/
 type: article
-quality: 93
-score: 93
+quality: 82
+score: 82
 published: true
 
 provider:

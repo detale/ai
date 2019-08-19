@@ -5,8 +5,8 @@ abstract: "Experts think artificial intelligence could help people do all sorts 
 publishedDateTime: 2019-07-25T18:01:00Z
 sourceUrl: https://www.edweek.org/ew/issues/artificial-intelligence/index.html
 type: article
-quality: 21
-score: 21
+quality: 10
+score: 10
 published: false
 
 provider:

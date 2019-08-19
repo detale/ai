@@ -5,9 +5,9 @@ abstract: "An Oklahoma school district is using facial recognition on security c
 publishedDateTime: 2019-08-07T21:34:00Z
 sourceUrl: https://news.yahoo.com/oklahoma-school-district-using-facial-213438527.html
 type: article
-quality: 59
-score: 64
-published: true
+quality: 48
+score: 53
+published: false
 
 provider:
   name: YAHOO! News

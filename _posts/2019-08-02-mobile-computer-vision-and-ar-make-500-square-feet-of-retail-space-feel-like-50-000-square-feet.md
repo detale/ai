@@ -7,8 +7,8 @@ sourceUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/mobil
 ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/mobile-computer-vision-and-ar-make-500-square-feet-of-retail-space-feel-like-50-000-square-feet/amp
 cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/mobile-computer-vision-and-ar-make-500-square-feet-of-retail-space-feel-like-50-000-square-feet/amp
 type: article
-quality: 49
-score: 49
+quality: 38
+score: 38
 published: false
 
 provider:

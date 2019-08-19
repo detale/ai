@@ -5,9 +5,9 @@ abstract: "Up until now, running any kind of computer vision system on the Raspb
 publishedDateTime: 2019-08-03T20:14:00Z
 sourceUrl: https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/
 type: article
-quality: 50
-score: 50
-published: true
+quality: 39
+score: 39
+published: false
 
 provider:
   name: Hackaday

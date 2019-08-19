@@ -5,8 +5,8 @@ abstract: "The potential uses of artificial intelligence benefiting society are 
 publishedDateTime: 2019-08-05T11:52:00Z
 sourceUrl: https://www.foxnews.com/tech/google-artificial-intelligence-predict-acute-kidney-injury
 type: article
-quality: 72
-score: 72
+quality: 61
+score: 61
 published: true
 
 provider:

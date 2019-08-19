@@ -5,8 +5,8 @@ abstract: "Boston-based Partners HealthCare is teaming with FUJIFILM SonoSite to
 publishedDateTime: 2019-08-08T04:42:00Z
 sourceUrl: https://www.healthdatamanagement.com/news/partners-healthcare-taps-ai-to-bring-ultrasound-to-point-of-care
 type: article
-quality: 39
-score: 39
+quality: 29
+score: 29
 published: false
 
 provider:

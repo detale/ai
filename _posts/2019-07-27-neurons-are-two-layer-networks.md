@@ -5,8 +5,8 @@ abstract: "This is a ludicrously over-simplified model, especially when implemen
 publishedDateTime: 2019-07-27T12:49:00Z
 sourceUrl: https://www.i-programmer.info/news/105-artificial-intelligence/12965-neurons-are-two-layer-networks.html
 type: article
-quality: 28
-score: 28
+quality: 17
+score: 17
 published: false
 
 provider:

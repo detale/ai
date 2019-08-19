@@ -7,8 +7,8 @@ sourceUrl: https://www.vice.com/en_us/article/597n73/at-cannabis-shops-face-reco
 ampUrl: https://www.vice.com/amp/en_us/article/597n73/at-cannabis-shops-face-recognition-is-already-a-thing
 cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/597n73/at-cannabis-shops-face-recognition-is-already-a-thing
 type: article
-quality: 69
-score: 69
+quality: 58
+score: 58
 published: true
 
 provider:

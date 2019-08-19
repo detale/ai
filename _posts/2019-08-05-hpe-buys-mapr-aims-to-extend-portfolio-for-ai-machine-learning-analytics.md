@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/hpe-buys-mapr-aims-to-extend-portfolio-
 ampUrl: https://www.zdnet.com/google-amp/article/hpe-buys-mapr-aims-to-extend-portfolio-for-ai-machine-learning-analytics/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-buys-mapr-aims-to-extend-portfolio-for-ai-machine-learning-analytics/
 type: article
-quality: 92
-score: 92
+quality: 81
+score: 81
 published: true
 
 provider:

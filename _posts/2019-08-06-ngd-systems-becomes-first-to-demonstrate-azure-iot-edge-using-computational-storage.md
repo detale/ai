@@ -5,8 +5,8 @@ abstract: "\"Organizations are increasingly leveraging edge deployments to suppo
 publishedDateTime: 2019-08-06T13:17:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-ngd-systems-becomes-first-demonstrate-azure-iot-edge-/2019/08/06/8997531.htm
 type: article
-quality: 18
-score: 18
+quality: 7
+score: 7
 published: false
 
 provider:

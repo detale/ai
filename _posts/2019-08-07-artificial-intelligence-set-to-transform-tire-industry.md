@@ -5,9 +5,9 @@ abstract: "TORONTO—Artificial intelligence is coming quickly to both tire manu
 publishedDateTime: 2019-08-07T14:12:00Z
 sourceUrl: https://www.rubbernews.com/tire/artificial-intelligence-set-transform-tire-industry
 type: article
-quality: 54
-score: 54
-published: true
+quality: 43
+score: 43
+published: false
 
 provider:
   name: Rubber and Plastics News

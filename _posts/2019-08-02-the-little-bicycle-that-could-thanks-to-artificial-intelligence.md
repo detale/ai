@@ -5,8 +5,8 @@ abstract: "Thanks to an artificial intelligence chip modeled after the human bra
 publishedDateTime: 2019-08-02T21:41:00Z
 sourceUrl: https://www.pbs.org/wgbh/nova/article/neuromorphic-chip-bicycle/
 type: article
-quality: 29
-score: 29
+quality: 18
+score: 18
 published: false
 
 provider:

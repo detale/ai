@@ -5,9 +5,9 @@ abstract: "A self-driving car, also known as an autonomous car or driverless car
 publishedDateTime: 2019-08-08T05:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-is-expected-to-account-largest-share-via-indium-phosphide-segment-by-2023-2019-08-08
 type: article
-quality: 54
-score: 54
-published: true
+quality: 44
+score: 44
+published: false
 
 provider:
   name: MarketWatch

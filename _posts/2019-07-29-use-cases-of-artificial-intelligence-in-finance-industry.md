@@ -5,8 +5,8 @@ abstract: "Here are a few use cases for Artificial Intelligence when used in the
 publishedDateTime: 2019-07-30T05:38:00Z
 sourceUrl: https://www.mobiloitte.com/blog/ai-in-finance-industry/
 type: article
-quality: 45
-score: 45
+quality: 35
+score: 35
 published: false
 
 provider:

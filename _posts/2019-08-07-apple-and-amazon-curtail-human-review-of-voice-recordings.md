@@ -7,8 +7,8 @@ sourceUrl: https://www.southbendtribune.com/news/local/apple-and-amazon-curtail-
 ampUrl: https://www.southbendtribune.com/news/local/apple-and-amazon-curtail-human-review-of-voice-recordings/article_89f0ab52-20a8-5253-a1c0-808287099b00.amp.html
 cdnAmpUrl: https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/local/apple-and-amazon-curtail-human-review-of-voice-recordings/article_89f0ab52-20a8-5253-a1c0-808287099b00.amp.html
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

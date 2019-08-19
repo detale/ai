@@ -5,8 +5,8 @@ abstract: "Computer vision in Healthcare is an interdisciplinary clinical field 
 publishedDateTime: 2019-07-12T11:12:00Z
 sourceUrl: https://menafn.com/1098750920/Computer-Vision-in-Healthcare-Market-2019-Global-Technology-Consumption-Segmentation-Growth-Development-Trends-and-forecasts-to-2025?src=Rss
 type: article
-quality: 23
-score: 23
+quality: 12
+score: 12
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Shtar, Guy; Rokach, Lior; Shapira, Bracha (2019): Detecting drug-drug
 publishedDateTime: 2019-08-01T16:28:00Z
 sourceUrl: https://figshare.com/collections/Detecting_drug-drug_interactions_using_artificial_neural_networks_and_classic_graph_similarity_measures/4603907
 type: article
-quality: 43
-score: 43
+quality: 32
+score: 32
 published: false
 
 provider:

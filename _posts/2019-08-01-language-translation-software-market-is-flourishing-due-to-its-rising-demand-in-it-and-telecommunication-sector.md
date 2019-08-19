@@ -7,8 +7,8 @@ sourceUrl: https://www.benzinga.com/pressreleases/19/08/ab14177304/language-tran
 ampUrl: https://amp.benzinga.com/amp/content/14177304
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14177304
 type: article
-quality: 68
-score: 68
+quality: 57
+score: 57
 published: true
 
 provider:

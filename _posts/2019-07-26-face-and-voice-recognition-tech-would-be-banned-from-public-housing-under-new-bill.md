@@ -7,8 +7,8 @@ sourceUrl: https://www.amny.com/news/politics/facial-recognition-public-housing-
 ampUrl: https://www.amny.com/amp/news/politics/facial-recognition-public-housing-1.34305365
 cdnAmpUrl: https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/amp/news/politics/facial-recognition-public-housing-1.34305365
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/sap/2019/07/30/calculating-route-where-i
 ampUrl: https://www.forbes.com/sites/sap/2019/07/30/calculating-route-where-is-artificial-intelligence-propelling-work/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2019/07/30/calculating-route-where-is-artificial-intelligence-propelling-work/amp/
 type: article
-quality: 88
-score: 88
+quality: 77
+score: 77
 published: true
 
 provider:

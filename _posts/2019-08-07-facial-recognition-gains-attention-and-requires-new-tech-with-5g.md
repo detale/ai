@@ -5,8 +5,8 @@ abstract: "In his book, 1984, George Orwell warned of a dystopian future where t
 publishedDateTime: 2019-08-07T14:35:00Z
 sourceUrl: https://www.datacenterdynamics.com/opinions/facial-recognition-gains-attention-and-requires-new-tech-with-5g/
 type: article
-quality: 39
-score: 39
+quality: 28
+score: 28
 published: false
 
 provider:

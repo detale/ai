@@ -7,8 +7,8 @@ sourceUrl: https://www.theguardian.com/technology/2019/aug/07/south-wales-police
 ampUrl: https://amp.theguardian.com/technology/2019/aug/07/south-wales-police-to-use-facial-recognition-to-identify-suspects
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/aug/07/south-wales-police-to-use-facial-recognition-to-identify-suspects
 type: article
-quality: 59
-score: 59
+quality: 48
+score: 48
 published: false
 
 provider:

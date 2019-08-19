@@ -7,8 +7,8 @@ sourceUrl: https://www.moneycontrol.com/news/technology/microsoft-and-servicenow
 ampUrl: https://www.moneycontrol.com/news/technology/microsoft-and-servicenow-forms-strategic-partnership-to-accelerate-digital-transformation-4192111.html/amp
 cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-and-servicenow-forms-strategic-partnership-to-accelerate-digital-transformation-4192111.html/amp
 type: article
-quality: 11
-score: 16
+quality: 0
+score: 0
 published: false
 
 provider:
@@ -18,8 +18,4 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-related:
-  - url: https://news.microsoft.com/2019/07/09/microsoft-and-servicenow-announce-strategic-partnership/
-    title: "Microsoft and ServiceNow announce strategic partnership"
 ---

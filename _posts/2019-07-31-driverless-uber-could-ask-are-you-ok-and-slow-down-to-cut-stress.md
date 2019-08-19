@@ -5,8 +5,8 @@ abstract: "Driverless minicabs of the future could be fitted with ... Machine le
 publishedDateTime: 2019-07-31T10:46:00Z
 sourceUrl: https://www.standard.co.uk/tech/driverless-uber-a4202336.html
 type: article
-quality: 32
-score: 32
+quality: 21
+score: 21
 published: false
 
 provider:

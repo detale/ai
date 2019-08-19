@@ -5,8 +5,8 @@ abstract: "Their expertise is in curating, analyzing, and interpreting life scie
 publishedDateTime: 2019-08-01T20:44:00Z
 sourceUrl: https://www.genengnews.com/topics/omics/eagle-genomics-soars-into-the-big-apple/
 type: article
-quality: 18
-score: 18
+quality: 7
+score: 7
 published: false
 
 provider:

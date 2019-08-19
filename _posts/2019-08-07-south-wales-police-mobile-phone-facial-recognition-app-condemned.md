@@ -5,8 +5,8 @@ abstract: "Civil rights campaigners are condemning a move, by South Wales Police
 publishedDateTime: 2019-08-08T05:39:00Z
 sourceUrl: https://www.itv.com/news/wales/2019-08-08/south-wales-police-mobile-phone-facial-recognition-app-condemned/
 type: article
-quality: 39
-score: 39
+quality: 29
+score: 29
 published: false
 
 provider:

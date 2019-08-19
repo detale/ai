@@ -7,9 +7,9 @@ sourceUrl: https://www.newscientist.com/article/2212100-its-too-soon-to-tell-if-
 ampUrl: https://www.newscientist.com/article/2212100-its-too-soon-to-tell-if-deepminds-medical-ai-will-save-any-lives/amp/
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2212100-its-too-soon-to-tell-if-deepminds-medical-ai-will-save-any-lives/amp/
 type: article
-quality: 52
-score: 52
-published: true
+quality: 41
+score: 41
+published: false
 
 provider:
   name: New Scientist

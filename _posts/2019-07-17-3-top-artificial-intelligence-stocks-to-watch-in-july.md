@@ -5,9 +5,9 @@ abstract: "driverless cars, and/or the Internet of Things -- they all have one t
 publishedDateTime: 2019-07-17T14:19:00Z
 sourceUrl: https://finance.yahoo.com/news/3-top-artificial-intelligence-stocks-140700026.html
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: YAHOO! News

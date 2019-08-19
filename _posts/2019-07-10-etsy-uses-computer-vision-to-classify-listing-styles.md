@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/07/10/etsy-uses-computer-vision-to-class
 ampUrl: https://venturebeat.com/2019/07/10/etsy-uses-computer-vision-to-classify-listing-styles/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/10/etsy-uses-computer-vision-to-classify-listing-styles/amp/
 type: article
-quality: 66
-score: 66
+quality: 55
+score: 55
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "and leverages AWS with customers across its business. The company app
 publishedDateTime: 2019-07-30T12:09:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-mphasis-launches-new-ai-solutions-the-aws-marketplace-/2019/07/30/8994125.htm
 type: article
-quality: 41
-score: 41
+quality: 30
+score: 30
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Toby Walsh, a professor at the University of New South Wales in Sydne
 publishedDateTime: 2019-08-02T04:09:00Z
 sourceUrl: https://www.citizensvoice.com/news/artificial-intelligence-expert-racing-to-stop-killer-robots-1.2515373
 type: article
-quality: 48
-score: 48
+quality: 38
+score: 38
 published: false
 
 provider:

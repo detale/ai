@@ -7,8 +7,8 @@ sourceUrl: https://www.nasdaq.com/article/microsoft-msft-and-artificial-intellig
 ampUrl: https://www.nasdaq.com/article/microsoft-msft-and-artificial-intelligence-cm1193782/amp
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/article/microsoft-msft-and-artificial-intelligence-cm1193782/amp
 type: article
-quality: 91
-score: 91
+quality: 80
+score: 80
 published: true
 
 provider:

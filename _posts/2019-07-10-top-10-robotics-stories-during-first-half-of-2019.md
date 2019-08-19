@@ -5,8 +5,8 @@ abstract: "Facebook in late June open-sourced its PyRobot framework for robotics
 publishedDateTime: 2019-07-10T11:24:00Z
 sourceUrl: https://www.designworldonline.com/top-10-robotics-stories-during-first-half-of-2019/
 type: article
-quality: 11
-score: 11
+quality: 0
+score: 0
 published: false
 
 provider:

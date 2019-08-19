@@ -7,8 +7,8 @@ sourceUrl: https://finance.yahoo.com/news/facial-recognition-replacing-qr-code-1
 ampUrl: https://finance.yahoo.com/amphtml/news/facial-recognition-replacing-qr-code-190431273.html
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/facial-recognition-replacing-qr-code-190431273.html
 type: article
-quality: 76
-score: 76
+quality: 65
+score: 65
 published: true
 
 provider:

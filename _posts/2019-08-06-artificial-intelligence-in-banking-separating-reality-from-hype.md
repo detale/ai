@@ -5,8 +5,8 @@ abstract: "It's an over-the-top example of the hype surrounding artificial intel
 publishedDateTime: 2019-08-06T15:27:00Z
 sourceUrl: https://www.atmmarketplace.com/articles/artificial-intelligence-in-banking-separating-reality-from-hype/
 type: article
-quality: 33
-score: 33
+quality: 22
+score: 22
 published: false
 
 provider:

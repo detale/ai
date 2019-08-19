@@ -7,8 +7,8 @@ sourceUrl: https://www.entrepreneur.com/article/337223
 ampUrl: https://www.entrepreneur.com/amphtml/337223
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/337223
 type: article
-quality: 60
-score: 60
+quality: 50
+score: 50
 published: true
 
 provider:

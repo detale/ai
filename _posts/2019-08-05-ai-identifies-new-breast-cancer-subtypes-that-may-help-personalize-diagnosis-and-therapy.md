@@ -5,8 +5,8 @@ abstract: "Scientists headed by a team at the Institute of Cancer Research, Lond
 publishedDateTime: 2019-08-05T13:09:00Z
 sourceUrl: https://www.genengnews.com/topics/cancer/breast-cancer/ai-identifies-new-breast-cancer-subtypes-that-may-help-personalize-diagnosis-and-therapy/
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

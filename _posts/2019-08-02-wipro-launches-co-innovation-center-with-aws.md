@@ -7,9 +7,9 @@ sourceUrl: https://www.moneycontrol.com/news/technology/wipro-launches-co-innova
 ampUrl: https://www.moneycontrol.com/news/technology/wipro-launches-co-innovation-center-with-aws-4284481.html/amp
 cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/wipro-launches-co-innovation-center-with-aws-4284481.html/amp
 type: article
-quality: 54
-score: 54
-published: true
+quality: 43
+score: 43
+published: false
 
 provider:
   name: moneycontrol.com

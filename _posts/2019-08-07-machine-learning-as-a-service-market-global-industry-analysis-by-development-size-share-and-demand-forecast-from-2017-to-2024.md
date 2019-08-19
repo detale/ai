@@ -5,8 +5,8 @@ abstract: "Aug 07, 2019 (AmericaNewsHour) -- Machine Learning as a Service Marke
 publishedDateTime: 2019-08-07T07:30:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-global-industry-analysis-by-development-size-share-and-demand-forecast-from-2017-to-2024-2019-08-07
 type: article
-quality: 74
-score: 74
+quality: 63
+score: 63
 published: false
 
 provider:

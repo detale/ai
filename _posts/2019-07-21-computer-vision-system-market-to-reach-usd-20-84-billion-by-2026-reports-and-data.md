@@ -5,8 +5,8 @@ abstract: "New York, July 22, 2019 (GLOBE NEWSWIRE) -- Increased advancements in
 publishedDateTime: 2019-07-22T00:00:00Z
 sourceUrl: https://finance.yahoo.com/news/computer-vision-system-market-reach-152431119.html
 type: article
-quality: 37
-score: 37
+quality: 27
+score: 27
 published: false
 
 provider:

@@ -7,9 +7,9 @@ sourceUrl: https://www.newscientist.com/article/mg24332414-000-this-self-riding-
 ampUrl: https://www.newscientist.com/article/mg24332414-000-this-self-riding-bicycle-follows-you-around-while-you-walk/amp/
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24332414-000-this-self-riding-bicycle-follows-you-around-while-you-walk/amp/
 type: article
-quality: 52
-score: 52
-published: true
+quality: 41
+score: 41
+published: false
 
 provider:
   name: New Scientist

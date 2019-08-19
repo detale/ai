@@ -7,8 +7,8 @@ sourceUrl: https://www.wired.com/story/facial-recognition-everywhere-should-you-
 ampUrl: https://www.wired.com/story/facial-recognition-everywhere-should-you-worry/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-everywhere-should-you-worry/amp
 type: article
-quality: 78
-score: 78
+quality: 67
+score: 67
 published: true
 
 provider:

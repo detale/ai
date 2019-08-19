@@ -5,8 +5,8 @@ abstract: "The development and popularity of the concept of machine learning hav
 publishedDateTime: 2019-07-19T10:23:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-neural-network-market-2019-global-size-share-analysis-development-trends-historical-data-and-future-values-2019-07-19
 type: article
-quality: 35
-score: 35
+quality: 24
+score: 24
 published: false
 
 provider:

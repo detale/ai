@@ -5,8 +5,8 @@ abstract: "DeepMind, Alphabet Inc.’s artificial intelligence research unit, is
 publishedDateTime: 2019-07-25T20:32:00Z
 sourceUrl: https://siliconangle.com/2019/07/25/waymo-taps-deepminds-evolutionary-ai-tech-train-self-driving-car-algorithms/
 type: article
-quality: 71
-score: 71
+quality: 60
+score: 60
 published: true
 
 provider:

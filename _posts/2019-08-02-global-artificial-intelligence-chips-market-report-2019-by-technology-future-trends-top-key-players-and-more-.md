@@ -5,8 +5,8 @@ abstract: "Soon, AI is expected to have a crucial impact on multiple end-use app
 publishedDateTime: 2019-08-03T01:08:00Z
 sourceUrl: https://www.einpresswire.com/article/492438224/global-artificial-intelligence-chips-market-report-2019-by-technology-future-trends-top-key-players-and-more
 type: article
-quality: 29
-score: 29
+quality: 19
+score: 19
 published: false
 
 provider:

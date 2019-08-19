@@ -5,8 +5,8 @@ abstract: "South Wales police officers are to have a facial recognition app inst
 publishedDateTime: 2019-08-08T00:13:00Z
 sourceUrl: https://www.msn.com/en-us/news/us/south-wales-police-to-use-facial-recognition-to-identify-suspects/ar-AAFu83j
 type: article
-quality: 19
-score: 19
+quality: 9
+score: 9
 published: false
 
 provider:

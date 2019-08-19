@@ -5,8 +5,8 @@ abstract: "The release contains the following new features: VIP9000 supports all
 publishedDateTime: 2019-08-07T15:04:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/verisilicon-launches-vip9000-new-generation-of-neural-processor-unit-ip-1028427337
 type: article
-quality: 63
-score: 63
+quality: 52
+score: 52
 published: true
 
 provider:

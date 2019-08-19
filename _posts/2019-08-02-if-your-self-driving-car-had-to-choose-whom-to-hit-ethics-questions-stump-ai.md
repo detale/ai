@@ -5,8 +5,8 @@ abstract: "The public is caught in a messy, love/hate relationship with big data
 publishedDateTime: 2019-08-02T15:11:00Z
 sourceUrl: https://siliconangle.com/2019/08/01/if-your-self-driving-car-had-to-hit-someone-ethics-questions-stumping-ai-mitcdoiq/
 type: article
-quality: 49
-score: 49
+quality: 38
+score: 38
 published: false
 
 provider:

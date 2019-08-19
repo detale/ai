@@ -7,8 +7,8 @@ sourceUrl: https://www.news-medical.net/news/20190806/New-approach-allows-artifi
 ampUrl: https://www.news-medical.net/amp/news/20190806/New-approach-allows-artificial-intelligence-systems-to-teach-each-other.aspx
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20190806/New-approach-allows-artificial-intelligence-systems-to-teach-each-other.aspx
 type: article
-quality: 72
-score: 72
+quality: 62
+score: 62
 published: true
 
 provider:

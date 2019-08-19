@@ -7,8 +7,8 @@ sourceUrl: https://finance.yahoo.com/news/7-hottest-ai-stocks-buy-193517951.html
 ampUrl: https://finance.yahoo.com/amphtml/news/7-hottest-ai-stocks-buy-193517951.html
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/7-hottest-ai-stocks-buy-193517951.html
 type: article
-quality: 62
-score: 62
+quality: 52
+score: 52
 published: true
 
 provider:

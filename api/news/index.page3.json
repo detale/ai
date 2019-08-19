@@ -2,4 +2,5 @@
 layout: news_api
 page: 3
 permalink: /:path/page3/
+minimum_score: 70
 ---

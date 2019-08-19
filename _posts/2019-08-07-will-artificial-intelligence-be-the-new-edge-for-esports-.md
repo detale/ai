@@ -5,9 +5,9 @@ abstract: "In the $1.1 billion esports market, that's what matters. It's also ab
 publishedDateTime: 2019-08-07T14:58:00Z
 sourceUrl: https://www.inc.com/kenny-kline/will-artificial-intelligence-be-new-edge-for-esports.html
 type: article
-quality: 54
-score: 54
-published: true
+quality: 43
+score: 43
+published: false
 
 provider:
   name: Inc

@@ -5,8 +5,8 @@ abstract: "Google announced new tooling for their TensorFlow Lite deep-learning 
 publishedDateTime: 2019-07-23T13:29:00Z
 sourceUrl: https://www.infoq.com/news/2019/07/tensorflow-lite-quantization/
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

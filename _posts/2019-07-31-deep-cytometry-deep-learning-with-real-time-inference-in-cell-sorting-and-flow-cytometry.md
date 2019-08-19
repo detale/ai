@@ -5,8 +5,8 @@ abstract: "Deep learning has achieved spectacular performance in image and speec
 publishedDateTime: 2019-07-31T09:51:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-47193-6
 type: article
-quality: 47
-score: 47
+quality: 36
+score: 36
 published: false
 
 provider:

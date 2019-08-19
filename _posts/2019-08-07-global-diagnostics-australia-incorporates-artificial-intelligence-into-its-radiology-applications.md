@@ -5,8 +5,8 @@ abstract: "Partnering with Aidoc to identify and prioritize patients with time-s
 publishedDateTime: 2019-08-08T01:33:00Z
 sourceUrl: https://finance.yahoo.com/news/global-diagnostics-australia-incorporates-artificial-010000121.html
 type: article
-quality: 72
-score: 72
+quality: 62
+score: 62
 published: true
 
 provider:

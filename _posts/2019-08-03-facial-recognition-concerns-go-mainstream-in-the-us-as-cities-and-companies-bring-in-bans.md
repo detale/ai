@@ -5,8 +5,8 @@ abstract: "Recently, FaceApp was much in the headlines. It allows users to submi
 publishedDateTime: 2019-08-03T17:46:00Z
 sourceUrl: https://www.privateinternetaccess.com/blog/2019/08/facial-recognition-concerns-go-mainstream-in-the-us-as-cities-and-companies-bring-in-bans/
 type: article
-quality: 35
-score: 35
+quality: 24
+score: 24
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Ever fantasied about having your own personal assistant to answer any
 publishedDateTime: 2019-08-07T14:05:00Z
 sourceUrl: https://www.kdnuggets.com/2019/08/deep-learning-nlp-explained.html
 type: article
-quality: 34
-score: 34
+quality: 23
+score: 23
 published: false
 
 provider:

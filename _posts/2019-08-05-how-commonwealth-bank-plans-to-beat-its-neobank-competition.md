@@ -5,8 +5,8 @@ abstract: "The Commonwealth Bank of Australia Ltd (ASX ... The article said that
 publishedDateTime: 2019-08-06T00:10:00Z
 sourceUrl: https://www.msn.com/en-us/money/markets/how-commonwealth-bank-plans-to-beat-its-neobank-competition/ar-AAFkODf
 type: article
-quality: 17
-score: 17
+quality: 7
+score: 7
 published: false
 
 provider:

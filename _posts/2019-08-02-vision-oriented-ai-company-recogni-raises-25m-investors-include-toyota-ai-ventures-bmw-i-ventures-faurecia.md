@@ -5,8 +5,8 @@ abstract: "These vehicles need datacenter class performance while consuming minu
 publishedDateTime: 2019-08-03T01:39:00Z
 sourceUrl: https://www.greencarcongress.com/2019/08/20190801-recogni.html
 type: article
-quality: 14
-score: 14
+quality: 4
+score: 4
 published: false
 
 provider:

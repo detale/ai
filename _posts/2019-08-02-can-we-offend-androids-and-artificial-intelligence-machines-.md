@@ -7,8 +7,8 @@ sourceUrl: https://www.psychologytoday.com/intl/blog/the-fallible-mind/201908/ca
 ampUrl: https://www.psychologytoday.com/intl/blog/the-fallible-mind/201908/can-we-offend-androids-and-artificial-intelligence-machines?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-fallible-mind/201908/can-we-offend-androids-and-artificial-intelligence-machines?amp
 type: article
-quality: 69
-score: 69
+quality: 58
+score: 58
 published: true
 
 provider:

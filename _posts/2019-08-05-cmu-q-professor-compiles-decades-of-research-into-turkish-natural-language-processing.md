@@ -5,8 +5,8 @@ abstract: "A professor at Carnegie Mellon University in Qatar (CMU-Q) has compil
 publishedDateTime: 2019-08-06T06:54:00Z
 sourceUrl: https://www.thepeninsulaqatar.com/article/06/08/2019/CMU-Q-professor-compiles-decades-of-research-into-Turkish-Natural-Language-Processing
 type: article
-quality: 67
-score: 67
+quality: 57
+score: 57
 published: false
 
 provider:

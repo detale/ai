@@ -7,8 +7,8 @@ sourceUrl: https://newatlas.com/robot-md-ai-future-medial-diagnosis/60874/
 ampUrl: https://newatlas.com/robot-md-ai-future-medial-diagnosis/60874/?amp=true
 cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robot-md-ai-future-medial-diagnosis/60874/?amp=true
 type: article
-quality: 89
-score: 89
+quality: 78
+score: 78
 published: true
 
 provider:

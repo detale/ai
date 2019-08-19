@@ -5,8 +5,8 @@ abstract: "The neural network has to learn from this data to filter out people .
 publishedDateTime: 2019-08-01T23:09:00Z
 sourceUrl: https://www.businessofapps.com/insights/artificial-intelligence-photo-video-startups/
 type: article
-quality: 48
-score: 48
+quality: 37
+score: 37
 published: false
 
 provider:

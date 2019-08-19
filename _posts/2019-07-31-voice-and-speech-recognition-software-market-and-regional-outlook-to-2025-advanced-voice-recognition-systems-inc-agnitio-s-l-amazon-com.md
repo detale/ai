@@ -5,8 +5,8 @@ abstract: "Jul 31, 2019 (marketresearchupdates.com via COMTEX) -- Industry Overv
 publishedDateTime: 2019-07-31T07:34:00Z
 sourceUrl: https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-and-regional-outlook-to-2025---advanced-voice-recognition-systems-inc-agnitio-sl-amazoncom-2019-07-31
 type: article
-quality: 67
-score: 67
+quality: 56
+score: 56
 published: true
 
 provider:

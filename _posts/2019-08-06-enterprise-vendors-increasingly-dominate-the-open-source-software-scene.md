@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/enterprise-vendors-now-dominate-the-ope
 ampUrl: https://www.zdnet.com/google-amp/article/enterprise-vendors-now-dominate-the-open-source-software-scene/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/enterprise-vendors-now-dominate-the-open-source-software-scene/
 type: article
-quality: 43
-score: 43
+quality: 32
+score: 32
 published: false
 
 provider:

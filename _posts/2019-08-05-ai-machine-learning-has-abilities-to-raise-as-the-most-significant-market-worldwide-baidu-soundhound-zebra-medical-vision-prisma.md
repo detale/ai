@@ -5,8 +5,8 @@ abstract: "TensorFlow, Caffe2 & Apache MXNet&nbsp;etc.&nbsp; Request Sample of A
 publishedDateTime: 2019-08-05T17:50:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-machine-learning-has-abilities-to-raise-as-the-most-significant-market-worldwide-baidu-soundhound-zebra-medical-vision-prisma-2019-08-05
 type: article
-quality: 87
-score: 87
+quality: 76
+score: 76
 published: true
 
 provider:

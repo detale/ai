@@ -7,8 +7,8 @@ sourceUrl: https://gizmodo.com/fourth-u-s-city-bans-facial-recognition-citing-th
 ampUrl: https://gizmodo.com/fourth-u-s-city-bans-facial-recognition-citing-threat-1836858623/amp
 cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fourth-u-s-city-bans-facial-recognition-citing-threat-1836858623/amp
 type: article
-quality: 102
-score: 102
+quality: 91
+score: 91
 published: true
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.cbronline.com/news/roberta-facebook-nlp
 ampUrl: https://www.cbronline.com/news/roberta-facebook-nlp/amp/
 cdnAmpUrl: https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/roberta-facebook-nlp/amp/
 type: article
-quality: 63
-score: 63
+quality: 52
+score: 52
 published: true
 
 provider:

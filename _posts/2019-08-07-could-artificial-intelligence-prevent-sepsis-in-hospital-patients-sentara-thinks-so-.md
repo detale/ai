@@ -7,8 +7,8 @@ sourceUrl: https://pilotonline.com/news/local/health/article_0358ff3a-b781-11e9-
 ampUrl: https://pilotonline.com/news/local/health/article_0358ff3a-b781-11e9-8d5c-bf27fd29bcee.amp.html
 cdnAmpUrl: https://pilotonline-com.cdn.ampproject.org/c/s/pilotonline.com/news/local/health/article_0358ff3a-b781-11e9-8d5c-bf27fd29bcee.amp.html
 type: article
-quality: 74
-score: 74
+quality: 63
+score: 63
 published: true
 
 provider:

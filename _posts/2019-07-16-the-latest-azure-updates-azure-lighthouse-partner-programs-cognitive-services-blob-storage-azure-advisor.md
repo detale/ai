@@ -5,8 +5,8 @@ abstract: "V3 of Cognitive Services Text Analytics sentiment analysis is in publ
 publishedDateTime: 2019-07-16T20:33:00Z
 sourceUrl: https://msdynamicsworld.com/story/latest-azure-updates-azure-lighthouse-partner-programs-cognitive-services-blob-storage-azure
 type: article
-quality: 47
-score: 47
+quality: 36
+score: 36
 published: false
 
 provider:

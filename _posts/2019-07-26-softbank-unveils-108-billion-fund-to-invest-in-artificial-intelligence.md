@@ -7,8 +7,8 @@ sourceUrl: https://nypost.com/2019/07/26/softbank-unveils-108-billion-fund-to-in
 ampUrl: https://nypost.com/2019/07/26/softbank-unveils-108-billion-fund-to-invest-in-artificial-intelligence/amp/
 cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2019/07/26/softbank-unveils-108-billion-fund-to-invest-in-artificial-intelligence/amp/
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

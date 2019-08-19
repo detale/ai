@@ -5,8 +5,8 @@ abstract: "The challenge for these clients is how to extend existing environment
 publishedDateTime: 2019-08-01T10:50:00Z
 sourceUrl: https://www.hpcwire.com/solution_content/ibm/financial/checking-it-twice-the-growing-role-of-machine-learning-in-financial-risk-management/
 type: article
-quality: 48
-score: 48
+quality: 37
+score: 37
 published: false
 
 provider:

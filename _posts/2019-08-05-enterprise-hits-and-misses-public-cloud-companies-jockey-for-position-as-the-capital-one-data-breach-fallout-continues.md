@@ -7,8 +7,8 @@ sourceUrl: https://diginomica.com/enterprise-hits-and-misses-public-cloud-compan
 ampUrl: https://diginomica.com/enterprise-hits-and-misses-public-cloud-companies-jockey-position-capital-one-data-breach-fallout?amp
 cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-public-cloud-companies-jockey-position-capital-one-data-breach-fallout?amp
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

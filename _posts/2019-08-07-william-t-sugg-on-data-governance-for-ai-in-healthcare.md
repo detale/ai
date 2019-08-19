@@ -5,8 +5,8 @@ abstract: "The benefits of artificial intelligence in healthcare are endless; Wi
 publishedDateTime: 2019-08-07T20:16:00Z
 sourceUrl: https://www.einpresswire.com/article/492893054/william-t-sugg-on-data-governance-for-ai-in-healthcare
 type: article
-quality: 19
-score: 19
+quality: 8
+score: 8
 published: false
 
 provider:

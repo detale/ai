@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/quora/2019/08/02/what-are-the-risks-and-
 ampUrl: https://www.forbes.com/sites/quora/2019/08/02/what-are-the-risks-and-benefits-of-artificial-intelligence/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2019/08/02/what-are-the-risks-and-benefits-of-artificial-intelligence/amp/
 type: article
-quality: 91
-score: 91
+quality: 81
+score: 81
 published: true
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.digitaltrends.com/cool-tech/cm-translator-review/
 ampUrl: https://www.digitaltrends.com/cool-tech/cm-translator-review/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/cm-translator-review/?amp
 type: article
-quality: 65
-score: 65
+quality: 54
+score: 54
 published: true
 
 provider:

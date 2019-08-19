@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/07/26/the-amazing-ways-
 ampUrl: https://www.forbes.com/sites/bernardmarr/2019/07/26/the-amazing-ways-dubai-airport-uses-artificial-intelligence/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/07/26/the-amazing-ways-dubai-airport-uses-artificial-intelligence/amp/
 type: article
-quality: 81
-score: 81
+quality: 71
+score: 71
 published: true
 
 provider:

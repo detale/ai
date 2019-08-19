@@ -7,8 +7,8 @@ sourceUrl: https://www.searchenginejournal.com/automated-intent-classification-u
 ampUrl: https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-part-2/318691/amp/
 cdnAmpUrl: https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/automated-intent-classification-using-deep-learning-part-2/318691/amp/
 type: article
-quality: 71
-score: 71
+quality: 60
+score: 60
 published: true
 
 provider:

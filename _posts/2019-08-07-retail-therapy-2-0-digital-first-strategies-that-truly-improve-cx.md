@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/08/07/retail-ther
 ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/08/07/retail-therapy-2-0-digital-first-strategies-that-truly-improve-cx/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/08/07/retail-therapy-2-0-digital-first-strategies-that-truly-improve-cx/amp/
 type: article
-quality: 79
-score: 79
+quality: 68
+score: 68
 published: true
 
 provider:

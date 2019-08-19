@@ -7,9 +7,9 @@ sourceUrl: https://www.cityam.com/google-owned-ai-firm-deepmind-suffers-ballooni
 ampUrl: https://www.cityam.com/google-owned-ai-firm-deepmind-suffers-ballooning-losses-as-debt-mounts/amp/
 cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/google-owned-ai-firm-deepmind-suffers-ballooning-losses-as-debt-mounts/amp/
 type: article
-quality: 59
-score: 59
-published: true
+quality: 48
+score: 48
+published: false
 
 provider:
   name: City A.M.

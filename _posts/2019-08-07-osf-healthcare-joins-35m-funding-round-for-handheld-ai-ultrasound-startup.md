@@ -5,8 +5,8 @@ abstract: "based company developing an affordable artificial intelligence-powere
 publishedDateTime: 2019-08-07T17:08:00Z
 sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/osf-healthcare-joins-35m-funding-round-for-handheld-ai-ultrasound-startup.html
 type: article
-quality: 19
-score: 19
+quality: 8
+score: 8
 published: false
 
 provider:

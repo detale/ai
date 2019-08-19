@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/08/06/google-releases-efficientnet-edget
 ampUrl: https://venturebeat.com/2019/08/06/google-releases-efficientnet-edgetpu-classification-models-for-coral-boards/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/08/06/google-releases-efficientnet-edgetpu-classification-models-for-coral-boards/amp/
 type: article
-quality: 63
-score: 63
+quality: 52
+score: 52
 published: true
 
 provider:

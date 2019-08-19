@@ -7,9 +7,9 @@ sourceUrl: https://www.nytimes.com/2019/07/31/science/bikes-robot-autonomous.htm
 ampUrl: https://www.nytimes.com/2019/07/31/science/bikes-robot-autonomous.amp.html
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/07/31/science/bikes-robot-autonomous.amp.html
 type: article
-quality: 58
-score: 58
-published: true
+quality: 47
+score: 47
+published: false
 
 provider:
   name: New York Times

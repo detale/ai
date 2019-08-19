@@ -7,9 +7,9 @@ sourceUrl: https://www.ibtimes.com/apple-patent-reveals-upgraded-macs-presence-s
 ampUrl: https://www.ibtimes.com/apple-patent-reveals-upgraded-macs-presence-sensing-facial-recognition-technologies-2811325?amp=1
 cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-patent-reveals-upgraded-macs-presence-sensing-facial-recognition-technologies-2811325?amp=1
 type: article
-quality: 59
-score: 59
-published: true
+quality: 48
+score: 48
+published: false
 
 provider:
   name: International Business Times

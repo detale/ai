@@ -5,8 +5,8 @@ abstract: "How is this related to Azure Sphere kit based competitions? There is 
 publishedDateTime: 2019-08-04T16:03:00Z
 sourceUrl: https://www.element14.com/community/message/278348/l/3-in-a-row-azure-ai-competition-in-devpost
 type: article
-quality: 16
-score: 16
+quality: 5
+score: 5
 published: false
 
 provider:

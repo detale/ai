@@ -5,8 +5,8 @@ abstract: "Wiseguyreports.Com Publish New Market Research Report On -“Machine 
 publishedDateTime: 2019-08-07T11:32:00Z
 sourceUrl: https://marketersmedia.com/machine-learning-in-retail-market-2019-global-key-players-size-applications-growth-opportunities-analysis-to-2024/88905158
 type: article
-quality: 54
-score: 54
+quality: 43
+score: 43
 published: false
 
 provider:

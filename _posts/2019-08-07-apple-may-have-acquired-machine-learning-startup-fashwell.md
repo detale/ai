@@ -7,8 +7,8 @@ sourceUrl: https://appleinsider.com/articles/19/08/07/apple-may-have-acquired-vi
 ampUrl: https://appleinsider.com/articles/19/08/07/apple-may-have-acquired-visual-search-startup-fashwell/amp/
 cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/19/08/07/apple-may-have-acquired-visual-search-startup-fashwell/amp/
 type: article
-quality: 74
-score: 74
+quality: 63
+score: 63
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "July 30, 2019 - A team from Dana-Farber Cancer Institute has develope
 publishedDateTime: 2019-07-30T18:25:00Z
 sourceUrl: https://healthitanalytics.com/news/deep-learning-tool-detects-cancer-in-radiology-reports
 type: article
-quality: 26
-score: 26
+quality: 15
+score: 15
 published: false
 
 provider:

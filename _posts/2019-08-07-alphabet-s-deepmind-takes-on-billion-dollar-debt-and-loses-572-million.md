@@ -5,8 +5,8 @@ abstract: "(Bloomberg) -- DeepMind, the artificial-intelligence company owned by
 publishedDateTime: 2019-08-08T01:01:00Z
 sourceUrl: https://www.msn.com/en-us/money/companies/alphabet%E2%80%99s-deepmind-takes-on-billion-dollar-debt-and-loses-572-million/ar-AAFsPeW
 type: article
-quality: 19
-score: 19
+quality: 9
+score: 9
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "JASK ASOC integrates with Microsoft Azure Event Hubs to stream millio
 publishedDateTime: 2019-08-06T22:53:00Z
 sourceUrl: https://www.helpnetsecurity.com/2019/08/07/jask-microsoft-intelligent-security-association/
 type: article
-quality: 18
-score: 18
+quality: 7
+score: 7
 published: false
 
 provider:

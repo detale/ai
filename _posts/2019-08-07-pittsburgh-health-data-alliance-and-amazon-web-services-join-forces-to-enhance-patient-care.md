@@ -7,8 +7,8 @@ sourceUrl: https://www.news-medical.net/news/20190807/Pittsburgh-Health-Data-All
 ampUrl: https://www.news-medical.net/amp/news/20190807/Pittsburgh-Health-Data-Alliance-and-Amazon-Web-Services-join-forces-to-enhance-patient-care.aspx
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20190807/Pittsburgh-Health-Data-Alliance-and-Amazon-Web-Services-join-forces-to-enhance-patient-care.aspx
 type: article
-quality: 59
-score: 59
+quality: 48
+score: 48
 published: false
 
 provider:

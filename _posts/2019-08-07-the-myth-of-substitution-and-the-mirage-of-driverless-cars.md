@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/mohanbirsawhney/2019/08/07/the-myth-of-s
 ampUrl: https://www.forbes.com/sites/mohanbirsawhney/2019/08/07/the-myth-of-substitution-and-the-mirage-of-driverless-cars/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mohanbirsawhney/2019/08/07/the-myth-of-substitution-and-the-mirage-of-driverless-cars/amp/
 type: article
-quality: 79
-score: 79
+quality: 68
+score: 68
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Charlie Wells wants to get inside your head. Not personally, you unde
 publishedDateTime: 2019-08-05T23:34:00Z
 sourceUrl: https://www.thetimes.co.uk/article/would-you-use-helloself-the-digital-therapy-service-k08nw05bx
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

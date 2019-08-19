@@ -7,9 +7,9 @@ sourceUrl: https://www.seattletimes.com/business/technology/qa-microsofts-lili-c
 ampUrl: https://www.seattletimes.com/business/technology/qa-microsofts-lili-cheng-talks-about-emotionally-intelligent-machines/?amp=1
 cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/qa-microsofts-lili-cheng-talks-about-emotionally-intelligent-machines/?amp=1
 type: article
-quality: 56
-score: 56
-published: true
+quality: 46
+score: 46
+published: false
 
 provider:
   name: Seattle Times

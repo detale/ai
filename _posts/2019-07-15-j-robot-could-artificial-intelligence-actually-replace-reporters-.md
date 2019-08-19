@@ -5,8 +5,8 @@ abstract: "In the film I, Robot, loosely based upon stories from Isaac Asimov, W
 publishedDateTime: 2019-07-15T23:47:00Z
 sourceUrl: https://www.msn.com/en-in/news/techandscience/j-robot-could-artificial-intelligence-actually-replace-reporters/ar-AAEmQpo
 type: article
-quality: 11
-score: 11
+quality: 1
+score: 1
 published: false
 
 provider:

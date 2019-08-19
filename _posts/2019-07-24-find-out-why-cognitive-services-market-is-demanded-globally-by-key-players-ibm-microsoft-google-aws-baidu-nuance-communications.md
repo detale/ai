@@ -5,8 +5,8 @@ abstract: "Jul 24, 2019 (marketresearchupdates.com via COMTEX) -- Cognitive Serv
 publishedDateTime: 2019-07-24T11:41:00Z
 sourceUrl: https://www.marketwatch.com/press-release/find-out-why-cognitive-services-market-is-demanded-globally-by-key-players-ibm-microsoft-google-aws-baidu-nuance-communications-2019-07-24
 type: article
-quality: 70
-score: 70
+quality: 59
+score: 59
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Natural Language Processing, Context-Aware Computing, Computer Vision
 publishedDateTime: 2019-07-26T14:40:00Z
 sourceUrl: https://www.prnewswire.co.uk/news-releases/vision-processing-unit-market-worth-3-2-billion-by-2024-exclusive-report-by-marketsandmarkets-tm--854034884.html
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

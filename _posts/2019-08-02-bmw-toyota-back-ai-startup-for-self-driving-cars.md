@@ -5,8 +5,8 @@ abstract: "Recogni Inc., a startup that designs a vision-oriented artificial int
 publishedDateTime: 2019-08-02T20:27:00Z
 sourceUrl: https://www.mediapost.com/publications/article/338781/bmw-toyota-back-ai-startup-for-self-driving-cars.html?hashid=T9-GdBD655hNAwPB2lRe9aE6KK0&hss_channel=tw-1112717640676663298
 type: article
-quality: 49
-score: 49
+quality: 38
+score: 38
 published: false
 
 provider:

@@ -5,9 +5,9 @@ abstract: "Hardware manufacturer XaLogic has created a Raspberry Pi machine lear
 publishedDateTime: 2019-08-07T08:15:00Z
 sourceUrl: https://www.geeky-gadgets.com/raspberry-pi-machine-learning-hat-07-08-2019/
 type: article
-quality: 54
-score: 54
-published: true
+quality: 43
+score: 43
+published: false
 
 provider:
   name: Geeky Gadgets

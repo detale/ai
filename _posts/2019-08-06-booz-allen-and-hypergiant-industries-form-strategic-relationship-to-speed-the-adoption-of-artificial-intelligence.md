@@ -5,9 +5,9 @@ abstract: "climate change and healthcare will create solutions that catalyze the
 publishedDateTime: 2019-08-06T22:47:00Z
 sourceUrl: https://finance.yahoo.com/news/booz-allen-hypergiant-industries-form-130000064.html
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: YAHOO! News

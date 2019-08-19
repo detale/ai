@@ -5,8 +5,8 @@ abstract: "since Google itself developed the Kubernetes app management standard 
 publishedDateTime: 2019-08-01T22:26:00Z
 sourceUrl: https://www.eweek.com/cloud/at-a-high-level-aws-vs-azure-vs-google-cloud
 type: article
-quality: 68
-score: 68
+quality: 57
+score: 57
 published: true
 
 provider:

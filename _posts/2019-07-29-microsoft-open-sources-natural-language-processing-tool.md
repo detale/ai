@@ -5,9 +5,9 @@ abstract: "Microsoft has open sourced BrowseCloud, an AI-based application that 
 publishedDateTime: 2019-07-29T13:47:00Z
 sourceUrl: https://www.i-programmer.info/news/105-artificial-intelligence/12961-microsoft-open-sources-natural-language-processing-tool.html
 type: article
-quality: 55
-score: 55
-published: true
+quality: 44
+score: 44
+published: false
 
 provider:
   name: I Programmer

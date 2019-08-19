@@ -5,8 +5,8 @@ abstract: "Waymo received an autonomous navigation patent. Facebook published a 
 publishedDateTime: 2019-08-02T16:34:00Z
 sourceUrl: https://www.cbinsights.com/research/this-week-in-artificial-intelligence-babylon-lightricks-datarobot-ford/
 type: article
-quality: 19
-score: 19
+quality: 8
+score: 8
 published: false
 
 provider:

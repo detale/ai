@@ -5,8 +5,8 @@ abstract: "making it more likely that the company will eventually be able to ben
 publishedDateTime: 2019-07-18T12:26:00Z
 sourceUrl: https://finance.yahoo.com/news/1-top-ai-stock-buy-121500890.html
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 18
 published: false
 
 provider:
@@ -22,4 +22,8 @@ images:
     width: 3600
     height: 2045
     title: "1 Top AI Stock to Buy and Hold for Decades"
+
+related:
+  - url: https://www.msn.com/en-us/money/technologyinvesting/1-top-ai-stock-to-buy-and-hold-for-decades/ar-AAEw3b1
+    title: "1 top AI stock to buy and hold for decades"
 ---

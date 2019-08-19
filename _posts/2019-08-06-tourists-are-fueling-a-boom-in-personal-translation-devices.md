@@ -7,8 +7,8 @@ sourceUrl: https://www.bloomberg.com/news/articles/2019-08-06/what-did-you-say-t
 ampUrl: https://www.bloomberg.com/amp/news/articles/2019-08-06/what-did-you-say-tourists-fuel-pocket-translator-boom-in-japan
 cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-08-06/what-did-you-say-tourists-fuel-pocket-translator-boom-in-japan
 type: article
-quality: 58
-score: 58
+quality: 47
+score: 47
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Google released TensorFlow.Text (TF.Text), a new text-processing libr
 publishedDateTime: 2019-07-16T00:00:00Z
 sourceUrl: https://www.infoq.com/news/2019/07/google-tensorflow-text
 type: article
-quality: 41
-score: 41
+quality: 31
+score: 31
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Hugging Face, the NLP startup behind several social AI apps and open 
 publishedDateTime: 2019-07-21T18:15:00Z
 sourceUrl: https://medium.com/dair-ai/pytorch-transformers-for-state-of-the-art-nlp-3348911ffa5b
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

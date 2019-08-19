@@ -5,8 +5,12 @@
     {% assign for_count = 0 -%}
     "page": {{ current_page }},
     "value": [
-        {% capture news_where_exp %}post.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
-        {% assign news = site.posts | where: "category", "news" | where_exp: "post", news_where_exp -%}
+        {% capture news_topic_filter %}post.topics contains '{{ page.topic | default: "AI" }}'{% endcapture -%}
+        {% assign news = site.posts | where: "category", "news" | where_exp: "post", news_topic_filter -%}
+        {% if page.minimum_score -%}
+            {% capture news_score_filter %}post.score >= {{ page.minimum_score }}{% endcapture -%}
+            {% assign news = news | where_exp: "post", news_score_filter -%}
+        {% endif -%}
         {% for post in news limit:page_size offset:for_offset -%}
         {
             {% if forloop.last -%}
@@ -14,6 +18,7 @@
             {% endif -%}
             "title": {{ post.title | jsonify }},
             "type": {{ post.type | jsonify }},
+            "score": {{ post.score }},
             "api": "{{ post.url | absolute_url }}",
             "sourceUrl": "{{ post.sourceUrl | absolute_url }}",
             {% if post.ampUrl -%}

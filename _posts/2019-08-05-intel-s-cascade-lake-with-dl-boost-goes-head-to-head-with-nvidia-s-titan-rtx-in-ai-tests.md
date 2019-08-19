@@ -5,8 +5,8 @@ abstract: "Anandtech also used three different configurations to test it — out
 publishedDateTime: 2019-08-05T19:12:00Z
 sourceUrl: https://www.extremetech.com/computing/296210-intels-cascade-lake-with-dl-boost-goes-head-to-head-with-nvidias-titan-rtx-in-ai-tests
 type: article
-quality: 22
-score: 22
+quality: 11
+score: 11
 published: false
 
 provider:

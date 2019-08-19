@@ -7,8 +7,8 @@ sourceUrl: https://www.macworld.com/article/3429659/learn-a-new-language-with-ro
 ampUrl: https://www.macworld.com/article/3429659/learn-a-new-language-with-rosetta-stones-speech-recognition-technology-for-199.amp.html
 cdnAmpUrl: https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3429659/learn-a-new-language-with-rosetta-stones-speech-recognition-technology-for-199.amp.html
 type: article
-quality: 109
-score: 109
+quality: 98
+score: 98
 published: true
 
 provider:

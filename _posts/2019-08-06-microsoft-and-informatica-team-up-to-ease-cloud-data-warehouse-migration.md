@@ -5,8 +5,8 @@ abstract: "“As customers modernize their analytics systems, it enables them to
 publishedDateTime: 2019-08-07T01:12:00Z
 sourceUrl: https://siliconangle.com/2019/08/06/microsoft-informatica-team-ease-cloud-data-warehouse-migration/
 type: article
-quality: 18
-score: 18
+quality: 8
+score: 8
 published: false
 
 provider:

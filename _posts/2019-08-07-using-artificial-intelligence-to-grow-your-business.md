@@ -7,8 +7,8 @@ sourceUrl: https://punchng.com/using-artificial-intelligence-to-grow-your-busine
 ampUrl: https://punchng.com/using-artificial-intelligence-to-grow-your-business/amp/
 cdnAmpUrl: https://punchng-com.cdn.ampproject.org/c/s/punchng.com/using-artificial-intelligence-to-grow-your-business/amp/
 type: article
-quality: 74
-score: 74
+quality: 64
+score: 64
 published: true
 
 provider:

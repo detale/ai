@@ -7,8 +7,8 @@ sourceUrl: https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-
 ampUrl: https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374/amp
 cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374/amp
 type: article
-quality: 73
-score: 73
+quality: 62
+score: 62
 published: true
 
 provider:

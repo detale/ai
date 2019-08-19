@@ -7,8 +7,8 @@ sourceUrl: https://www.pcmag.com/news/369480/google-translates-camera-now-suppor
 ampUrl: https://www.pcmag.com/news/369480/google-translates-camera-now-supports-60-more-languages?amp=1
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/369480/google-translates-camera-now-supports-60-more-languages?amp=1
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

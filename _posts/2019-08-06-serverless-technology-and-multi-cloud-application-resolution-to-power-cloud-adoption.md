@@ -5,8 +5,8 @@ abstract: "Foundry provides customers with services and solutions like easy inst
 publishedDateTime: 2019-08-06T12:31:00Z
 sourceUrl: https://www.cioreview.com/news/serverless-technology-and-multicloud-application-resolution-to-power-cloud-adoption-nid-30163-cid-133.html
 type: article
-quality: 3
-score: 3
+quality: 0
+score: 0
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Recogni Inc., a startup developing artificial intelligence hardware f
 publishedDateTime: 2019-07-31T13:11:00Z
 sourceUrl: https://siliconangle.com/2019/07/31/recogni-emerges-stealth-build-better-ai-hardware-self-driving-cars/
 type: article
-quality: 27
-score: 27
+quality: 16
+score: 16
 published: false
 
 provider:

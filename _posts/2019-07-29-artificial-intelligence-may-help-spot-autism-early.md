@@ -7,8 +7,8 @@ sourceUrl: https://www.thehealthsite.com/news/ai-may-help-spot-autism-early-6795
 ampUrl: https://www.thehealthsite.com/news/ai-may-help-spot-autism-early-679562/amp/
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/ai-may-help-spot-autism-early-679562/amp/
 type: article
-quality: 65
-score: 70
+quality: 55
+score: 60
 published: true
 
 provider:

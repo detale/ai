@@ -5,8 +5,8 @@ abstract: "Artificial intelligence has made spectacular progress in recent years
 publishedDateTime: 2019-08-01T00:05:00Z
 sourceUrl: https://voxeu.org/article/potential-impact-machine-translation-foreign-trade
 type: article
-quality: 27
-score: 27
+quality: 17
+score: 17
 published: false
 
 provider:

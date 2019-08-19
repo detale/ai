@@ -7,8 +7,8 @@ sourceUrl: https://www.slashgear.com/google-translate-camera-tool-gets-support-f
 ampUrl: https://www.slashgear.com/google-translate-camera-tool-gets-support-for-another-60-languages-10583581/amp/
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-translate-camera-tool-gets-support-for-another-60-languages-10583581/amp/
 type: article
-quality: 36
-score: 36
+quality: 25
+score: 25
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/07/28/deep-learning-is-about-to-get-easi
 ampUrl: https://venturebeat.com/2019/07/28/deep-learning-is-about-to-get-easier-and-more-widespread/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/28/deep-learning-is-about-to-get-easier-and-more-widespread/amp/
 type: article
-quality: 84
-score: 84
+quality: 73
+score: 73
 published: true
 
 provider:

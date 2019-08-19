@@ -5,8 +5,8 @@ abstract: "As per researchers, NLP is surely the best option to bridge the gap b
 publishedDateTime: 2019-07-11T12:20:00Z
 sourceUrl: https://www.cioreview.com/news/natural-language-processing-eliminates-the-communication-gap-between-computers-and-humans-nid-29769-cid-175.html
 type: article
-quality: 22
-score: 22
+quality: 11
+score: 11
 published: false
 
 provider:

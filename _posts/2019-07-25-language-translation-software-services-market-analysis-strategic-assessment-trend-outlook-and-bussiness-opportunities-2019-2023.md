@@ -7,8 +7,8 @@ sourceUrl: https://www.benzinga.com/pressreleases/19/07/ab14132326/language-tran
 ampUrl: https://amp.benzinga.com/amp/content/14132326
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14132326
 type: article
-quality: 76
-score: 76
+quality: 65
+score: 65
 published: true
 
 provider:

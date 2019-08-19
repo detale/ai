@@ -7,8 +7,8 @@ sourceUrl: https://fortune.com/2019/07/31/deepmind-kidney-injuries/
 ampUrl: https://fortune.com/2019/07/31/deepmind-kidney-injuries/amp/
 cdnAmpUrl: https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2019/07/31/deepmind-kidney-injuries/amp/
 type: article
-quality: 72
-score: 72
+quality: 61
+score: 61
 published: false
 
 provider:

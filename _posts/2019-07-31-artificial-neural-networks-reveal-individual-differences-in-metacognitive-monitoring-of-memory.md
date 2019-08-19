@@ -5,8 +5,8 @@ abstract: "Previous work supports an age-specific impairment for recognition mem
 publishedDateTime: 2019-07-31T21:24:00Z
 sourceUrl: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0220526
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

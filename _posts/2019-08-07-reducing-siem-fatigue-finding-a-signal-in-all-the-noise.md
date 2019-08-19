@@ -5,8 +5,8 @@ abstract: "“SIEM is coming forward with artificial intelligence (AI),” Ponem
 publishedDateTime: 2019-08-07T14:42:00Z
 sourceUrl: https://www.scmagazine.com/home/security-news/reducing-siem-fatigue/
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/davidteich/2019/08/05/hpe-acquires-mapr-
 ampUrl: https://www.forbes.com/sites/davidteich/2019/08/05/hpe-acquires-mapr-assets-in-an-attempt-to-strengthen-its-artificial-intelligence--machine-learning-portfolio/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2019/08/05/hpe-acquires-mapr-assets-in-an-attempt-to-strengthen-its-artificial-intelligence--machine-learning-portfolio/amp/
 type: article
-quality: 122
-score: 122
+quality: 111
+score: 111
 published: true
 
 provider:

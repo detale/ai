@@ -5,8 +5,8 @@ abstract: "Microsoft’s Head of Open Source Strategy, Azure Machine Learning an
 publishedDateTime: 2019-08-06T13:01:00Z
 sourceUrl: https://www.bakersfield.com/ap/news/mlops-nyc-conference-to-promote-the-standardization-of-machine-learning/article_1cb142a5-8bf6-518f-867b-dc6c4d30db6b.html
 type: article
-quality: 53
-score: 53
+quality: 42
+score: 42
 published: false
 
 provider:

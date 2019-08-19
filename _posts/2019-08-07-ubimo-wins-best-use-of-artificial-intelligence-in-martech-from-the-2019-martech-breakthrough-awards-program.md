@@ -5,8 +5,8 @@ abstract: "NEW YORK, Aug. 7, 2019 /PRNewswire/ -- Ubimo has been selected as the
 publishedDateTime: 2019-08-07T12:35:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/ubimo-wins-best-use-of-artificial-intelligence-in-martech-from-the-2019-martech-breakthrough-awards-program-1028426467
 type: article
-quality: 72
-score: 72
+quality: 61
+score: 61
 published: true
 
 provider:

@@ -7,9 +7,9 @@ sourceUrl: https://www.forbes.com/sites/gilpress/2019/08/04/artificial-intellige
 ampUrl: https://www.forbes.com/sites/gilpress/2019/08/04/artificial-intelligence-ai-stats-news-50-of-americans-optimistic-and-50-fearful-about-ai/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2019/08/04/artificial-intelligence-ai-stats-news-50-of-americans-optimistic-and-50-fearful-about-ai/amp/
 type: article
-quality: 91
-score: 91
-published: true
+quality: 80
+score: 80
+published: false
 
 provider:
   name: Forbes

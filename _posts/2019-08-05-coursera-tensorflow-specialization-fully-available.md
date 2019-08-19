@@ -5,8 +5,8 @@ abstract: "The fourth and final course of Coursera's TensorFlow Specialization i
 publishedDateTime: 2019-08-05T17:17:00Z
 sourceUrl: https://www.i-programmer.info/news/150-training-a-education/12980-coursera-tensorflow-specialization-fully-available.html
 type: article
-quality: 17
-score: 17
+quality: 6
+score: 6
 published: false
 
 provider:

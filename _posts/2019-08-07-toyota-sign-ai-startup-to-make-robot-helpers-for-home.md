@@ -7,8 +7,8 @@ sourceUrl: https://www.asianage.com/technology/in-other-news/080819/toyota-sign-
 ampUrl: https://www.asianage.com/amp/technology/in-other-news/080819/toyota-sign-ai-startup-to-make-robot-helpers-for-home.html
 cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/080819/toyota-sign-ai-startup-to-make-robot-helpers-for-home.html
 type: article
-quality: 44
-score: 44
+quality: 34
+score: 34
 published: false
 
 provider:

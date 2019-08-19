@@ -5,8 +5,8 @@ abstract: "Human age estimation is an important and difficult challenge. Differe
 publishedDateTime: 2019-08-06T09:09:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-46850-0
 type: article
-quality: 35
-score: 35
+quality: 24
+score: 24
 published: false
 
 provider:

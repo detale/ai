@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/chadorzel/2019/08/07/how-does-classical-
 ampUrl: https://www.forbes.com/sites/chadorzel/2019/08/07/how-does-classical-reality-emerge-from-quantum-environments/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chadorzel/2019/08/07/how-does-classical-reality-emerge-from-quantum-environments/amp/
 type: article
-quality: 64
-score: 64
+quality: 53
+score: 53
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "It's flimsy because Thiel glosses over Google's biggest contribution 
 publishedDateTime: 2019-08-05T11:00:00Z
 sourceUrl: https://www.bloomberg.com/news/newsletters/2019-08-05/can-you-stop-ai-at-the-border
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

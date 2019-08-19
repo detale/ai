@@ -5,8 +5,8 @@ abstract: "The feature is already supported by several of the leading AI framewo
 publishedDateTime: 2019-08-05T16:55:00Z
 sourceUrl: https://www.crn.com/news/components-peripherals/intel-highlights-data-center-wins-ahead-of-amd-epyc-rome-launch
 type: article
-quality: 22
-score: 22
+quality: 11
+score: 11
 published: false
 
 provider:

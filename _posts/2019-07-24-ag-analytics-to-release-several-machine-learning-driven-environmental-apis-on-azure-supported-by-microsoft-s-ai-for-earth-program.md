@@ -5,8 +5,8 @@ abstract: "Ag-Analytics® and Microsoft AI for Earth Announce Strategic Partners
 publishedDateTime: 2019-07-25T00:02:00Z
 sourceUrl: https://finance.yahoo.com/news/ag-analytics-release-several-machine-212800002.html
 type: article
-quality: 70
-score: 70
+quality: 60
+score: 60
 published: true
 
 provider:

@@ -7,9 +7,9 @@ sourceUrl: https://www.bbc.co.uk/news/uk-wales-49261763
 ampUrl: https://www.bbc.co.uk/news/amp/uk-wales-49261763
 cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-49261763
 type: article
-quality: 59
-score: 74
-published: true
+quality: 48
+score: 63
+published: false
 
 provider:
   name: BBC

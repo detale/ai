@@ -5,8 +5,8 @@ abstract: "Alphabets (GOOG-0.2%)(GOOGL-0.2%) DeepMind owes the parent company mo
 publishedDateTime: 2019-08-07T14:19:00Z
 sourceUrl: https://seekingalpha.com/news/3488507-ai-unit-owes-alphabet-1b
 type: article
-quality: 4
-score: 4
+quality: 0
+score: 0
 published: false
 
 provider:

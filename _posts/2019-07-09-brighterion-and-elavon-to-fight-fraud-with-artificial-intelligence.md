@@ -5,8 +5,8 @@ abstract: "Brighterion, a Mastercard company, and Elavon, a global payments prov
 publishedDateTime: 2019-07-09T13:10:00Z
 sourceUrl: https://finance.yahoo.com/news/brighterion-elavon-fight-fraud-artificial-110000870.html
 type: article
-quality: 25
-score: 25
+quality: 14
+score: 14
 published: false
 
 provider:

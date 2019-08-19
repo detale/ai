@@ -5,8 +5,8 @@ abstract: "The days of fiddling self-checkouts by deliberately mis-identifying f
 publishedDateTime: 2019-08-02T01:47:00Z
 sourceUrl: https://www.itwire.com/enterprise-solutions/shekel-aims-to-bring-object-recognition-to-a-checkout-near-you.html
 type: article
-quality: 28
-score: 28
+quality: 18
+score: 18
 published: false
 
 provider:

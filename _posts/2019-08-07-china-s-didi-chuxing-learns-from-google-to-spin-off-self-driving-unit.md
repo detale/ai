@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/chinas-didi-chuxing-learns-from-google-
 ampUrl: https://www.zdnet.com/google-amp/article/chinas-didi-chuxing-learns-from-google-to-spin-off-self-driving-unit/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-didi-chuxing-learns-from-google-to-spin-off-self-driving-unit/
 type: article
-quality: 74
-score: 74
+quality: 64
+score: 64
 published: true
 
 provider:

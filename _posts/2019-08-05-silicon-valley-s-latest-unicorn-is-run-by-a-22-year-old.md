@@ -5,8 +5,8 @@ abstract: "Their observations are fed back into artificial intelligence software
 publishedDateTime: 2019-08-05T12:45:00Z
 sourceUrl: https://www.bloomberg.com/news/articles/2019-08-05/scale-ai-is-silicon-valley-s-latest-unicorn
 type: article
-quality: 22
-score: 22
+quality: 11
+score: 11
 published: false
 
 provider:

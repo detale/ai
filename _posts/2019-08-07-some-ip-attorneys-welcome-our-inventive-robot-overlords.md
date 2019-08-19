@@ -5,8 +5,8 @@ abstract: "“The folks that filed it [from] the university in the U.K. at a min
 publishedDateTime: 2019-08-07T16:16:00Z
 sourceUrl: https://www.law.com/legaltechnews/2019/08/07/some-ip-attorneys-welcome-our-inventive-robot-overlords/
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

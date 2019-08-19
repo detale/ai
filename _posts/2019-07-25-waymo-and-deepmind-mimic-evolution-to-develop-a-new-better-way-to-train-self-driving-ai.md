@@ -7,8 +7,8 @@ sourceUrl: https://techcrunch.com/2019/07/25/waymo-and-deepmind-mimic-evolution-
 ampUrl: https://techcrunch.com/2019/07/25/waymo-and-deepmind-mimic-evolution-to-develop-a-new-better-way-to-train-self-driving-ai/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/07/25/waymo-and-deepmind-mimic-evolution-to-develop-a-new-better-way-to-train-self-driving-ai/amp/
 type: article
-quality: 91
-score: 96
+quality: 80
+score: 85
 published: true
 
 provider:

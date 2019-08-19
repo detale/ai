@@ -5,9 +5,9 @@ abstract: "Primary amongst these is the potential of artificial intelligence to 
 publishedDateTime: 2019-08-06T18:15:00Z
 sourceUrl: https://www.information-management.com/opinion/artificial-intelligence-as-a-driver-of-democracy
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: Information Management

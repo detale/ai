@@ -7,8 +7,8 @@ sourceUrl: https://www.entrepreneur.com/video/336468
 ampUrl: https://www.entrepreneur.com/amphtml/336468
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/336468
 type: article
-quality: 31
-score: 31
+quality: 20
+score: 20
 published: false
 
 provider:

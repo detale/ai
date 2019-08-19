@@ -5,8 +5,8 @@ abstract: "August 02, 2019 - The Department of Veterans Affairs (VA) and DeepMin
 publishedDateTime: 2019-08-02T13:34:00Z
 sourceUrl: https://healthitanalytics.com/news/va-deepmind-machine-learning-model-predicts-kidney-disease
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

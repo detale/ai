@@ -5,9 +5,9 @@ abstract: "(MENAFN)Local authorities declared that China has opened the first Mo
 publishedDateTime: 2019-08-03T08:15:00Z
 sourceUrl: https://menafn.com/1098839219/First-Mongolian-input-technique-with-handwriting-speech-recognition-in-China
 type: article
-quality: 50
-score: 50
-published: true
+quality: 39
+score: 39
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

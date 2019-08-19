@@ -5,8 +5,8 @@ abstract: "Improvement in existing voice recognition technology is key for enabl
 publishedDateTime: 2019-08-07T13:40:00Z
 sourceUrl: https://www.paymentssource.com/list/alexa-whats-the-latest-on-voice-payments?brief=00000157-2f43-d6a6-a9f7-ffcf013e0000
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

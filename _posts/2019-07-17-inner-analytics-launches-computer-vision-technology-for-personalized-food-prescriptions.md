@@ -5,8 +5,8 @@ abstract: "TORONTO, July 17, 2019 /PRNewswire/ -- Inner Analytics announced toda
 publishedDateTime: 2019-07-17T12:05:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/inner-analytics-launches-computer-vision-technology-for-personalized-food-prescriptions-300886110.html
 type: article
-quality: 33
-score: 33
+quality: 22
+score: 22
 published: false
 
 provider:

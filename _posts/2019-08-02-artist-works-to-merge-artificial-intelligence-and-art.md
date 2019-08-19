@@ -7,8 +7,8 @@ sourceUrl: https://www.seattletimes.com/business/technology/artist-works-to-merg
 ampUrl: https://www.seattletimes.com/business/technology/artist-works-to-merge-artificial-intelligence-and-art/?amp=1
 cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/artist-works-to-merge-artificial-intelligence-and-art/?amp=1
 type: article
-quality: 69
-score: 69
+quality: 58
+score: 58
 published: true
 
 provider:

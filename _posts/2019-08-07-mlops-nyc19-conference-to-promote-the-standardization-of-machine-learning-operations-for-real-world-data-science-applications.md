@@ -5,8 +5,8 @@ abstract: "Speakers from Google, Walmart, Netflix, Uber, Twitter, Microsoft, Blo
 publishedDateTime: 2019-08-07T12:57:00Z
 sourceUrl: https://finance.yahoo.com/news/mlops-nyc19-conference-promote-standardization-130000686.html?soc_src=social-sh&soc_trk=tw
 type: article
-quality: 74
-score: 79
+quality: 63
+score: 68
 published: true
 
 provider:

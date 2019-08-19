@@ -7,8 +7,8 @@ sourceUrl: https://investorplace.com/2019/07/nvidias-ticket-to-long-term-success
 ampUrl: https://investorplace.com/2019/07/nvidias-ticket-to-long-term-success-self-driving-cars-and-ai/amp/
 cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/07/nvidias-ticket-to-long-term-success-self-driving-cars-and-ai/amp/
 type: article
-quality: 62
-score: 62
+quality: 51
+score: 51
 published: true
 
 provider:

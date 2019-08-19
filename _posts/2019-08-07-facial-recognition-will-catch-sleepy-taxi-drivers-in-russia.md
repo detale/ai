@@ -7,8 +7,8 @@ sourceUrl: https://www.engadget.com/2019/08/08/facial-recognition-will-catch-sle
 ampUrl: https://www.engadget.com/amp/2019/08/08/facial-recognition-will-catch-sleepy-taxi-drivers-in-russia/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/08/08/facial-recognition-will-catch-sleepy-taxi-drivers-in-russia/
 type: article
-quality: 79
-score: 79
+quality: 69
+score: 69
 published: true
 
 provider:

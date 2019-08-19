@@ -7,9 +7,9 @@ sourceUrl: https://inc42.com/buzz/blockchain-this-week-wipro-aws-launch-pad-trai
 ampUrl: https://inc42.com/buzz/blockchain-this-week-wipro-aws-launch-pad-trais-direction-over-pesky-calls-and-more/amp/
 cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/blockchain-this-week-wipro-aws-launch-pad-trais-direction-over-pesky-calls-and-more/amp/
 type: article
-quality: 59
-score: 59
-published: true
+quality: 48
+score: 48
+published: false
 
 provider:
   name: inc42.com

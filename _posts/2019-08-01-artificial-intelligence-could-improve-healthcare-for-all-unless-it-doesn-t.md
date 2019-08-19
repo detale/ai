@@ -5,8 +5,8 @@ abstract: "Glenn Cohen, a law professor at Harvard University and a leader for t
 publishedDateTime: 2019-08-01T13:00:00Z
 sourceUrl: https://www.fastcompany.com/90384481/artificial-intelligence-could-improve-health-care-for-all-unless-it-doesnt
 type: article
-quality: 65
-score: 70
+quality: 54
+score: 59
 published: true
 
 provider:

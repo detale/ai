@@ -7,8 +7,8 @@ sourceUrl: https://www.pcmag.com/article/369988/cisco-webex-gains-voice-assistan
 ampUrl: https://www.pcmag.com/article/369988/cisco-webex-gains-voice-assistant-tech-through-voicea-acquis?amp=1
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/369988/cisco-webex-gains-voice-assistant-tech-through-voicea-acquis?amp=1
 type: article
-quality: 64
-score: 64
+quality: 53
+score: 53
 published: true
 
 provider:

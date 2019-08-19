@@ -5,8 +5,8 @@ abstract: "\"Another notable enhancement is support of deep learning frameworks 
 publishedDateTime: 2019-08-06T16:36:00Z
 sourceUrl: https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=133391
 type: article
-quality: 3
-score: 3
+quality: 0
+score: 0
 published: false
 
 provider:

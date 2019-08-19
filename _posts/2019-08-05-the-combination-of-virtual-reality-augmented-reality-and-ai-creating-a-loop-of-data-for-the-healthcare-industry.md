@@ -7,9 +7,9 @@ sourceUrl: https://www.ibtimes.com/combination-virtual-realityaugmented-reality-
 ampUrl: https://www.ibtimes.com/combination-virtual-realityaugmented-reality-ai-creating-loop-data-healthcare-2810854?amp=1
 cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/combination-virtual-realityaugmented-reality-ai-creating-loop-data-healthcare-2810854?amp=1
 type: article
-quality: 57
-score: 57
-published: true
+quality: 46
+score: 46
+published: false
 
 provider:
   name: International Business Times

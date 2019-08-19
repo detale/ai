@@ -7,8 +7,8 @@ sourceUrl: https://www.androidauthority.com/google-translate-instant-translation
 ampUrl: https://www.androidauthority.com/google-translate-instant-translations-1007624/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-translate-instant-translations-1007624/amp/
 type: article
-quality: 36
-score: 36
+quality: 25
+score: 25
 published: false
 
 provider:

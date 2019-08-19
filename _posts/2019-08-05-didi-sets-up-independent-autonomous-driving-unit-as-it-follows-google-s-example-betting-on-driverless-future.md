@@ -7,8 +7,8 @@ sourceUrl: https://www.scmp.com/tech/start-ups/article/3021455/didi-sets-indepen
 ampUrl: https://amp.scmp.com/tech/start-ups/article/3021455/didi-sets-independent-autonomous-driving-unit-it-follows-googles
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3021455/didi-sets-independent-autonomous-driving-unit-it-follows-googles
 type: article
-quality: 72
-score: 72
+quality: 62
+score: 62
 published: true
 
 provider:

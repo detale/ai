@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/08/01/ibm-researchers-explore-techniques
 ampUrl: https://venturebeat.com/2019/08/01/ibm-researchers-explore-techniques-to-improve-enterprise-natural-language-processing/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/08/01/ibm-researchers-explore-techniques-to-improve-enterprise-natural-language-processing/amp/
 type: article
-quality: 83
-score: 83
+quality: 72
+score: 72
 published: true
 
 provider:

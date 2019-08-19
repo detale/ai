@@ -5,9 +5,9 @@ abstract: "August 06, 2019 - A machine learning algorithm could automate the pro
 publishedDateTime: 2019-08-06T18:06:00Z
 sourceUrl: https://healthitanalytics.com/news/machine-learning-automates-data-extraction-for-predictive-analytics
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: Analytics

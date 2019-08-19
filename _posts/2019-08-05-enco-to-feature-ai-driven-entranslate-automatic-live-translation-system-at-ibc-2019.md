@@ -5,8 +5,8 @@ abstract: "The enTranslate system blends artificial intelligence with sophistica
 publishedDateTime: 2019-08-05T14:48:00Z
 sourceUrl: https://www.tvtechnology.com/show-news/enco-to-feature-ai-driven-entranslate-automatic-live-translation-system-at-ibc-2019
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

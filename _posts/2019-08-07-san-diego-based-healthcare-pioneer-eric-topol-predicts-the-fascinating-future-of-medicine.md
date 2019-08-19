@@ -7,9 +7,9 @@ sourceUrl: https://www.sandiegouniontribune.com/opinion/the-conversation/story/2
 ampUrl: https://www.sandiegouniontribune.com/opinion/the-conversation/story/2019-08-07/dr-eric-topol-on-how-humans-should-embrace-artificial-intelligence-in-medicine?_amp=true
 cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/opinion/the-conversation/story/2019-08-07/dr-eric-topol-on-how-humans-should-embrace-artificial-intelligence-in-medicine?_amp=true
 type: article
-quality: 59
-score: 59
-published: true
+quality: 49
+score: 49
+published: false
 
 provider:
   name: San Diego Union-Tribune

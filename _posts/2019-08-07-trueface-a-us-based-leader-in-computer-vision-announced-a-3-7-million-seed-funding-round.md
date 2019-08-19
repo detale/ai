@@ -5,9 +5,9 @@ abstract: "LOS ANGELES, Aug. 7, 2019 /PRNewswire-PRWeb/ -- Today Trueface, a US-
 publishedDateTime: 2019-08-07T12:16:00Z
 sourceUrl: https://www.finanzen.net/nachricht/aktien/trueface-a-us-based-leader-in-computer-vision-announced-a-3-7-million-seed-funding-round-7851659
 type: article
-quality: 54
-score: 54
-published: true
+quality: 43
+score: 43
+published: false
 
 provider:
   name: Finanzen

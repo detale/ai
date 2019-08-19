@@ -7,8 +7,8 @@ sourceUrl: https://news.sky.com/story/nhs-artificial-intelligence-boost-to-tackl
 ampUrl: https://news.sky.com/story/amp/nhs-artificial-intelligence-boost-to-tackle-cancer-and-dementia-11779790
 cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/nhs-artificial-intelligence-boost-to-tackle-cancer-and-dementia-11779790
 type: article
-quality: 76
-score: 86
+quality: 66
+score: 76
 published: true
 
 provider:

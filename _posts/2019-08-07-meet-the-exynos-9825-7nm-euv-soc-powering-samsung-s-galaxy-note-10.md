@@ -7,8 +7,8 @@ sourceUrl: https://hothardware.com/news/exynos-9825-7nm-euv-soc-samsung-galaxy-n
 ampUrl: https://amp.hothardware.com/news/exynos-9825-7nm-euv-soc-samsung-galaxy-note-10
 cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/exynos-9825-7nm-euv-soc-samsung-galaxy-note-10
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

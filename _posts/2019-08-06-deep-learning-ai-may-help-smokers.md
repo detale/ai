@@ -5,9 +5,9 @@ abstract: "A recovering cigarette smoker finds herself in a place that triggers 
 publishedDateTime: 2019-08-06T17:03:00Z
 sourceUrl: https://www.medscape.com/viewarticle/916476
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: Medscape

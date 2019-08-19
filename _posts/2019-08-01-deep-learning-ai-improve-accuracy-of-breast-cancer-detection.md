@@ -5,8 +5,8 @@ abstract: "August 01, 2019 - New artificial intelligence (AI) helps radiologists
 publishedDateTime: 2019-08-01T17:29:00Z
 sourceUrl: https://healthitanalytics.com/news/deep-learning-ai-improve-accuracy-of-breast-cancer-detection
 type: article
-quality: 28
-score: 28
+quality: 17
+score: 17
 published: false
 
 provider:

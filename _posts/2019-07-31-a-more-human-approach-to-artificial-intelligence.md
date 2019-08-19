@@ -5,8 +5,8 @@ abstract: "The first is the development of artificial neural networks, which are
 publishedDateTime: 2019-07-31T13:32:00Z
 sourceUrl: https://cacm.acm.org/news/238489-a-more-human-approach-to-artificial-intelligence/fulltext
 type: article
-quality: 47
-score: 47
+quality: 36
+score: 36
 published: false
 
 provider:

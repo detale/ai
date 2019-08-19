@@ -5,9 +5,9 @@ abstract: "DeepMind, the London-based artificial intelligence firm owned by Alph
 publishedDateTime: 2019-08-07T17:13:00Z
 sourceUrl: https://www.theinformation.com/briefings/ee04d1
 type: article
-quality: 54
-score: 54
-published: true
+quality: 43
+score: 43
+published: false
 
 provider:
   name: The Information

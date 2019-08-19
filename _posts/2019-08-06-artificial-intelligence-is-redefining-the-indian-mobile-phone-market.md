@@ -7,8 +7,8 @@ sourceUrl: https://www.moneycontrol.com/news/technology/artificial-intelligence-
 ampUrl: https://www.moneycontrol.com/news/technology/artificial-intelligence-is-redefining-the-indian-mobile-phone-market-4297321.html/amp
 cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/artificial-intelligence-is-redefining-the-indian-mobile-phone-market-4297321.html/amp
 type: article
-quality: 73
-score: 73
+quality: 62
+score: 62
 published: true
 
 provider:

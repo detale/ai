@@ -5,8 +5,8 @@ abstract: "Manufacturers, such as automakers, have to deal with increasing deman
 publishedDateTime: 2019-07-24T15:42:00Z
 sourceUrl: https://www.tmcnet.com/topics/articles/2019/07/24/442770-artificial-intelligence-make-every-robot-safe-efficient.htm
 type: article
-quality: 40
-score: 40
+quality: 29
+score: 29
 published: false
 
 provider:

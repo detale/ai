@@ -7,8 +7,8 @@ sourceUrl: https://www.neowin.net/news/microsoft-explains-how-its-ai-services-ar
 ampUrl: https://www.neowin.net/amp/microsoft-explains-how-its-ai-services-are-helping-endangered-species/
 cdnAmpUrl: https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-explains-how-its-ai-services-are-helping-endangered-species/
 type: article
-quality: 74
-score: 74
+quality: 63
+score: 63
 published: true
 
 provider:

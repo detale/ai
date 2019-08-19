@@ -7,9 +7,9 @@ sourceUrl: https://tech.economictimes.indiatimes.com/news/corporate/tata-elxsi-s
 ampUrl: https://tech.economictimes.indiatimes.com/amp/news/corporate/tata-elxsi-slows-work-on-driverless-car-tech/70561666
 cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/corporate/tata-elxsi-slows-work-on-driverless-car-tech/70561666
 type: article
-quality: 58
-score: 58
-published: true
+quality: 48
+score: 48
+published: false
 
 provider:
   name: India Times

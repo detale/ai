@@ -5,8 +5,8 @@ abstract: "Now users can accelerate their model on the Edge TPU when using the T
 publishedDateTime: 2019-08-07T16:07:00Z
 sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-circleci-announces-windows-support-google-coral-summer-updates-and-dotdata-improvements/
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

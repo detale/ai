@@ -7,8 +7,8 @@ sourceUrl: https://timesofindia.indiatimes.com/city/nagpur/deep-learning-ai-may-
 ampUrl: https://m.timesofindia.com/city/nagpur/deep-learning-ai-may-identify-atrial-fibrillation-from-a-normal-rhythm-ecg/amp_articleshow/70568995.cms
 cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/nagpur/deep-learning-ai-may-identify-atrial-fibrillation-from-a-normal-rhythm-ecg/amp_articleshow/70568995.cms
 type: article
-quality: 74
-score: 74
+quality: 63
+score: 63
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "... innovation with Microsoft including Artificial Intelligence (AI)-
 publishedDateTime: 2019-07-11T13:17:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/icertis-sweeps-2019-microsoft-partner-of-the-year-with-three-top-awards-300883224.html
 type: article
-quality: 12
-score: 12
+quality: 1
+score: 1
 published: false
 
 provider:

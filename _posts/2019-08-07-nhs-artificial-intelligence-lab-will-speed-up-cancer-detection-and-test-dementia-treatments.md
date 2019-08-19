@@ -5,8 +5,8 @@ abstract: "A National Artificial Intelligence Lab will be created to speed up ca
 publishedDateTime: 2019-08-08T02:00:00Z
 sourceUrl: https://www.msn.com/en-gb/money/technology/nhs-artificial-intelligence-lab-will-speed-up-cancer-detection-and-test-dementia-treatments/ar-AAFuk3E
 type: article
-quality: 32
-score: 32
+quality: 22
+score: 22
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://nypost.com/2019/08/05/facial-recognition-leads-cops-to-allege
 ampUrl: https://nypost.com/2019/08/05/facial-recognition-leads-cops-to-alleged-rapist-in-under-24-hours/amp/
 cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2019/08/05/facial-recognition-leads-cops-to-alleged-rapist-in-under-24-hours/amp/
 type: article
-quality: 37
-score: 37
+quality: 26
+score: 26
 published: false
 
 provider:

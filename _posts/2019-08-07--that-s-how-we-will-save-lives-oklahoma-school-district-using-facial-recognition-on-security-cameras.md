@@ -5,8 +5,8 @@ abstract: "OKLAHOMA CITY — This is the last full week of summer for many famil
 publishedDateTime: 2019-08-08T00:14:00Z
 sourceUrl: https://www.msn.com/en-us/news/us/%E2%80%9Cthat%E2%80%99s-how-we-will-save-lives%E2%80%9D-oklahoma-school-district-using-facial-recognition-on-security-cameras/ar-AAFrY0r
 type: article
-quality: 19
-score: 19
+quality: 9
+score: 9
 published: false
 
 provider:

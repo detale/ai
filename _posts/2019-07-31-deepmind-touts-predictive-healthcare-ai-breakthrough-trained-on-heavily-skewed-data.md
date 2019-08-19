@@ -7,8 +7,8 @@ sourceUrl: https://techcrunch.com/2019/07/31/deepmind-touts-predictive-healthcar
 ampUrl: https://techcrunch.com/2019/07/31/deepmind-touts-predictive-healthcare-ai-breakthrough-trained-on-heavily-skewed-data/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/07/31/deepmind-touts-predictive-healthcare-ai-breakthrough-trained-on-heavily-skewed-data/amp/
 type: article
-quality: 87
-score: 87
+quality: 76
+score: 76
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "If you’re a glass-half-full kind of person, you may view artificial
 publishedDateTime: 2019-08-06T18:08:00Z
 sourceUrl: https://www.healthdatamanagement.com/opinion/nlp-deep-learning-and-the-problems-of-explainability-and-bias-in-ai
 type: article
-quality: 33
-score: 33
+quality: 22
+score: 22
 published: false
 
 provider:

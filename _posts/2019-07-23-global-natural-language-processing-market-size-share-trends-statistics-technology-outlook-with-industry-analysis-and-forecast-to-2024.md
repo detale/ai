@@ -5,8 +5,8 @@ abstract: "The Natural Language Processing Market is expected to register a CAGR
 publishedDateTime: 2019-07-23T07:30:00Z
 sourceUrl: https://www.reuters.com/brandfeatures/venture-capital/article?id=136321
 type: article
-quality: 54
-score: 54
+quality: 43
+score: 43
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "deal tracker and advancements in artificial intelligence Cerner Corpo
 publishedDateTime: 2019-08-01T17:48:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-cerner-announces-collaboration-with-aws-to-accelerate-healthcare-and-ibm-transforms-software-portfolio-to-be-cloud-native-2019-08-01
 type: article
-quality: 48
-score: 48
+quality: 37
+score: 37
 published: false
 
 provider:

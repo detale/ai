@@ -7,8 +7,8 @@ sourceUrl: https://tech.economictimes.indiatimes.com/news/technology/let-artific
 ampUrl: https://tech.economictimes.indiatimes.com/amp/news/technology/let-artificial-intelligence-do-the-health-check/70491064
 cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/technology/let-artificial-intelligence-do-the-health-check/70491064
 type: article
-quality: 68
-score: 68
+quality: 58
+score: 58
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "AI once occupied that \"fascinating-but-far-off\" thematic market sec
 publishedDateTime: 2019-07-26T19:19:00Z
 sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-stocks-10-best-181036669.html
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

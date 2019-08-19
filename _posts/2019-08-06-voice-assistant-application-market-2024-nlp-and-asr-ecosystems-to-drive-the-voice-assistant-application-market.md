@@ -5,8 +5,8 @@ abstract: "With the advancement in Natural Language Processing (NLP), Automatic 
 publishedDateTime: 2019-08-06T17:15:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/voice-assistant-application-market-2024-nlp-and-asr-ecosystems-to-drive-the-voice-assistant-application-market-1028423258
 type: article
-quality: 43
-score: 43
+quality: 32
+score: 32
 published: false
 
 provider:

@@ -5,9 +5,9 @@ abstract: "Our mission has always been to make TensorFlow accessible to everyone
 publishedDateTime: 2019-08-06T07:05:00Z
 sourceUrl: https://medium.com/tensorflow/the-tensorflow-website-is-now-available-in-simplified-chinese-japanese-and-korean-4f38231506b
 type: article
-quality: 57
-score: 57
-published: true
+quality: 47
+score: 47
+published: false
 
 provider:
   name: Medium

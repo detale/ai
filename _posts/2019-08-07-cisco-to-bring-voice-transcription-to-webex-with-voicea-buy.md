@@ -7,8 +7,8 @@ sourceUrl: https://www.computerworld.com/article/3430717/cisco-to-bring-voice-tr
 ampUrl: https://www.computerworld.com/article/3430717/cisco-to-bring-voice-transcription-to-webex-with-voicea-buy.amp.html
 cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3430717/cisco-to-bring-voice-transcription-to-webex-with-voicea-buy.amp.html
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

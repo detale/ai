@@ -7,8 +7,8 @@ sourceUrl: https://yourstory.com/2019/07/artificial-intelligence-microsoft-elon-
 ampUrl: https://yourstory.com/2019/07/artificial-intelligence-microsoft-elon-musk-openai-funding/amp
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/07/artificial-intelligence-microsoft-elon-musk-openai-funding/amp
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

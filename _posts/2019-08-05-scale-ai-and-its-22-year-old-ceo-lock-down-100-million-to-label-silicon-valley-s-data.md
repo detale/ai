@@ -7,8 +7,8 @@ sourceUrl: https://techcrunch.com/2019/08/05/scale-ai-and-its-22-year-old-ceo-lo
 ampUrl: https://techcrunch.com/2019/08/05/scale-ai-and-its-22-year-old-ceo-lock-down-100-million-to-help-label-silicon-valleys-data/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/08/05/scale-ai-and-its-22-year-old-ceo-lock-down-100-million-to-help-label-silicon-valleys-data/amp/
 type: article
-quality: 42
-score: 42
+quality: 32
+score: 32
 published: false
 
 provider:

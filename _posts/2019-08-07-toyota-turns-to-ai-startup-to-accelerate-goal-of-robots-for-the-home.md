@@ -5,8 +5,8 @@ abstract: "The two firms have already been collaborating on driverless vehicles 
 publishedDateTime: 2019-08-07T07:31:00Z
 sourceUrl: https://finance.yahoo.com/news/toyota-turns-ai-startup-accelerate-070918126.html?soc_src=hl-viewer&soc_trk=tw
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

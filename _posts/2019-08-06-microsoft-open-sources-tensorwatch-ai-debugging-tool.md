@@ -5,8 +5,8 @@ abstract: "Microsoft Research open-sourced TensorWatch, their debugging tool for
 publishedDateTime: 2019-08-06T13:10:00Z
 sourceUrl: https://www.infoq.com/news/2019/08/microsoft-open-sources-ai-tool/
 type: article
-quality: 18
-score: 18
+quality: 7
+score: 7
 published: false
 
 provider:

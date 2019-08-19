@@ -5,8 +5,8 @@ abstract: "Air Force F-35s and F-15EX Fighters Could Fly with This 'Robot Wingma
 publishedDateTime: 2019-08-08T01:11:00Z
 sourceUrl: https://nationalinterest.org/blog/buzz/air-force-f-35s-and-f-15ex-fighters-could-fly-robot-wingman-72071
 type: article
-quality: 24
-score: 24
+quality: 14
+score: 14
 published: false
 
 provider:

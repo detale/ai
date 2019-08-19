@@ -5,8 +5,8 @@ abstract: "A new market study, titled “Global Statistical Natural Language Pro
 publishedDateTime: 2019-08-02T01:52:00Z
 sourceUrl: https://www.einpresswire.com/article/492328126/global-statistical-natural-language-processing-market-2025-dynamics-innovations-emerging-technology-and-applications
 type: article
-quality: 43
-score: 43
+quality: 33
+score: 33
 published: false
 
 provider:

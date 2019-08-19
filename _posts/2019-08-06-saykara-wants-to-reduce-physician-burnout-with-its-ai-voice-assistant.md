@@ -5,8 +5,8 @@ abstract: "Seattle-based startup Saykara was founded to ease the documentation p
 publishedDateTime: 2019-08-07T00:07:00Z
 sourceUrl: https://medcitynews.com/2019/08/saykara-wants-to-reduce-physician-burnout-with-its-ai-voice-assistant/?_hsenc=p2ANqtz-_5itYXqCFidRV41S5ragehNAjjBpUOrmF9Vj1ah6GJzLnoknoRcsC7EWNj3T4POXCL7PMSaM6_jQoCp5XWFHI8tIiRdQ&_hsmi=75438765
 type: article
-quality: 23
-score: 23
+quality: 13
+score: 13
 published: false
 
 provider:

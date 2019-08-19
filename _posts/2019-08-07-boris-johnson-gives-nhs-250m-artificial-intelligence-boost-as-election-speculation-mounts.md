@@ -5,8 +5,8 @@ abstract: "The Prime Minister said the funding would be aimed at \"freeing up st
 publishedDateTime: 2019-08-08T06:36:00Z
 sourceUrl: https://www.politicshome.com/news/uk/health-and-care/nhs/news/105808/boris-johnson-gives-nhs-%C2%A3250m-artificial-intelligence-boost
 type: article
-quality: 32
-score: 37
+quality: 22
+score: 27
 published: false
 
 provider:

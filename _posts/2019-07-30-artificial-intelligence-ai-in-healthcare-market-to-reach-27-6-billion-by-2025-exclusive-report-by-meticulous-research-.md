@@ -5,8 +5,8 @@ abstract: "London, July 30, 2019 (GLOBE NEWSWIRE) -- According to a new market r
 publishedDateTime: 2019-07-30T14:38:00Z
 sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-ai-healthcare-market-133337109.html
 type: article
-quality: 61
-score: 61
+quality: 50
+score: 50
 published: true
 
 provider:

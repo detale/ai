@@ -5,8 +5,8 @@ abstract: "“Another notable enhancement is support of Deep Learning frameworks
 publishedDateTime: 2019-08-07T01:00:00Z
 sourceUrl: https://www.japantimes.co.jp/n2u/2019/08/07/dotdata-releases-updates-to-its-dotdata-enterprise-and-dotdatapydata-science-acceleration-platforms-enhancing-feature-engineering-and-automl-capabilities/
 type: article
-quality: 23
-score: 28
+quality: 13
+score: 18
 published: false
 
 provider:

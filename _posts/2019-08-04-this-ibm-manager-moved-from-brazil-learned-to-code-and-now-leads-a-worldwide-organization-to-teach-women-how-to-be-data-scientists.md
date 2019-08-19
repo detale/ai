@@ -7,8 +7,8 @@ sourceUrl: https://www.businessinsider.com/gabriela-de-queiroz-ibm-manager-r-lad
 ampUrl: https://amp.businessinsider.com/gabriela-de-queiroz-ibm-manager-r-ladies-meetup-2019-8
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/gabriela-de-queiroz-ibm-manager-r-ladies-meetup-2019-8
 type: article
-quality: 61
-score: 61
+quality: 50
+score: 50
 published: true
 
 provider:

@@ -5,8 +5,8 @@ abstract: "(MENAFN - iCrowdNewsWire) The report, at first, has given a brief und
 publishedDateTime: 2019-08-08T05:22:00Z
 sourceUrl: https://menafn.com/1098858059/Machine-Learning-in-Retail-Market-2019-Global-Share-Trends-Segmentation-Analysis-and-Forecast-to-2024?src=Rss
 type: article
-quality: 34
-score: 34
+quality: 24
+score: 24
 published: false
 
 provider:

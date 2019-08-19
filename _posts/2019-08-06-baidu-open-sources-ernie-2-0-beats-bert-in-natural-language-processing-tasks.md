@@ -5,8 +5,8 @@ abstract: "Trisha Gee talks about how to be a fully buzzword compliant developer
 publishedDateTime: 2019-08-06T10:25:00Z
 sourceUrl: https://www.infoq.com/news/2019/08/Baidu-OpenSources-ERNIE/
 type: article
-quality: 68
-score: 68
+quality: 57
+score: 57
 published: true
 
 provider:

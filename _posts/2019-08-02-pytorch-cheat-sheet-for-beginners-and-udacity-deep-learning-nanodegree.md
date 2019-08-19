@@ -5,8 +5,8 @@ abstract: "Getting started with Pytorch using a cohesive, top down approach chea
 publishedDateTime: 2019-08-02T16:04:00Z
 sourceUrl: https://www.kdnuggets.com/2019/08/pytorch-cheat-sheet-beginners.html
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

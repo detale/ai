@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/08/07/this-is-the-samsung-galaxy-note10-
 ampUrl: https://venturebeat.com/2019/08/07/this-is-the-samsung-galaxy-note10-note10-and-note10-5g/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/08/07/this-is-the-samsung-galaxy-note10-note10-and-note10-5g/amp/
 type: article
-quality: 64
-score: 64
+quality: 53
+score: 53
 published: true
 
 provider:

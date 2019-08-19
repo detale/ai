@@ -5,8 +5,8 @@ abstract: "DUBLIN, August 6, 2019 /PRNewswire-PRWeb/ -- Vistatec has been announ
 publishedDateTime: 2019-08-06T14:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/vistatec-to-sponsor-the-machine-translation-summit-2019-1028422694
 type: article
-quality: 73
-score: 73
+quality: 62
+score: 62
 published: true
 
 provider:

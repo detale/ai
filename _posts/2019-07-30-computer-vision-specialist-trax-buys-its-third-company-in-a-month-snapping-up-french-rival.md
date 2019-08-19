@@ -7,8 +7,8 @@ sourceUrl: https://www.cbronline.com/news/trax-planorama
 ampUrl: https://www.cbronline.com/news/trax-planorama/amp/
 cdnAmpUrl: https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/trax-planorama/amp/
 type: article
-quality: 66
-score: 66
+quality: 55
+score: 55
 published: true
 
 provider:

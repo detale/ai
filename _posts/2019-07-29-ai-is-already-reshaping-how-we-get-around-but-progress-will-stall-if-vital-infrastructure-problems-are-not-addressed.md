@@ -5,8 +5,8 @@ abstract: "Traffic management, shipping, and logistics are among the areas with 
 publishedDateTime: 2019-07-29T17:24:00Z
 sourceUrl: https://www.businessinsider.com/artificial-intelligence-is-reshaping-transportation-but-infrastructure-investment-is-needed-to-secure-its-future-2019-7
 type: article
-quality: 15
-score: 15
+quality: 4
+score: 4
 published: false
 
 provider:

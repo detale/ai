@@ -5,8 +5,8 @@ abstract: "RealNetworks has reported revenue of $44.2 million for the second qua
 publishedDateTime: 2019-08-07T18:05:00Z
 sourceUrl: https://www.biometricupdate.com/201908/safr-rollout-buoys-realnetworks-q2-results-amid-broadening-facial-recognition-application
 type: article
-quality: 39
-score: 39
+quality: 28
+score: 28
 published: false
 
 provider:

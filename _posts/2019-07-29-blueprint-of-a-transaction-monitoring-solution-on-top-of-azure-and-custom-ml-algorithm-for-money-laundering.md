@@ -5,8 +5,8 @@ abstract: "Azure Stream Analytics is allowing us to connect it to Azure Machine 
 publishedDateTime: 2019-07-29T17:32:00Z
 sourceUrl: https://medium.com/@vunvulear/blueprint-of-a-transaction-monitoring-solution-on-top-of-azure-and-custom-ml-algorithm-for-money-82fb44d26b4
 type: article
-quality: 30
-score: 30
+quality: 19
+score: 19
 published: false
 
 provider:

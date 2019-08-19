@@ -5,8 +5,8 @@ abstract: "Global deep learning market is relied upon to observe significant dev
 publishedDateTime: 2019-08-01T15:41:00Z
 sourceUrl: https://marketersmedia.com/deep-learning-2019-global-market-opportunities-challenges-strategies-forecasts-2023/88903286
 type: article
-quality: 48
-score: 48
+quality: 37
+score: 37
 published: false
 
 provider:

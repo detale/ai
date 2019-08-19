@@ -5,9 +5,9 @@ abstract: "Aug 06, 2019 (HTF Market Intelligence via COMTEX) -- Global Machine T
 publishedDateTime: 2019-08-06T17:15:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-mt-market-is-thriving-worldwide-apptek-asia-online-cloudwords-ibm-lighthouse-ip-group-lingo24-2019-08-06
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: MarketWatch

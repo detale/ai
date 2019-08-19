@@ -7,8 +7,8 @@ sourceUrl: https://www.ft.com/content/8233a7ee-aed3-11e9-8030-530adfa879c2
 ampUrl: https://amp.ft.com/content/8233a7ee-aed3-11e9-8030-530adfa879c2
 cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8233a7ee-aed3-11e9-8030-530adfa879c2
 type: article
-quality: 71
-score: 71
+quality: 60
+score: 60
 published: false
 
 provider:

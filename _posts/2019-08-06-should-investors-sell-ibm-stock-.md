@@ -5,8 +5,8 @@ abstract: "Cloud & Cognitive Software, which includes cloud and data platforms, 
 publishedDateTime: 2019-08-06T13:49:00Z
 sourceUrl: https://www.msn.com/en-us/money/topstocks/should-investors-sell-ibm-stock/ar-AAFqfUF
 type: article
-quality: 23
-score: 23
+quality: 12
+score: 12
 published: false
 
 provider:

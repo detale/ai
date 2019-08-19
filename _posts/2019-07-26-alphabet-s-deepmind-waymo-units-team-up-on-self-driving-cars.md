@@ -5,9 +5,9 @@ abstract: "Two Alphabet divisions, DeepMind and Waymo, are working together to u
 publishedDateTime: 2019-07-26T21:42:00Z
 sourceUrl: https://www.theinformation.com/briefings/b30a5e
 type: article
-quality: 52
-score: 52
-published: true
+quality: 41
+score: 41
+published: false
 
 provider:
   name: The Information

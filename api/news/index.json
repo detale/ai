@@ -1,4 +1,5 @@
 ---
 layout: news_api
 page: 1
+minimum_score: 70
 ---

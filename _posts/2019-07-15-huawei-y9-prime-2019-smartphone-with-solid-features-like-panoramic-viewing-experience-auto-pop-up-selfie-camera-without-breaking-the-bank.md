@@ -7,8 +7,8 @@ sourceUrl: https://dailypost.ng/2019/07/15/huawei-y9-prime-2019-smartphone-solid
 ampUrl: https://dailypost.ng/2019/07/15/huawei-y9-prime-2019-smartphone-solid-features-like-panoramic-viewing-experience-auto-pop-selfie-camera-without-breaking-bank/amp/
 cdnAmpUrl: https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2019/07/15/huawei-y9-prime-2019-smartphone-solid-features-like-panoramic-viewing-experience-auto-pop-selfie-camera-without-breaking-bank/amp/
 type: article
-quality: 35
-score: 35
+quality: 25
+score: 25
 published: false
 
 provider:

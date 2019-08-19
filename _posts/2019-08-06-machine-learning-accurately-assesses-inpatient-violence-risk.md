@@ -5,9 +5,9 @@ abstract: "August 06, 2019 - Training machine learning techniques on internal da
 publishedDateTime: 2019-08-06T14:15:00Z
 sourceUrl: https://healthitanalytics.com/news/machine-learning-accurately-assesses-inpatient-violence-risk
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: Analytics

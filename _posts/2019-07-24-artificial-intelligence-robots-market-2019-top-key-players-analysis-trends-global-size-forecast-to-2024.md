@@ -5,8 +5,8 @@ abstract: "Jul 24, 2019 (Heraldkeepers) -- New York, July 24, 2019: Artificial i
 publishedDateTime: 2019-07-24T12:01:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2019top-key-players-analysis-trends-global-size-forecast-to-2024-2019-07-24
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

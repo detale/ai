@@ -5,8 +5,8 @@ abstract: "intelligence sharing and the use of artificial intelligence software,
 publishedDateTime: 2019-08-02T01:07:00Z
 sourceUrl: https://siliconangle.com/2019/08/01/pentagon-orders-review-jedi-cloud-deal-expected-go-aws/
 type: article
-quality: 33
-score: 33
+quality: 23
+score: 23
 published: false
 
 provider:

@@ -7,9 +7,9 @@ sourceUrl: https://dailytimes.com.pk/442732/computational-linguistics-resources-
 ampUrl: https://dailytimes.com.pk/442732/computational-linguistics-resources-for-sindhi-language/amp/
 cdnAmpUrl: https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/442732/computational-linguistics-resources-for-sindhi-language/amp/
 type: article
-quality: 56
-score: 56
-published: true
+quality: 45
+score: 45
+published: false
 
 provider:
   name: Daily Times

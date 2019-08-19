@@ -7,8 +7,8 @@ sourceUrl: https://nextshark.com/scale-ai-silicon-valley/
 ampUrl: https://nextshark.com/scale-ai-silicon-valley/amp/
 cdnAmpUrl: https://nextshark-com.cdn.ampproject.org/c/s/nextshark.com/scale-ai-silicon-valley/amp/
 type: article
-quality: 43
-score: 48
+quality: 32
+score: 37
 published: false
 
 provider:

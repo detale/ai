@@ -5,8 +5,8 @@ abstract: "Many companies developing artificial intelligence software for health
 publishedDateTime: 2019-08-07T17:16:00Z
 sourceUrl: https://xconomy.com/wisconsin/2019/08/07/aiq-solutions-hits-on-3-2m-to-pinpoint-drug-resistant-tumors/
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

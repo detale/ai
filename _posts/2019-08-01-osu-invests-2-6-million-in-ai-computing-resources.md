@@ -5,8 +5,8 @@ abstract: "Oregon State University’s College of Engineering is accelerating it
 publishedDateTime: 2019-08-01T17:55:00Z
 sourceUrl: https://insidehpc.com/2019/08/osu-invests-2-6-million-in-ai-computing-resources/
 type: article
-quality: 18
-score: 18
+quality: 7
+score: 7
 published: false
 
 provider:

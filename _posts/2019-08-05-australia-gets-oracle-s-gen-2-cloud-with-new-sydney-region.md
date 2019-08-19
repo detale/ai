@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/australia-gets-oracles-gen-2-cloud-with
 ampUrl: https://www.zdnet.com/google-amp/article/australia-gets-oracles-gen-2-cloud-with-new-sydney-region/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-gets-oracles-gen-2-cloud-with-new-sydney-region/
 type: article
-quality: 42
-score: 42
+quality: 32
+score: 32
 published: false
 
 provider:

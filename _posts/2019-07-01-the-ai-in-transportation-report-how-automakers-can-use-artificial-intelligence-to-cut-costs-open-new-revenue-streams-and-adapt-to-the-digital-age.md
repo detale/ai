@@ -7,8 +7,8 @@ sourceUrl: https://www.businessinsider.in/THE-AI-IN-TRANSPORTATION-REPORT-How-au
 ampUrl: https://www.businessinsider.in/the-ai-in-transportation-report-how-automakers-can-use-artificial-intelligence-to-cut-costs-open-new-revenue-streams-and-adapt-to-the-digital-age/amp_articleshow/70547859.cms
 cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/the-ai-in-transportation-report-how-automakers-can-use-artificial-intelligence-to-cut-costs-open-new-revenue-streams-and-adapt-to-the-digital-age/amp_articleshow/70547859.cms
 type: article
-quality: 37
-score: 37
+quality: 27
+score: 27
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/oracle/2019/07/17/supercomputer-innovati
 ampUrl: https://www.forbes.com/sites/oracle/2019/07/17/supercomputer-innovations-open-science-engineering-frontiers/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2019/07/17/supercomputer-innovations-open-science-engineering-frontiers/amp/
 type: article
-quality: 43
-score: 43
+quality: 32
+score: 32
 published: false
 
 provider:

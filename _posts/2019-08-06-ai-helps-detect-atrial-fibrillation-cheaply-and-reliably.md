@@ -7,8 +7,8 @@ sourceUrl: https://www.news-medical.net/news/20190806/AI-helps-detect-atrial-fib
 ampUrl: https://www.news-medical.net/amp/news/20190806/AI-helps-detect-atrial-fibrillation-cheaply-and-reliably.aspx
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20190806/AI-helps-detect-atrial-fibrillation-cheaply-and-reliably.aspx
 type: article
-quality: 43
-score: 43
+quality: 32
+score: 32
 published: false
 
 provider:

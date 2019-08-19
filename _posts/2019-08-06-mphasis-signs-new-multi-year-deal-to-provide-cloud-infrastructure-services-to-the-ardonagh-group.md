@@ -5,8 +5,8 @@ abstract: "NEW YORK, Aug. 6, 2019 /PRNewswire/ -- Mphasis (BSE: 526299; NSE: MPH
 publishedDateTime: 2019-08-06T08:12:00Z
 sourceUrl: https://finance.yahoo.com/news/mphasis-signs-multi-deal-cloud-080000319.html
 type: article
-quality: 38
-score: 38
+quality: 27
+score: 27
 published: false
 
 provider:

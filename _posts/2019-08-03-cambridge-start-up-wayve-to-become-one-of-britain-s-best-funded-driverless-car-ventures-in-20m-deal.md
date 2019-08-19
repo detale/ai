@@ -7,9 +7,9 @@ sourceUrl: https://www.telegraph.co.uk/technology/2019/08/03/cambridge-start-up-
 ampUrl: https://www.telegraph.co.uk/technology/2019/08/03/cambridge-start-up-wayve-become-one-britains-best-funded-driverless/amp/
 cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/08/03/cambridge-start-up-wayve-become-one-britains-best-funded-driverless/amp/
 type: article
-quality: 55
-score: 55
-published: true
+quality: 44
+score: 44
+published: false
 
 provider:
   name: The Daily Telegraph

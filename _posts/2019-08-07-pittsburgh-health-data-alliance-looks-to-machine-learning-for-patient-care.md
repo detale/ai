@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/pittsburgh-health-data-alliance-looks-t
 ampUrl: https://www.zdnet.com/google-amp/article/pittsburgh-health-data-alliance-looks-to-machine-learning-for-patient-care/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pittsburgh-health-data-alliance-looks-to-machine-learning-for-patient-care/
 type: article
-quality: 74
-score: 84
+quality: 64
+score: 74
 published: true
 
 provider:

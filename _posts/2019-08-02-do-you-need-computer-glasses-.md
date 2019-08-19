@@ -7,9 +7,9 @@ sourceUrl: https://lifehacker.com/do-computer-glasses-really-work-5980509?ref=hv
 ampUrl: https://lifehacker.com/do-computer-glasses-really-work-5980509/amp
 cdnAmpUrl: https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/do-computer-glasses-really-work-5980509/amp
 type: article
-quality: 54
-score: 54
-published: true
+quality: 43
+score: 43
+published: false
 
 provider:
   name: Lifehacker

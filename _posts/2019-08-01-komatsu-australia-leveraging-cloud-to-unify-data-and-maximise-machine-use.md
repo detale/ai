@@ -7,9 +7,9 @@ sourceUrl: https://www.zdnet.com/article/komatsu-australia-leveraging-cloud-to-u
 ampUrl: https://www.zdnet.com/google-amp/article/komatsu-australia-leveraging-cloud-to-unify-data-and-maximise-machine-use/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/komatsu-australia-leveraging-cloud-to-unify-data-and-maximise-machine-use/
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: ZDNet

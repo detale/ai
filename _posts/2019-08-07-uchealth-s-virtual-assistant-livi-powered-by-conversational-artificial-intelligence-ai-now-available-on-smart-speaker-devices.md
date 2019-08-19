@@ -7,8 +7,8 @@ sourceUrl: https://www.benzinga.com/pressreleases/19/08/g14221968/uchealths-virt
 ampUrl: https://amp.benzinga.com/amp/content/14221968
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14221968
 type: article
-quality: 74
-score: 74
+quality: 63
+score: 63
 published: true
 
 provider:

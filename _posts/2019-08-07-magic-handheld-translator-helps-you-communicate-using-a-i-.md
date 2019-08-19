@@ -5,8 +5,8 @@ abstract: "The CM Translator is powered by AI technology from Microsoft Azure Co
 publishedDateTime: 2019-08-07T18:00:00Z
 sourceUrl: https://www.seattletimes.com/explore/magic-handheld-translator-helps-you-communicate-using-a-i/
 type: article
-quality: 24
-score: 24
+quality: 13
+score: 13
 published: false
 
 provider:

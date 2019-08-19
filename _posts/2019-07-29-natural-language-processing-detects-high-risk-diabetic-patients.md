@@ -5,8 +5,8 @@ abstract: "July 29, 2019 - Using natural language processing tools could help pr
 publishedDateTime: 2019-07-29T13:54:00Z
 sourceUrl: https://healthitanalytics.com/news/natural-language-processing-detects-high-risk-diabetic-patients
 type: article
-quality: 40
-score: 40
+quality: 29
+score: 29
 published: false
 
 provider:

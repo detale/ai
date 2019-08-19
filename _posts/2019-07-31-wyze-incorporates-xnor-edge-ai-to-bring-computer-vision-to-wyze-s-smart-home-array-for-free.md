@@ -5,8 +5,8 @@ abstract: "SEATTLE: Wyze Labs, Inc. is proud to announce its partnership with Xn
 publishedDateTime: 2019-07-31T12:40:00Z
 sourceUrl: https://www.newkerala.com/news/read/184544/wyze-incorporates-xnor-edge-ai-to-bring-computer-vision-to-wyzes-smart-home-array-for-free.html
 type: article
-quality: 27
-score: 27
+quality: 16
+score: 16
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "Aptiv is also doing innovative testing inside driverless vehicles. Ea
 publishedDateTime: 2019-08-06T11:00:00Z
 sourceUrl: https://news.yahoo.com/apos-why-aptiv-no-brainer-110000740.html
 type: article
-quality: 43
-score: 43
+quality: 32
+score: 32
 published: false
 
 provider:

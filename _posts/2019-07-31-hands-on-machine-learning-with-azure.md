@@ -5,8 +5,8 @@ abstract: "Implementing Machine learning (ML) and Artificial Intelligence (AI) i
 publishedDateTime: 2019-07-31T14:56:00Z
 sourceUrl: https://www.sharepointeurope.com/ebooks/hands-on-machine-learning-with-azure/
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

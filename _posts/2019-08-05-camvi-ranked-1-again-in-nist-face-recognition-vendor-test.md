@@ -5,9 +5,9 @@ abstract: "Camvi's customers benefit from the unparalleled accuracy, speed and s
 publishedDateTime: 2019-08-05T12:55:00Z
 sourceUrl: https://www.finanzen.net/nachricht/aktien/camvi-ranked-1-again-in-nist-face-recognition-vendor-test-7826652
 type: article
-quality: 52
-score: 52
-published: true
+quality: 41
+score: 41
+published: false
 
 provider:
   name: Finanzen

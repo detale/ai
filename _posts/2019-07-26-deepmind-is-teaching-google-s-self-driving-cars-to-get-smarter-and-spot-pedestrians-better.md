@@ -7,8 +7,8 @@ sourceUrl: https://www.businessinsider.com/deepmind-is-teaching-googles-self-dri
 ampUrl: https://amp.businessinsider.com/deepmind-is-teaching-googles-self-driving-cars-to-get-smarter-2019-7
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/deepmind-is-teaching-googles-self-driving-cars-to-get-smarter-2019-7
 type: article
-quality: 99
-score: 99
+quality: 88
+score: 88
 published: true
 
 provider:

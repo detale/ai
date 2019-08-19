@@ -5,8 +5,8 @@ abstract: "Resilient robots: Advanced object recognition technology to detect UI
 publishedDateTime: 2019-07-16T10:26:00Z
 sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/micro-focus-introduces-new-rpa-product-ignites-enterprise-productivity/70244004
 type: article
-quality: 2
-score: 2
+quality: 0
+score: 0
 published: false
 
 provider:

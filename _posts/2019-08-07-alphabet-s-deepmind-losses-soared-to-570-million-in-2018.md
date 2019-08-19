@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/samshead/2019/08/07/deepmind-losses-soar
 ampUrl: https://www.forbes.com/sites/samshead/2019/08/07/deepmind-losses-soared-to-570-million-in-2018/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samshead/2019/08/07/deepmind-losses-soared-to-570-million-in-2018/amp/
 type: article
-quality: 79
-score: 79
+quality: 68
+score: 68
 published: true
 
 provider:

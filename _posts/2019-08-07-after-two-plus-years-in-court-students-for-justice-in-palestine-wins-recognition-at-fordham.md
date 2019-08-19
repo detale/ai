@@ -5,8 +5,8 @@ abstract: "That decision landed Fordham on FIRE’s 2017 list of America’s 10 
 publishedDateTime: 2019-08-07T21:05:00Z
 sourceUrl: https://www.thefire.org/after-two-plus-years-in-court-students-for-justice-in-palestine-wins-recognition-at-fordham/
 type: article
-quality: 39
-score: 39
+quality: 28
+score: 28
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "“Consulting partners are scaling up on machine learning. That means
 publishedDateTime: 2019-08-07T22:21:00Z
 sourceUrl: https://www.crn.com/aws-vp-old-fashioned-resellers-didn-t-truly-understand-cloud-
 type: article
-quality: 39
-score: 39
+quality: 28
+score: 28
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.theregister.co.uk/2019/07/12/loose_tongues_and_oily_seame
 ampUrl: https://www.theregister.co.uk/AMP/2019/07/12/loose_tongues_and_oily_seamen_lost_in_machine_translation_yet_again/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/07/12/loose_tongues_and_oily_seamen_lost_in_machine_translation_yet_again/
 type: article
-quality: 28
-score: 28
+quality: 17
+score: 17
 published: false
 
 provider:

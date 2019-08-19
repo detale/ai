@@ -5,9 +5,9 @@ abstract: "People excel at spotting patterns and making adjustments based on fee
 publishedDateTime: 2019-08-06T13:22:00Z
 sourceUrl: https://multichannelmerchant.com/operations/practical-machine-learning-how-data-optimize-inventory-forecasting/
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: Multichannel Merchant

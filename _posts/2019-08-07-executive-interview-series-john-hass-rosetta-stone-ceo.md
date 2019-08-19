@@ -5,8 +5,8 @@ abstract: "This can be as simple as providing you with reminders that help you r
 publishedDateTime: 2019-08-07T21:24:00Z
 sourceUrl: https://seekingalpha.com/article/4282854-executive-interview-series-john-hass-rosetta-stone-ceo
 type: article
-quality: 4
-score: 4
+quality: 0
+score: 0
 published: false
 
 provider:

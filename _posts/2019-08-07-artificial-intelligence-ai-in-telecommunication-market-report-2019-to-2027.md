@@ -5,8 +5,8 @@ abstract: "Aug 07, 2019 (The Expresswire) -- Artificial Intelligence (AI) In the
 publishedDateTime: 2019-08-07T21:53:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-telecommunication-market-report-2019-to-2027-2019-08-07
 type: article
-quality: 72
-score: 72
+quality: 61
+score: 61
 published: false
 
 provider:

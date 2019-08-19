@@ -5,8 +5,8 @@ abstract: "On the last day of January, few of the shoppers and office workers wh
 publishedDateTime: 2019-08-05T04:05:00Z
 sourceUrl: https://www.ozy.com/fast-forward/london-could-shape-the-future-of-facial-recognition/95951
 type: article
-quality: 36
-score: 36
+quality: 26
+score: 26
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.detroitnews.com/story/news/local/michigan/2019/08/08/mich
 ampUrl: https://amp.detroitnews.com/amp/1870327001
 cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/1870327001
 type: article
-quality: 44
-score: 44
+quality: 34
+score: 34
 published: false
 
 provider:

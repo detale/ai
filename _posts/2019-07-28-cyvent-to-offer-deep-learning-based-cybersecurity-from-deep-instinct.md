@@ -5,8 +5,8 @@ abstract: "CyVent, a boutique advisory firm and solutions provider for cybersecu
 publishedDateTime: 2019-07-28T23:38:00Z
 sourceUrl: https://www.helpnetsecurity.com/2019/07/29/cyvent-deep-instinct/
 type: article
-quality: 24
-score: 24
+quality: 14
+score: 14
 published: false
 
 provider:

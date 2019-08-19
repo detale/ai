@@ -7,9 +7,9 @@ sourceUrl: https://www.monitor.co.ug/Business/Auto/Driverless-cars-may-be-coming
 ampUrl: https://www.monitor.co.ug/Business/Auto/Driverless-cars-may-be-coming--but-let-s-not-get-carried-away/688614-5217908-view-asAMP-qg1eg3z/index.html
 cdnAmpUrl: https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/Business/Auto/Driverless-cars-may-be-coming--but-let-s-not-get-carried-away/688614-5217908-view-asAMP-qg1eg3z/index.html
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: Daily Monitor

@@ -5,9 +5,9 @@ abstract: "Artificial intelligence is already part of our daily lives and likely
 publishedDateTime: 2019-08-06T09:41:00Z
 sourceUrl: https://www.bbc.co.uk/programmes/m0007cmc
 type: article
-quality: 51
-score: 51
-published: true
+quality: 40
+score: 40
+published: false
 
 provider:
   name: BBC

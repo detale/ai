@@ -5,8 +5,8 @@ abstract: "Aug 05, 2019 (AB Digital via COMTEX) -- HTF MI recently introduced&nb
 publishedDateTime: 2019-08-05T12:29:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-status-and-forecast-opportunities-by-2023-2019-08-05
 type: article
-quality: 67
-score: 67
+quality: 56
+score: 56
 published: false
 
 provider:

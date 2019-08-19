@@ -5,9 +5,9 @@ abstract: "“What Azure Lab Services does is with minimal to no additional ... 
 publishedDateTime: 2019-08-06T21:17:00Z
 sourceUrl: https://www.itnews.com.au/news/edith-cowan-uni-to-move-computer-science-labs-onto-azure-529193
 type: article
-quality: 53
-score: 53
-published: true
+quality: 42
+score: 42
+published: false
 
 provider:
   name: IT News For Australia Business

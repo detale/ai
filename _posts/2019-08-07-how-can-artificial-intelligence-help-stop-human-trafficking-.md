@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/quora/2019/08/07/how-can-artificial-inte
 ampUrl: https://www.forbes.com/sites/quora/2019/08/07/how-can-artificial-intelligence-help-stop-human-trafficking/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2019/08/07/how-can-artificial-intelligence-help-stop-human-trafficking/amp/
 type: article
-quality: 92
-score: 92
+quality: 81
+score: 81
 published: true
 
 provider:

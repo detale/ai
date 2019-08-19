@@ -7,8 +7,8 @@ sourceUrl: https://observer.com/2019/08/tesla-self-driving-cars-update-andrej-ka
 ampUrl: https://observer.com/2019/08/tesla-self-driving-cars-update-andrej-karpathy-ai-director/amp/
 cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2019/08/tesla-self-driving-cars-update-andrej-karpathy-ai-director/amp/
 type: article
-quality: 49
-score: 49
+quality: 38
+score: 38
 published: false
 
 provider:

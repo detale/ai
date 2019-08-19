@@ -7,9 +7,9 @@ sourceUrl: https://www.retailtouchpoints.com/features/financial-news/computer-vi
 ampUrl: https://www.retailtouchpoints.com/features/financial-news/computer-vision-provider-acquires-image-recognition-service-raises-100-million/amp
 cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/financial-news/computer-vision-provider-acquires-image-recognition-service-raises-100-million/amp
 type: article
-quality: 60
-score: 60
-published: true
+quality: 49
+score: 49
+published: false
 
 provider:
   name: Retail TouchPoints

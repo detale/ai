@@ -7,9 +7,9 @@ sourceUrl: https://www.telegraph.co.uk/technology/2019/08/07/deepmind-losses-mou
 ampUrl: https://www.telegraph.co.uk/technology/2019/08/07/deepmind-losses-mount-google-spends-heavily-win-ai-arms-race/amp/
 cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/08/07/deepmind-losses-mount-google-spends-heavily-win-ai-arms-race/amp/
 type: article
-quality: 59
-score: 59
-published: true
+quality: 48
+score: 48
+published: false
 
 provider:
   name: The Daily Telegraph

@@ -5,9 +5,9 @@ abstract: "Artificial intelligence (AI) can detect signs of existing or emerging
 publishedDateTime: 2019-08-02T18:08:00Z
 sourceUrl: https://www.tctmd.com/news/normal-ecg-artificial-intelligence-disagrees-spots-signs-fib
 type: article
-quality: 51
-score: 51
-published: true
+quality: 40
+score: 40
+published: false
 
 provider:
   name: TCTMD

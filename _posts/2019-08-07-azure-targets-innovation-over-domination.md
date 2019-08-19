@@ -5,8 +5,8 @@ abstract: "Last December, the company launched Azure Machine Learning Services a
 publishedDateTime: 2019-08-07T15:56:00Z
 sourceUrl: https://sdtimes.com/cloud/azure-targets-innovation-over-domination/
 type: article
-quality: 39
-score: 39
+quality: 28
+score: 28
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "APIs like Microsoft’s Azure Cognitive Services are one way to do th
 publishedDateTime: 2019-08-06T10:04:00Z
 sourceUrl: https://www.infoworld.com/article/3429650/get-started-with-ai-using-mlnet-and-model-builder.html
 type: article
-quality: 45
-score: 45
+quality: 34
+score: 34
 published: false
 
 provider:

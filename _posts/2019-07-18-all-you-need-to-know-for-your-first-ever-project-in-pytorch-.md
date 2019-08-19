@@ -5,8 +5,8 @@ abstract: "If you have to deal with tensors, build models which are complex enou
 publishedDateTime: 2019-07-18T16:38:00Z
 sourceUrl: https://medium.com/@nikhilamunipalli/starter-pack-for-deep-learning-in-pytorch-for-extreme-beginners-by-a-beginner-330f3fdefcc4
 type: article
-quality: 39
-score: 39
+quality: 28
+score: 28
 published: false
 
 provider:

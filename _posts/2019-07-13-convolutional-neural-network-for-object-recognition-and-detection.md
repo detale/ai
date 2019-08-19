@@ -5,8 +5,8 @@ abstract: "Are there any object that we want to detect in the image? If yes, dra
 publishedDateTime: 2019-07-13T07:43:00Z
 sourceUrl: https://medium.com/@ringlayer/convolutional-neural-network-for-object-recognition-and-detection-126a22af8975
 type: article
-quality: 44
-score: 44
+quality: 33
+score: 33
 published: false
 
 provider:

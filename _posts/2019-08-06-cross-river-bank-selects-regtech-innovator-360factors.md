@@ -7,9 +7,9 @@ sourceUrl: https://finance.yahoo.com/news/cross-river-bank-selects-regtech-14130
 ampUrl: https://finance.yahoo.com/amphtml/news/cross-river-bank-selects-regtech-141300042.html
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/cross-river-bank-selects-regtech-141300042.html
 type: article
-quality: 58
-score: 58
-published: true
+quality: 47
+score: 47
+published: false
 
 provider:
   name: YAHOO! News

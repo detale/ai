@@ -5,8 +5,8 @@ abstract: "“It really comes from the same place,” AWS general manager for Ar
 publishedDateTime: 2019-07-31T16:03:00Z
 sourceUrl: https://techcrunch.com/2019/07/31/why-aws-is-building-tiny-ai-race-cars-to-teach-machine-learning/
 type: article
-quality: 82
-score: 82
+quality: 71
+score: 71
 published: true
 
 provider:

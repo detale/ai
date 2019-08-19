@@ -7,9 +7,9 @@ sourceUrl: https://www.neowin.net/news/microsoft-details-its-role-in-transformin
 ampUrl: https://www.neowin.net/amp/microsoft-details-its-role-in-transforming-agriculture-through-ai/
 cdnAmpUrl: https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-details-its-role-in-transforming-agriculture-through-ai/
 type: article
-quality: 59
-score: 59
-published: true
+quality: 48
+score: 48
+published: false
 
 provider:
   name: Neowin

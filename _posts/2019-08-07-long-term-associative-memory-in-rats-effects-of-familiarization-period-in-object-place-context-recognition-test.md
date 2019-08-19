@@ -5,9 +5,9 @@ abstract: "Spontaneous recognition tests take advantage of innate exploratory be
 publishedDateTime: 2019-08-08T00:16:00Z
 sourceUrl: https://www.biorxiv.org/content/10.1101/728295v1
 type: article
-quality: 54
-score: 54
-published: true
+quality: 44
+score: 44
+published: false
 
 provider:
   name: bioRxiv

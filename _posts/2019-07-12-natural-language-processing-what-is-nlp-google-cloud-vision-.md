@@ -5,9 +5,9 @@ abstract: "Natural language processing (NLP), which is the combination of machin
 publishedDateTime: 2019-07-12T14:28:00Z
 sourceUrl: https://medium.com/kageera/natural-language-processing-what-is-nlp-google-cloud-vision-43b42e416f92
 type: article
-quality: 58
-score: 58
-published: true
+quality: 47
+score: 47
+published: false
 
 provider:
   name: Medium

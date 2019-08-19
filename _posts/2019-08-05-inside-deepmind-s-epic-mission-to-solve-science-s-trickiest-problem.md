@@ -5,8 +5,8 @@ abstract: "Demis Hassabis – former child chess prodigy, recipient of a double 
 publishedDateTime: 2019-08-06T05:14:00Z
 sourceUrl: https://www.wired.co.uk/article/deepmind-protein-folding
 type: article
-quality: 37
-score: 37
+quality: 27
+score: 27
 published: false
 
 provider:

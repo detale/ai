@@ -5,8 +5,8 @@ abstract: "Learn about the driving factors, affecting the market growth. Imbibe 
 publishedDateTime: 2019-07-11T07:59:00Z
 sourceUrl: https://menafn.com/1098746179/Farfield-Speech-and-Voice-recognition-Market-Size-Share-Demand-Trend-Latest-InnovationsApplication-Analysis-and-Industry-Growth-Forecast-2027?src=Rss
 type: article
-quality: 7
-score: 7
+quality: 0
+score: 0
 published: false
 
 provider:

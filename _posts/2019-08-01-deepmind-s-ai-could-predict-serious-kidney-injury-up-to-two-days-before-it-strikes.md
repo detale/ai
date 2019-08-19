@@ -7,9 +7,9 @@ sourceUrl: https://www.azfamily.com/news/us_world_news/deepmind-s-ai-could-predi
 ampUrl: https://www.azfamily.com/news/us_world_news/deepmind-s-ai-could-predict-serious-kidney-injury-up-to/article_2d001530-3165-52b2-a79b-b628832cd68a.amp.html
 cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/deepmind-s-ai-could-predict-serious-kidney-injury-up-to/article_2d001530-3165-52b2-a79b-b628832cd68a.amp.html
 type: article
-quality: 53
-score: 53
-published: true
+quality: 43
+score: 43
+published: false
 
 provider:
   name: AZFamily

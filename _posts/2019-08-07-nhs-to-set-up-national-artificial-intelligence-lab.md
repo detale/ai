@@ -7,8 +7,8 @@ sourceUrl: https://www.bbc.co.uk/news/health-49270325
 ampUrl: https://www.bbc.co.uk/news/amp/health-49270325
 cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/health-49270325
 type: article
-quality: 72
-score: 72
+quality: 62
+score: 62
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "This kind of object recognition is sometimes called computer vision, 
 publishedDateTime: 2019-07-25T00:00:00Z
 sourceUrl: https://newatlas.com/hololens-2-artificial-intelligence/50609/
 type: article
-quality: 75
-score: 75
+quality: 65
+score: 65
 published: true
 
 provider:

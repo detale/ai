@@ -7,8 +7,8 @@ sourceUrl: https://fortune.com/2019/08/06/world-economic-forum-artificial-intell
 ampUrl: https://fortune.com/2019/08/06/world-economic-forum-artificial-intelligence/amp/
 cdnAmpUrl: https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2019/08/06/world-economic-forum-artificial-intelligence/amp/
 type: article
-quality: 95
-score: 95
+quality: 84
+score: 84
 published: true
 
 provider:

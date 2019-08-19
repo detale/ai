@@ -5,8 +5,8 @@ abstract: "Because Azure can handle the large volume of data needed to effective
 publishedDateTime: 2019-08-05T20:08:00Z
 sourceUrl: https://seekingalpha.com/article/4281656-microsoft-azure-enabling-big-shift-hybrid-capabilities
 type: article
-quality: 32
-score: 32
+quality: 21
+score: 21
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/07/16/uber-open-sources-plato-for-develo
 ampUrl: https://venturebeat.com/2019/07/16/uber-open-sources-plato-for-developing-and-testing-conversational-ai/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/07/16/uber-open-sources-plato-for-developing-and-testing-conversational-ai/amp/
 type: article
-quality: 42
-score: 42
+quality: 31
+score: 31
 published: false
 
 provider:

@@ -7,8 +7,8 @@ sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/08/05/scale-plans-
 ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/08/05/scale-plans-to-triple-its-workforce-to-over-300.amp.html
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/08/05/scale-plans-to-triple-its-workforce-to-over-300.amp.html
 type: article
-quality: 22
-score: 22
+quality: 11
+score: 11
 published: false
 
 provider:

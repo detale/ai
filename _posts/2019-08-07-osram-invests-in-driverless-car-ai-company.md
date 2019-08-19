@@ -5,8 +5,8 @@ abstract: "In its most recent example, it has invested in a Silicon Valley firm 
 publishedDateTime: 2019-08-08T05:31:00Z
 sourceUrl: https://www.ledsmagazine.com/leds-ssl-design/networks-controls/article/14038034/osram-invests-in-driverless-car-ai-company
 type: article
-quality: 39
-score: 39
+quality: 29
+score: 29
 published: false
 
 provider:

@@ -5,8 +5,8 @@ abstract: "NEW YORK, Aug 07, 2019 (GLOBE NEWSWIRE via COMTEX) -- NEW YORK, Aug. 
 publishedDateTime: 2019-08-08T03:02:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cms-grants-new-technology-add-on-payment-for-inpatient-use-of-azedrar-iobenguane-i-131-2019-08-07
 type: article
-quality: 24
-score: 24
+quality: 14
+score: 14
 published: false
 
 provider:

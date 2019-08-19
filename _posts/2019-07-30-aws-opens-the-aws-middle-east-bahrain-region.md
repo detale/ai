@@ -5,8 +5,8 @@ abstract: "... of our other AWS Regions around the world and are already seeing 
 publishedDateTime: 2019-07-31T00:37:00Z
 sourceUrl: https://www.helpnetsecurity.com/2019/07/31/aws-middle-east-region/
 type: article
-quality: 11
-score: 11
+quality: 1
+score: 1
 published: false
 
 provider:

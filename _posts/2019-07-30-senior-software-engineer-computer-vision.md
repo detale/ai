@@ -5,8 +5,8 @@ abstract: "As a leader in the Internet of Things, Bosch offers innovative soluti
 publishedDateTime: 2019-07-30T09:36:00Z
 sourceUrl: https://jobs.smartrecruiters.com/BoschGroup/743999692508527-senior-software-engineer-computer-vision
 type: article
-quality: 26
-score: 26
+quality: 15
+score: 15
 published: false
 
 provider:

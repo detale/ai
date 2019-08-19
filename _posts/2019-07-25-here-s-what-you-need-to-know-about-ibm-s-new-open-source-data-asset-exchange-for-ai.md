@@ -7,8 +7,8 @@ sourceUrl: https://thenextweb.com/artificial-intelligence/2019/07/25/heres-what-
 ampUrl: https://thenextweb.com/artificial-intelligence/2019/07/25/heres-what-you-need-to-know-about-ibms-new-open-source-data-asset-exchange-for-ai/amp/
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/artificial-intelligence/2019/07/25/heres-what-you-need-to-know-about-ibms-new-open-source-data-asset-exchange-for-ai/amp/
 type: article
-quality: 31
-score: 31
+quality: 20
+score: 20
 published: false
 
 provider:

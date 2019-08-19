@@ -5,8 +5,8 @@ abstract: "Jessica Rodgers, winner of the 2019 John R Cameron Young Investigator
 publishedDateTime: 2019-08-01T12:48:00Z
 sourceUrl: https://physicsworld.com/a/young-investigators-focus-on-brachytherapy-dose-modelling-and-deep-learning/
 type: article
-quality: 48
-score: 48
+quality: 37
+score: 37
 published: false
 
 provider:

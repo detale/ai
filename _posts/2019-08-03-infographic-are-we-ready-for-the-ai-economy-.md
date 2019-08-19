@@ -5,8 +5,8 @@ abstract: "When we hear about driverless cars and algorithms that help narrow do
 publishedDateTime: 2019-08-03T13:33:00Z
 sourceUrl: https://techaeris.com/2019/08/03/infographic-are-we-ready-for-the-ai-economy
 type: article
-quality: 20
-score: 20
+quality: 9
+score: 9
 published: false
 
 provider:

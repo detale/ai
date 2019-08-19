@@ -5,8 +5,8 @@ abstract: "These days, many of us have jobs that require us to stare at computer
 publishedDateTime: 2019-07-25T00:00:00Z
 sourceUrl: https://www.webmd.com/eye-health/computer-vision-syndrome
 type: article
-quality: 20
-score: 20
+quality: 10
+score: 10
 published: false
 
 provider:

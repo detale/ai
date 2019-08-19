@@ -5,8 +5,8 @@ abstract: "Artificial Intelligence in Automotive Market is growing rapidly due .
 publishedDateTime: 2019-07-25T19:32:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-forecast-2019-2025-growth-drivers-regional-outlook-2019-07-25
 type: article
-quality: 41
-score: 41
+quality: 30
+score: 30
 published: false
 
 provider:

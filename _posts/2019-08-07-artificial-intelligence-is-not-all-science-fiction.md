@@ -5,9 +5,9 @@ abstract: "We all get that artificial intelligence and machine learning is cool.
 publishedDateTime: 2019-08-08T04:51:00Z
 sourceUrl: https://www.irishtimes.com/business/innovation/artificial-intelligence-is-not-all-science-fiction-1.3973117
 type: article
-quality: 54
-score: 54
-published: true
+quality: 44
+score: 44
+published: false
 
 provider:
   name: The Irish Times

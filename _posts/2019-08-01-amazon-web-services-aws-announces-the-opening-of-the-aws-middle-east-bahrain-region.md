@@ -7,8 +7,8 @@ sourceUrl: https://www.ciol.com/amazon-web-services-aws-announces-opening-aws-mi
 ampUrl: https://www.ciol.com/amazon-web-services-aws-announces-opening-aws-middle-east-bahrain-region/amp/
 cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/amazon-web-services-aws-announces-opening-aws-middle-east-bahrain-region/amp/
 type: article
-quality: 68
-score: 78
+quality: 57
+score: 72
 published: true
 
 provider:
@@ -30,4 +30,6 @@ related:
     title: "AWS Launches Region in the Middle East"
   - url: https://www.helpnetsecurity.com/2019/07/31/aws-middle-east-region/
     title: "AWS opens the AWS Middle East (Bahrain) Region"
+  - url: https://www.infoq.com/news/2019/08/aws-region-middle-east-bahrain/
+    title: "Amazon Opens a New Region in Bahrain – AWS Middle East"
 ---

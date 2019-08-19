@@ -7,9 +7,9 @@ sourceUrl: https://www.benzinga.com/pressreleases/19/07/ab14166091/wimi-one-of-c
 ampUrl: https://amp.benzinga.com/amp/content/14166091
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14166091
 type: article
-quality: 51
-score: 51
-published: true
+quality: 41
+score: 41
+published: false
 
 provider:
   name: Benzinga.com

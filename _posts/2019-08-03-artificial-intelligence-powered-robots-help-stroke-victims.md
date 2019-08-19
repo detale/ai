@@ -7,8 +7,8 @@ sourceUrl: https://www.bostonherald.com/2019/08/03/artificial-intelligence-power
 ampUrl: https://www.bostonherald.com/2019/08/03/artificial-intelligence-powered-robots-help-stroke-victims/amp/
 cdnAmpUrl: https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2019/08/03/artificial-intelligence-powered-robots-help-stroke-victims/amp/
 type: article
-quality: 72
-score: 72
+quality: 61
+score: 61
 published: true
 
 provider:
